@@ -1,0 +1,16 @@
+passport,destination,code,days,only_if,except,effective,note,source
+*,GB,B,,A,IE,2026-02-25,英国 ETA 对所有免签国全面强制（爱尔兰除外）,https://bateswells.co.uk/updates/government-to-fully-enforce-electronic-travel-authorisations-from-25-february-2026/
+AD;AT;BE;BG;HR;CY;DK;EE;FI;FR;DE;GR;HU;IS;IE;IT;LV;LI;LU;MT;MC;ME;NL;MK;NO;PL;PT;RO;RU;SK;SI;ES;SE;CH;GB;BH;BN;JP;KW;OM;KR;SA;AU;NZ;AR;BR;CA;CL;PE;UY,CN,A,30,,,2025-11-04,中国单方面免签 50 国，延至 2026-12-31（英、加 2026-02 加入）,https://hr.china-embassy.gov.cn/eng/qzfw/Visa/202511/t20251104_11746850.htm
+MY;UZ;AZ,CN,A,30,,,2025-07-17,中马/中乌/中阿互免签证,https://www.chinaservicesinfo.com/s/202507/17/WS6916da92498e23165e06a7b2/china-malaysia-mutual-visa-free-agreement-comes-into-force.html
+CN,MY;UZ;AZ,A,30,,,2025-07-17,中马/中乌/中阿互免签证,https://eiglaw.com/china-and-azerbaijan-implement-mutual-visa-free-travel-agreement/
+CN,RU,A,30,,,2025-12-01,俄罗斯对中国公民免签 30 天（试行至 2026-09-14，需复核是否延长）,https://www.bloomberg.com/news/articles/2025-12-01/putin-allows-visa-free-entry-for-chinese-citizens-into-russia
+AF;MM;TD;CG;GQ;ER;HT;IR;LY;SO;SD;YE;BF;LA;ML;NE;SL;SS;SY;PS,US,F,,,,2026-01-01,美国第 10998 号公告：全面暂停入境,https://www.fragomen.com/insights/united-states-travel-ban-expanded-and-revised-effective-january-1-2026.html
+AO;AG;BJ;BI;CI;CU;DM;GA;GM;MW;MR;NG;SN;TZ;TG;TO;VE;ZM;ZW,US,F,,,,2026-01-01,美国第 10998 号公告：暂停 B/F/M/J 签证，旅游签无法获得,https://www.fragomen.com/insights/united-states-travel-ban-expanded-and-revised-effective-january-1-2026.html
+*,TH,D,,A;C,,2026-09-15,泰国免签名单由 93 国缩至 60 国，被移出者改走电子签,https://vialtopartners.com/regional-alerts/thailand-immigration-changes-to-visa-exemption-scheme-effective-15-september-2026
+AU;IS;OM;AT;IN;PH;BH;ID;PL;BE;IE;PT;BT;IL;QA;BN;IT;RO;BG;JP;SA;CA;JO;SG;HR;KW;SK;CY;KG;SI;CZ;LV;ZA;DK;LI;ES;EE;LT;SE;FJ;LU;CH;FI;MY;TW;FR;MV;TR;GE;MT;UA;DE;NL;AE;GR;NZ;GB;HU;NO;US,TH,A,30,,,2026-09-15,泰国 30 天免签（仅旅游）,https://vialtopartners.com/regional-alerts/thailand-immigration-changes-to-visa-exemption-scheme-effective-15-september-2026
+CN;HK;MO;KZ;MN;RU;LA;VN;TL,TH,A,30,,,2026-09-15,泰国双边免签 30 天,https://en.wikipedia.org/wiki/Visa_policy_of_Thailand
+AR;BR;CL;PE;KR,TH,A,90,,,2026-09-15,泰国双边免签 90 天,https://en.wikipedia.org/wiki/Visa_policy_of_Thailand
+MU;SC,TH,A,15,,,2026-09-15,泰国 15 天免签,https://vialtopartners.com/regional-alerts/thailand-immigration-changes-to-visa-exemption-scheme-effective-15-september-2026
+KH;MM,TH,A,14,,,2026-09-15,泰国双边免签 14 天,https://en.wikipedia.org/wiki/Visa_policy_of_Thailand
+AZ;BY;RS,TH,C,15,,,2026-09-15,泰国落地签仅剩 3 国,https://vialtopartners.com/regional-alerts/thailand-immigration-changes-to-visa-exemption-scheme-effective-15-september-2026
+*,KP,F,,,RU,,朝鲜旅游自 2020 年起基本关闭，仅俄罗斯旅行团可入境（判断项）,

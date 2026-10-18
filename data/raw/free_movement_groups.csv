@@ -1,0 +1,8 @@
+group,enabled,members,note
+EU_EEA_CH,1,AT;BE;BG;HR;CY;CZ;DK;EE;FI;FR;DE;GR;HU;IE;IT;LV;LT;LU;MT;NL;PL;PT;RO;SK;SI;ES;SE;IS;LI;NO;CH;AD;MC;SM;VA,欧盟+EEA+瑞士自由流动，身份证可通行；含安道尔/摩纳哥/圣马力诺/梵蒂冈（开放边境）
+CTA,1,GB;IE,英爱共同旅行区
+GCC,1,SA;AE;QA;KW;BH;OM,海合会公民持身份证互通
+MERCOSUR,1,AR;BR;PY;UY;BO;CL;CO;EC;PE,南方共同市场及联系国，身份证可通行（委内瑞拉已被暂停）
+CA4,1,GT;HN;SV;NI,中美洲四国边境管制协议
+EAEU,0,RU;BY;KZ;KG;AM,欧亚经济联盟国内护照/身份证通行——各国组合规则不一，默认关闭
+ECOWAS,0,BJ;CV;CI;GM;GH;GN;GW;LR;NG;SN;SL;TG,西非经共体自由流动——身份证通行在实践中不稳定，默认关闭
