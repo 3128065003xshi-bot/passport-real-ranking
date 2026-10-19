@@ -207,7 +207,7 @@ def main():
 
     OUT.mkdir(exist_ok=True)
     path = OUT / "passport-real-ranking-2026.mp4"
-    writer = imageio_ffmpeg.write_frames(str(path), (W, H), fps=FPS, codec="libx264", quality=None,
+    writer = imageio_ffmpeg.write_frames(str(path), (W, H), fps=FPS, codec="libx264", quality=None, macro_block_size=1,
                                          output_params=["-crf", "20", "-preset", "medium", "-pix_fmt", "yuv420p"])
     writer.send(None)
     n = int(total * FPS)
