@@ -1,0 +1,199 @@
+﻿passport_iso2,passport,passport_zh,access,code,max_stay_days,passport_rank,note
+HK,Hong Kong,中国香港,Visa-free,A,90,37,
+CL,Chile,智利,Visa-free,A,90,46,
+BB,Barbados,巴巴多斯,Visa-free,A,180,50,
+UY,Uruguay,乌拉圭,Visa-free,A,90,51,
+MX,Mexico,墨西哥,Visa-free,A,90,52,
+BS,Bahamas,巴哈马,Visa-free,A,180,59,
+PA,Panama,巴拿马,Visa-free,A,90,61,
+MO,Macao,中国澳门,Visa-free,A,31,62,
+AG,Antigua and Barbuda,安提瓜和巴布达,Visa-free,A,,64,
+VC,Saint Vincent and the Grenadines,圣文森特和格林纳丁斯,Visa-free,A,,65,
+RS,Serbia,塞尔维亚,Visa-free,A,90,66,Wikipedia: Visa not required
+TT,Trinidad and Tobago,特立尼达和多巴哥,Visa-free,A,180,67,
+DM,Dominica,多米尼克,Visa-free,A,,70,
+SC,Seychelles,塞舌尔,Visa-free,A,90,71,
+MU,Mauritius,毛里求斯,Visa-free,A,90,72,
+SV,El Salvador,萨尔瓦多,Visa-free,A,90,73,
+GD,Grenada,格林纳达,Visa-free,A,,74,
+LC,Saint Lucia,圣卢西亚,Visa-free,A,,78,
+GT,Guatemala,危地马拉,Visa-free,A,90,81,
+NI,Nicaragua,尼加拉瓜,Visa-free,A,90,82,
+HN,Honduras,洪都拉斯,Visa-free,A,90,86,
+EC,Ecuador,厄瓜多尔,Visa-free,A,90,101,
+BZ,Belize,伯利兹,Visa-free,A,180,102,
+JM,Jamaica,牙买加,Visa-free,A,180,103,
+KZ,Kazakhstan,哈萨克斯坦,Visa-free,A,90,110,
+SR,Suriname,苏里南,Visa-free,A,180,113,
+GY,Guyana,圭亚那,Visa-free,A,180,114,
+BW,Botswana,博茨瓦纳,Visa-free,A,90,124,
+AZ,Azerbaijan,阿塞拜疆,Visa-free,A,30,125,Wikipedia: Visa not required
+LS,Lesotho,莱索托,Visa-free,A,90,127,
+SZ,Eswatini,斯威士兰,Visa-free,A,90,130,
+TZ,Tanzania,坦桑尼亚,Visa-free,A,90,148,
+SL,Sierra Leone,塞拉利昂,Visa-free,A,90,174,
+GM,Gambia,冈比亚,Visa-free,A,90,181,
+NG,Nigeria,尼日利亚,Visa-free,A,90,194,
+SG,Singapore,新加坡,ETA (pre-travel authorisation),B,90,1,Wikipedia: Electronic Travel Authorisation
+DK,Denmark,丹麦,ETA (pre-travel authorisation),B,90,2,Wikipedia: Electronic Travel Authorisation
+FI,Finland,芬兰,ETA (pre-travel authorisation),B,90,2,Wikipedia: Electronic Travel Authorisation
+NO,Norway,挪威,ETA (pre-travel authorisation),B,90,2,Wikipedia: Electronic Travel Authorisation
+HR,Croatia,克罗地亚,ETA (pre-travel authorisation),B,90,5,Wikipedia: Electronic Travel Authorisation
+NL,Netherlands,荷兰,ETA (pre-travel authorisation),B,90,6,Wikipedia: EU/EEA consensus: B on >= 70% of EU/EEA pages (own page: Visa not required)
+ES,Spain,西班牙,ETA (pre-travel authorisation),B,90,6,Wikipedia: Electronic Travel Authorisation}}
+SE,Sweden,瑞典,ETA (pre-travel authorisation),B,90,6,Wikipedia: Electronic Travel Authorization
+CH,Switzerland,瑞士,ETA (pre-travel authorisation),B,90,9,Wikipedia: Electronic Travel Authorisation}}
+LU,Luxembourg,卢森堡,ETA (pre-travel authorisation),B,90,10,Wikipedia: Electronic Travel Authorisation
+BE,Belgium,比利时,ETA (pre-travel authorisation),B,90,11,Wikipedia: Electronic Travel Authorisation
+FR,France,法国,ETA (pre-travel authorisation),B,,12,Wikipedia: ETA
+HU,Hungary,匈牙利,ETA (pre-travel authorisation),B,90,13,Wikipedia: ETA}}
+PL,Poland,波兰,ETA (pre-travel authorisation),B,,14,Wikipedia: Electronic Travel Authorisation
+DE,Germany,德国,ETA (pre-travel authorisation),B,,15,Wikipedia: ETA}}
+AT,Austria,奥地利,ETA (pre-travel authorisation),B,,16,Wikipedia: Electronic Travel Authorisation
+IE,Ireland,爱尔兰,ETA (pre-travel authorisation),B,90,17,Wikipedia: Electronic Travel Authorisation
+IT,Italy,意大利,ETA (pre-travel authorisation),B,180,18,Wikipedia: Electronic Travel Authorisation
+GR,Greece,希腊,ETA (pre-travel authorisation),B,90,19,Wikipedia: Electronic Travel Authorization}}
+PT,Portugal,葡萄牙,ETA (pre-travel authorisation),B,90,20,Wikipedia: Electronic Travel Authorisation
+MT,Malta,马耳他,ETA (pre-travel authorisation),B,90,21,Wikipedia: Electronic Travel Authorisation}}
+SI,Slovenia,斯洛文尼亚,ETA (pre-travel authorisation),B,90,22,Wikipedia: Electronic Travel Authorisation
+SK,Slovakia,斯洛伐克,ETA (pre-travel authorisation),B,90,23,Wikipedia: Electronic Travel Authorisation
+KR,South Korea,韩国,ETA (pre-travel authorisation),B,90,24,Wikipedia: Electronic Travel Authorisation
+JP,Japan,日本,ETA (pre-travel authorisation),B,90,25,Wikipedia: Electronic Travel Authorisation
+AE,United Arab Emirates,阿联酋,ETA (pre-travel authorisation),B,90,26,Wikipedia: Electronic Travel Authorisation
+IS,Iceland,冰岛,ETA (pre-travel authorisation),B,90,27,Wikipedia: Electronic Travel Authorisation
+EE,Estonia,爱沙尼亚,ETA (pre-travel authorisation),B,90,28,Wikipedia: Electronic Travel Authorisation
+LI,Liechtenstein,列支敦士登,ETA (pre-travel authorisation),B,90,29,Wikipedia: Electronic Travel Authorisation
+BG,Bulgaria,保加利亚,ETA (pre-travel authorisation),B,90,30,Wikipedia: ETA}}
+RO,Romania,罗马尼亚,ETA (pre-travel authorisation),B,90,30,Wikipedia: ETA}}
+LV,Latvia,拉脱维亚,ETA (pre-travel authorisation),B,90,32,Wikipedia: Electronic Travel Authorisation
+MY,Malaysia,马来西亚,ETA (pre-travel authorisation),B,90,33,Wikipedia: Electronic Travel Authorisation
+LT,Lithuania,立陶宛,ETA (pre-travel authorisation),B,90,34,Wikipedia: EU/EEA consensus: B on >= 70% of EU/EEA pages (own page: Visa not required)
+CZ,Czechia,捷克,ETA (pre-travel authorisation),B,90,35,Wikipedia: Electronic Travel Authorisation
+CY,Cyprus,塞浦路斯,ETA (pre-travel authorisation),B,90,36,Wikipedia: Electronic Travel Authorisation
+NZ,New Zealand,新西兰,ETA (pre-travel authorisation),B,90,38,Wikipedia: Electronic Travel Authorisation
+AU,Australia,澳大利亚,ETA (pre-travel authorisation),B,90,39,Wikipedia: Electronic Travel Authorisation
+MC,Monaco,摩纳哥,ETA (pre-travel authorisation),B,90,40,Wikipedia: Electronic Travel Authorisation
+GB,United Kingdom,英国,ETA (pre-travel authorisation),B,180,41,Wikipedia: Electronic Travel Authorisation}}
+CA,Canada,加拿大,ETA (pre-travel authorisation),B,,42,Wikipedia: Electronic Travel Authorisation
+US,United States,美国,ETA (pre-travel authorisation),B,,43,Wikipedia: Electronic Travel Authorisation
+BR,Brazil,巴西,ETA (pre-travel authorisation),B,90,47,Wikipedia: Electronic Travel Authorisation
+AR,Argentina,阿根廷,ETA (pre-travel authorisation),B,,48,Wikipedia: ETA}}
+BN,Brunei,文莱,ETA (pre-travel authorisation),B,90,49,Wikipedia: Electronic Travel Authorisation
+VA,Holy See (Vatican City),梵蒂冈,ETA (pre-travel authorisation),B,90,53,Wikipedia: Electronic Travel Authorisation
+IL,Israel,以色列,ETA (pre-travel authorisation),B,90,54,Wikipedia: Electronic Travel Authorisation
+CR,Costa Rica,哥斯达黎加,ETA (pre-travel authorisation),B,90,55,Wikipedia: Electronic Travel Authorisation
+PY,Paraguay,巴拉圭,ETA (pre-travel authorisation),B,90,56,Wikipedia: Electronic Travel Authorisation
+PE,Peru,秘鲁,ETA (pre-travel authorisation),B,90,57,Wikipedia: Electronic Travel Authorisation
+UA,Ukraine,乌克兰,ETA (pre-travel authorisation),B,90,58,Wikipedia: Electronic Travel Authorization
+TW,Taiwan,台湾,ETA (pre-travel authorisation),B,90,63,Wikipedia: Electronic Travel Authorisation
+ME,Montenegro,黑山,ETA (pre-travel authorisation),B,,68,Wikipedia: Electronic Travel Authorisation
+CO,Colombia,哥伦比亚,ETA (pre-travel authorisation),B,90,69,Wikipedia: Electronic Travel Authorisation
+MK,North Macedonia,北马其顿,ETA (pre-travel authorisation),B,,75,Wikipedia: Electronic Travel Authorisation
+GE,Georgia,格鲁吉亚,ETA (pre-travel authorisation),B,90,76,Wikipedia: Electronic Travel Authorisation
+AL,Albania,阿尔巴尼亚,ETA (pre-travel authorisation),B,90,79,Wikipedia: Electronic Travel Authorisation
+SB,Solomon Islands,所罗门群岛,ETA (pre-travel authorisation),B,,80,Wikipedia: Electronic Travel Authorisation
+MH,Marshall Islands,马绍尔群岛,ETA (pre-travel authorisation),B,90,83,Wikipedia: Electronic Travel Authorisation
+TV,Tuvalu,图瓦卢,ETA (pre-travel authorisation),B,90,85,Wikipedia: Electronic Travel Authorisation
+MD,Moldova,摩尔多瓦,ETA (pre-travel authorisation),B,90,87,Wikipedia: Electronic Travel Authorisation
+TO,Tonga,汤加,ETA (pre-travel authorisation),B,,88,Wikipedia: Electronic Travel Authorisation
+KI,Kiribati,基里巴斯,ETA (pre-travel authorisation),B,90,90,Wikipedia: Electronic Travel Authorisation
+VE,Venezuela,委内瑞拉,ETA (pre-travel authorisation),B,,92,Wikipedia: Electronic Travel Authorisation
+QA,Qatar,卡塔尔,ETA (pre-travel authorisation),B,90,94,Wikipedia: Electronic Travel Authorisation
+RU,Russia,俄罗斯,ETA (pre-travel authorisation),B,,95,Wikipedia: Electronic Travel Authorisation
+TR,Türkiye,土耳其,ETA (pre-travel authorisation),B,90,96,Wikipedia: Electronic Travel Authorisation
+KW,Kuwait,科威特,ETA (pre-travel authorisation),B,90,98,Wikipedia: Electronic Travel Authorisation
+SA,Saudi Arabia,沙特阿拉伯,ETA (pre-travel authorisation),B,90,99,Wikipedia: Electronic Travel Authorisation
+ZA,South Africa,南非,ETA (pre-travel authorisation),B,90,100,Wikipedia: Electronic Travel Authorisation
+BH,Bahrain,巴林,ETA (pre-travel authorisation),B,90,104,Wikipedia: Electronic Travel Authorisation
+MV,Maldives,马尔代夫,ETA (pre-travel authorisation),B,,106,Wikipedia: Electronic Travel Authorisation
+FJ,Fiji,斐济,ETA (pre-travel authorisation),B,90,107,Wikipedia: Electronic Travel Authorisation
+BY,Belarus,白俄罗斯,ETA (pre-travel authorisation),B,30,109,Wikipedia: Electronic Travel Authorisation
+CN,China,中国,ETA (pre-travel authorisation),B,90,111,Visa-free but an electronic travel authorisation is required
+BO,Bolivia,玻利维亚,ETA (pre-travel authorisation),B,90,112,Wikipedia: Electronic Travel Authorisation
+ID,Indonesia,印度尼西亚,ETA (pre-travel authorisation),B,90,116,Wikipedia: Electronic Travel Authorisation
+VU,Vanuatu,瓦努阿图,ETA (pre-travel authorisation),B,90,117,Wikipedia: Electronic Travel Authorisation
+NR,Nauru,瑙鲁,ETA (pre-travel authorisation),B,90,119,Wikipedia: Electronic Travel Authorisation
+PG,Papua New Guinea,巴布亚新几内亚,ETA (pre-travel authorisation),B,90,123,Wikipedia: Electronic Travel Authorisation
+IN,India,印度,ETA (pre-travel authorisation),B,90,131,Wikipedia: Electronic Travel Authorisation
+JO,Jordan,约旦,ETA (pre-travel authorisation),B,90,135,Wikipedia: Electronic Travel Authorisation
+MW,Malawi,马拉维,ETA (pre-travel authorisation),B,90,136,Wikipedia: Electronic Travel Authorisation
+UG,Uganda,乌干达,ETA (pre-travel authorisation),B,90,138,Wikipedia: Electronic Travel Authorisation
+GH,Ghana,加纳,ETA (pre-travel authorisation),B,90,140,Wikipedia: Electronic Travel Authorisation
+KE,Kenya,肯尼亚,ETA (pre-travel authorisation),B,90,141,Wikipedia: Electronic Travel Authorisation
+ZW,Zimbabwe,津巴布韦,ETA (pre-travel authorisation),B,90,143,Wikipedia: Electronic Travel Authorisation
+CU,Cuba,古巴,ETA (pre-travel authorisation),B,90,145,Wikipedia: Electronic Travel Authorisation
+ZM,Zambia,赞比亚,ETA (pre-travel authorisation),B,90,153,Wikipedia: Electronic Travel Authorisation
+EG,Egypt,埃及,ETA (pre-travel authorisation),B,90,164,Wikipedia: Electronic Travel Authorisation
+LK,Sri Lanka,斯里兰卡,ETA (pre-travel authorisation),B,90,183,Wikipedia: Electronic Travel Authorisation
+BD,Bangladesh,孟加拉国,ETA (pre-travel authorisation),B,90,191,Wikipedia: Electronic Travel Authorisation
+AD,Andorra,安道尔,e-Visa,D,,44,
+SM,San Marino,圣马力诺,e-Visa,D,,45,
+WS,Samoa,萨摩亚,e-Visa,D,,77,
+BA,Bosnia and Herzegovina,波斯尼亚和黑塞哥维那,e-Visa,D,,84,
+PW,Palau,帕劳,e-Visa,D,,89,
+FM,Micronesia,密克罗尼西亚联邦,e-Visa,D,,91,
+TL,Timor-Leste,东帝汶,e-Visa,D,,93,
+XK,Kosovo,科索沃,e-Visa,D,,97,
+OM,Oman,阿曼,e-Visa,D,,105,
+TH,Thailand,泰国,e-Visa,D,,108,
+DO,Dominican Republic,多米尼加,e-Visa,D,,115,
+MN,Mongolia,蒙古,e-Visa,D,,118,
+MA,Morocco,摩洛哥,e-Visa,D,,120,
+PH,Philippines,菲律宾,e-Visa,D,,121,
+AM,Armenia,亚美尼亚,e-Visa,D,,122,
+UZ,Uzbekistan,乌兹别克斯坦,e-Visa,D,,126,
+NA,Namibia,纳米比亚,e-Visa,D,,128,
+TN,Tunisia,突尼斯,e-Visa,D,,129,
+VN,Vietnam,越南,e-Visa,D,,132,
+KG,Kyrgyzstan,吉尔吉斯斯坦,e-Visa,D,,133,
+KH,Cambodia,柬埔寨,e-Visa,D,,134,
+TJ,Tajikistan,塔吉克斯坦,e-Visa,D,,137,
+BT,Bhutan,不丹,e-Visa,D,,139,
+ST,Sao Tome and Principe,圣多美和普林西比,e-Visa,D,,142,
+CV,Cabo Verde,佛得角,e-Visa,D,,144,
+MG,Madagascar,马达加斯加,e-Visa,D,,146,
+HT,Haiti,海地,e-Visa,D,,147,
+SN,Senegal,塞内加尔,e-Visa,D,,149,
+DZ,Algeria,阿尔及利亚,e-Visa,D,,150,
+BJ,Benin,贝宁,e-Visa,D,,151,
+NE,Niger,尼日尔,e-Visa,D,,152,
+RW,Rwanda,卢旺达,e-Visa,D,,154,
+PS,Palestine,巴勒斯坦,e-Visa,D,,155,
+GN,Guinea,几内亚,e-Visa,D,,156,
+MZ,Mozambique,莫桑比克,e-Visa,D,,157,
+LA,Laos,老挝,e-Visa,D,,158,
+TM,Turkmenistan,土库曼斯坦,e-Visa,D,,159,
+KM,Comoros,科摩罗,e-Visa,D,,160,
+GQ,Equatorial Guinea,赤道几内亚,e-Visa,D,,161,
+AO,Angola,安哥拉,e-Visa,D,,162,
+CI,Côte d'Ivoire,科特迪瓦,e-Visa,D,,163,
+TG,Togo,多哥,e-Visa,D,,165,
+BF,Burkina Faso,布基纳法索,e-Visa,D,,166,
+MR,Mauritania,毛里塔尼亚,e-Visa,D,,167,
+LB,Lebanon,黎巴嫩,e-Visa,D,,168,
+GA,Gabon,加蓬,e-Visa,D,,169,
+MM,Myanmar,缅甸,e-Visa,D,,170,
+ML,Mali,马里,e-Visa,D,,171,
+TD,Chad,乍得,e-Visa,D,,172,
+GW,Guinea-Bissau,几内亚比绍,e-Visa,D,,173,
+DJ,Djibouti,吉布提,e-Visa,D,,175,
+CF,Central African Republic,中非,e-Visa,D,,176,
+CM,Cameroon,喀麦隆,e-Visa,D,,177,
+NP,Nepal,尼泊尔,e-Visa,D,,178,
+BI,Burundi,布隆迪,e-Visa,D,,179,
+LY,Libya,利比亚,e-Visa,D,,180,
+LR,Liberia,利比里亚,e-Visa,D,,182,
+IR,Iran,伊朗,e-Visa,D,,184,
+CG,Congo,刚果（布）,e-Visa,D,,185,
+ET,Ethiopia,埃塞俄比亚,e-Visa,D,,186,
+KP,North Korea,朝鲜,e-Visa,D,,187,
+CD,Democratic Republic of the Congo,刚果（金）,e-Visa,D,,188,
+SD,Sudan,苏丹,e-Visa,D,,189,
+YE,Yemen,也门,e-Visa,D,,190,
+ER,Eritrea,厄立特里亚,e-Visa,D,,192,
+PK,Pakistan,巴基斯坦,e-Visa,D,,193,
+SO,Somalia,索马里,e-Visa,D,,195,
+SS,South Sudan,南苏丹,e-Visa,D,,196,
+IQ,Iraq,伊拉克,e-Visa,D,,197,
+SY,Syria,叙利亚,e-Visa,D,,198,
+AF,Afghanistan,阿富汗,e-Visa,D,,199,

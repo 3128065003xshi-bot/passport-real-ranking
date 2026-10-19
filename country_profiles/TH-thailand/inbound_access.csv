@@ -1,0 +1,199 @@
+﻿passport_iso2,passport,passport_zh,access,code,max_stay_days,passport_rank,note
+SG,Singapore,新加坡,Visa-free,A,30,1,Thailand 30-day visa exemption (tourism only)
+DK,Denmark,丹麦,Visa-free,A,30,2,Thailand 30-day visa exemption (tourism only)
+FI,Finland,芬兰,Visa-free,A,30,2,Thailand 30-day visa exemption (tourism only)
+NO,Norway,挪威,Visa-free,A,30,2,Thailand 30-day visa exemption (tourism only)
+HR,Croatia,克罗地亚,Visa-free,A,30,5,Thailand 30-day visa exemption (tourism only)
+NL,Netherlands,荷兰,Visa-free,A,30,6,Thailand 30-day visa exemption (tourism only)
+ES,Spain,西班牙,Visa-free,A,30,6,Thailand 30-day visa exemption (tourism only)
+SE,Sweden,瑞典,Visa-free,A,30,6,Thailand 30-day visa exemption (tourism only)
+CH,Switzerland,瑞士,Visa-free,A,30,9,Thailand 30-day visa exemption (tourism only)
+LU,Luxembourg,卢森堡,Visa-free,A,30,10,Thailand 30-day visa exemption (tourism only)
+BE,Belgium,比利时,Visa-free,A,30,11,Thailand 30-day visa exemption (tourism only)
+FR,France,法国,Visa-free,A,30,12,Thailand 30-day visa exemption (tourism only)
+HU,Hungary,匈牙利,Visa-free,A,30,13,Thailand 30-day visa exemption (tourism only)
+PL,Poland,波兰,Visa-free,A,30,14,Thailand 30-day visa exemption (tourism only)
+DE,Germany,德国,Visa-free,A,30,15,Thailand 30-day visa exemption (tourism only)
+AT,Austria,奥地利,Visa-free,A,30,16,Thailand 30-day visa exemption (tourism only)
+IE,Ireland,爱尔兰,Visa-free,A,30,17,Thailand 30-day visa exemption (tourism only)
+IT,Italy,意大利,Visa-free,A,30,18,Thailand 30-day visa exemption (tourism only)
+GR,Greece,希腊,Visa-free,A,30,19,Thailand 30-day visa exemption (tourism only)
+PT,Portugal,葡萄牙,Visa-free,A,30,20,Thailand 30-day visa exemption (tourism only)
+MT,Malta,马耳他,Visa-free,A,30,21,Thailand 30-day visa exemption (tourism only)
+SI,Slovenia,斯洛文尼亚,Visa-free,A,30,22,Thailand 30-day visa exemption (tourism only)
+SK,Slovakia,斯洛伐克,Visa-free,A,30,23,Thailand 30-day visa exemption (tourism only)
+KR,South Korea,韩国,Visa-free,A,90,24,"Thailand bilateral visa exemption, 90 days"
+JP,Japan,日本,Visa-free,A,30,25,Thailand 30-day visa exemption (tourism only)
+AE,United Arab Emirates,阿联酋,Visa-free,A,30,26,Thailand 30-day visa exemption (tourism only)
+IS,Iceland,冰岛,Visa-free,A,30,27,Thailand 30-day visa exemption (tourism only)
+EE,Estonia,爱沙尼亚,Visa-free,A,30,28,Thailand 30-day visa exemption (tourism only)
+LI,Liechtenstein,列支敦士登,Visa-free,A,30,29,Thailand 30-day visa exemption (tourism only)
+BG,Bulgaria,保加利亚,Visa-free,A,30,30,Thailand 30-day visa exemption (tourism only)
+RO,Romania,罗马尼亚,Visa-free,A,30,30,Thailand 30-day visa exemption (tourism only)
+LV,Latvia,拉脱维亚,Visa-free,A,30,32,Thailand 30-day visa exemption (tourism only)
+MY,Malaysia,马来西亚,Visa-free,A,30,33,Thailand 30-day visa exemption (tourism only)
+LT,Lithuania,立陶宛,Visa-free,A,30,34,Thailand 30-day visa exemption (tourism only)
+CZ,Czechia,捷克,Visa-free,A,30,35,Thailand 30-day visa exemption (tourism only)
+CY,Cyprus,塞浦路斯,Visa-free,A,30,36,Thailand 30-day visa exemption (tourism only)
+HK,Hong Kong,中国香港,Visa-free,A,30,37,"Thailand bilateral visa exemption, 30 days"
+NZ,New Zealand,新西兰,Visa-free,A,30,38,Thailand 30-day visa exemption (tourism only)
+AU,Australia,澳大利亚,Visa-free,A,30,39,Thailand 30-day visa exemption (tourism only)
+GB,United Kingdom,英国,Visa-free,A,30,41,Thailand 30-day visa exemption (tourism only)
+CA,Canada,加拿大,Visa-free,A,30,42,Thailand 30-day visa exemption (tourism only)
+US,United States,美国,Visa-free,A,30,43,Thailand 30-day visa exemption (tourism only)
+CL,Chile,智利,Visa-free,A,90,46,"Thailand bilateral visa exemption, 90 days"
+BR,Brazil,巴西,Visa-free,A,90,47,"Thailand bilateral visa exemption, 90 days"
+AR,Argentina,阿根廷,Visa-free,A,90,48,"Thailand bilateral visa exemption, 90 days"
+BN,Brunei,文莱,Visa-free,A,30,49,Thailand 30-day visa exemption (tourism only)
+IL,Israel,以色列,Visa-free,A,30,54,Thailand 30-day visa exemption (tourism only)
+PE,Peru,秘鲁,Visa-free,A,90,57,"Thailand bilateral visa exemption, 90 days"
+UA,Ukraine,乌克兰,Visa-free,A,30,58,Thailand 30-day visa exemption (tourism only)
+MO,Macao,中国澳门,Visa-free,A,30,62,"Thailand bilateral visa exemption, 30 days"
+TW,Taiwan,台湾,Visa-free,A,30,63,Thailand 30-day visa exemption (tourism only)
+SC,Seychelles,塞舌尔,Visa-free,A,15,71,Thailand 15-day visa exemption
+MU,Mauritius,毛里求斯,Visa-free,A,15,72,Thailand 15-day visa exemption
+GE,Georgia,格鲁吉亚,Visa-free,A,30,76,Thailand 30-day visa exemption (tourism only)
+TL,Timor-Leste,东帝汶,Visa-free,A,30,93,"Thailand bilateral visa exemption, 30 days"
+QA,Qatar,卡塔尔,Visa-free,A,30,94,Thailand 30-day visa exemption (tourism only)
+RU,Russia,俄罗斯,Visa-free,A,30,95,"Thailand bilateral visa exemption, 30 days"
+TR,Türkiye,土耳其,Visa-free,A,30,96,Thailand 30-day visa exemption (tourism only)
+KW,Kuwait,科威特,Visa-free,A,30,98,Thailand 30-day visa exemption (tourism only)
+SA,Saudi Arabia,沙特阿拉伯,Visa-free,A,30,99,Thailand 30-day visa exemption (tourism only)
+ZA,South Africa,南非,Visa-free,A,30,100,Thailand 30-day visa exemption (tourism only)
+BH,Bahrain,巴林,Visa-free,A,30,104,Thailand 30-day visa exemption (tourism only)
+OM,Oman,阿曼,Visa-free,A,30,105,Thailand 30-day visa exemption (tourism only)
+MV,Maldives,马尔代夫,Visa-free,A,30,106,Thailand 30-day visa exemption (tourism only)
+FJ,Fiji,斐济,Visa-free,A,30,107,Thailand 30-day visa exemption (tourism only)
+KZ,Kazakhstan,哈萨克斯坦,Visa-free,A,30,110,"Thailand bilateral visa exemption, 30 days"
+CN,China,中国,Visa-free,A,30,111,"Thailand bilateral visa exemption, 30 days"
+ID,Indonesia,印度尼西亚,Visa-free,A,30,116,Thailand 30-day visa exemption (tourism only)
+MN,Mongolia,蒙古,Visa-free,A,30,118,"Thailand bilateral visa exemption, 30 days"
+PH,Philippines,菲律宾,Visa-free,A,30,121,Thailand 30-day visa exemption (tourism only)
+IN,India,印度,Visa-free,A,30,131,Thailand 30-day visa exemption (tourism only)
+VN,Vietnam,越南,Visa-free,A,30,132,"Thailand bilateral visa exemption, 30 days"
+KG,Kyrgyzstan,吉尔吉斯斯坦,Visa-free,A,30,133,Thailand 30-day visa exemption (tourism only)
+KH,Cambodia,柬埔寨,Visa-free,A,14,134,"Thailand bilateral visa exemption, 14 days"
+JO,Jordan,约旦,Visa-free,A,30,135,Thailand 30-day visa exemption (tourism only)
+BT,Bhutan,不丹,Visa-free,A,30,139,Thailand 30-day visa exemption (tourism only)
+LA,Laos,老挝,Visa-free,A,30,158,"Thailand bilateral visa exemption, 30 days"
+MM,Myanmar,缅甸,Visa-free,A,14,170,"Thailand bilateral visa exemption, 14 days"
+RS,Serbia,塞尔维亚,Visa on arrival,C,15,66,Thailand visa on arrival now limited to 3 countries
+BY,Belarus,白俄罗斯,Visa on arrival,C,15,109,Thailand visa on arrival now limited to 3 countries
+AZ,Azerbaijan,阿塞拜疆,Visa on arrival,C,15,125,Thailand visa on arrival now limited to 3 countries
+MC,Monaco,摩纳哥,e-Visa,D,,40,Thailand cut its visa-free list from 93 to 60 countries; those removed now use the e-visa
+AD,Andorra,安道尔,e-Visa,D,,44,Thailand cut its visa-free list from 93 to 60 countries; those removed now use the e-visa
+SM,San Marino,圣马力诺,e-Visa,D,,45,Thailand cut its visa-free list from 93 to 60 countries; those removed now use the e-visa
+BB,Barbados,巴巴多斯,e-Visa,D,,50,
+UY,Uruguay,乌拉圭,e-Visa,D,,51,Thailand cut its visa-free list from 93 to 60 countries; those removed now use the e-visa
+MX,Mexico,墨西哥,e-Visa,D,,52,Thailand cut its visa-free list from 93 to 60 countries; those removed now use the e-visa
+VA,Holy See (Vatican City),梵蒂冈,e-Visa,D,,53,
+CR,Costa Rica,哥斯达黎加,e-Visa,D,,55,Thailand cut its visa-free list from 93 to 60 countries; those removed now use the e-visa
+PY,Paraguay,巴拉圭,e-Visa,D,,56,Thailand cut its visa-free list from 93 to 60 countries; those removed now use the e-visa
+KN,Saint Kitts and Nevis,圣基茨和尼维斯,e-Visa,D,,60,
+PA,Panama,巴拿马,e-Visa,D,,61,Thailand cut its visa-free list from 93 to 60 countries; those removed now use the e-visa
+AG,Antigua and Barbuda,安提瓜和巴布达,e-Visa,D,,64,
+TT,Trinidad and Tobago,特立尼达和多巴哥,e-Visa,D,,67,Thailand cut its visa-free list from 93 to 60 countries; those removed now use the e-visa
+ME,Montenegro,黑山,e-Visa,D,,68,
+CO,Colombia,哥伦比亚,e-Visa,D,,69,Thailand cut its visa-free list from 93 to 60 countries; those removed now use the e-visa
+DM,Dominica,多米尼克,e-Visa,D,,70,Thailand cut its visa-free list from 93 to 60 countries; those removed now use the e-visa
+SV,El Salvador,萨尔瓦多,e-Visa,D,,73,Thailand cut its visa-free list from 93 to 60 countries; those removed now use the e-visa
+GD,Grenada,格林纳达,e-Visa,D,,74,
+MK,North Macedonia,北马其顿,e-Visa,D,,75,Wikipedia: Visa required|eVisa
+WS,Samoa,萨摩亚,e-Visa,D,,77,
+LC,Saint Lucia,圣卢西亚,e-Visa,D,,78,
+AL,Albania,阿尔巴尼亚,e-Visa,D,,79,Thailand cut its visa-free list from 93 to 60 countries; those removed now use the e-visa
+SB,Solomon Islands,所罗门群岛,e-Visa,D,,80,
+GT,Guatemala,危地马拉,e-Visa,D,,81,Thailand cut its visa-free list from 93 to 60 countries; those removed now use the e-visa
+NI,Nicaragua,尼加拉瓜,e-Visa,D,,82,Wikipedia: eVisa
+MH,Marshall Islands,马绍尔群岛,e-Visa,D,,83,
+BA,Bosnia and Herzegovina,波斯尼亚和黑塞哥维那,e-Visa,D,,84,
+TV,Tuvalu,图瓦卢,e-Visa,D,,85,
+MD,Moldova,摩尔多瓦,e-Visa,D,,87,Wikipedia: eVisa
+TO,Tonga,汤加,e-Visa,D,,88,Thailand cut its visa-free list from 93 to 60 countries; those removed now use the e-visa
+PW,Palau,帕劳,e-Visa,D,,89,Wikipedia: eVisa
+KI,Kiribati,基里巴斯,e-Visa,D,,90,
+FM,Micronesia,密克罗尼西亚联邦,e-Visa,D,,91,
+VE,Venezuela,委内瑞拉,e-Visa,D,,92,Thailand cut its visa-free list from 93 to 60 countries; those removed now use the e-visa
+XK,Kosovo,科索沃,e-Visa,D,,97,Thailand cut its visa-free list from 93 to 60 countries; those removed now use the e-visa
+EC,Ecuador,厄瓜多尔,e-Visa,D,,101,Thailand cut its visa-free list from 93 to 60 countries; those removed now use the e-visa
+BZ,Belize,伯利兹,e-Visa,D,,102,Wikipedia: eVisa
+JM,Jamaica,牙买加,e-Visa,D,,103,Thailand cut its visa-free list from 93 to 60 countries; those removed now use the e-visa
+BO,Bolivia,玻利维亚,e-Visa,D,,112,Thailand cut its visa-free list from 93 to 60 countries; those removed now use the e-visa
+SR,Suriname,苏里南,e-Visa,D,,113,
+GY,Guyana,圭亚那,e-Visa,D,,114,
+DO,Dominican Republic,多米尼加,e-Visa,D,,115,Thailand cut its visa-free list from 93 to 60 countries; those removed now use the e-visa
+VU,Vanuatu,瓦努阿图,e-Visa,D,,117,Thailand cut its visa-free list from 93 to 60 countries; those removed now use the e-visa
+NR,Nauru,瑙鲁,e-Visa,D,,119,Thailand cut its visa-free list from 93 to 60 countries; those removed now use the e-visa
+MA,Morocco,摩洛哥,e-Visa,D,,120,Thailand cut its visa-free list from 93 to 60 countries; those removed now use the e-visa
+AM,Armenia,亚美尼亚,e-Visa,D,,122,Thailand cut its visa-free list from 93 to 60 countries; those removed now use the e-visa
+PG,Papua New Guinea,巴布亚新几内亚,e-Visa,D,,123,Thailand cut its visa-free list from 93 to 60 countries; those removed now use the e-visa
+BW,Botswana,博茨瓦纳,e-Visa,D,,124,Wikipedia: eVisa
+UZ,Uzbekistan,乌兹别克斯坦,e-Visa,D,,126,Thailand cut its visa-free list from 93 to 60 countries; those removed now use the e-visa
+LS,Lesotho,莱索托,e-Visa,D,,127,Wikipedia: eVisa
+NA,Namibia,纳米比亚,e-Visa,D,,128,Thailand cut its visa-free list from 93 to 60 countries; those removed now use the e-visa
+TN,Tunisia,突尼斯,e-Visa,D,,129,Thailand cut its visa-free list from 93 to 60 countries; those removed now use the e-visa
+SZ,Eswatini,斯威士兰,e-Visa,D,,130,Wikipedia: eVisa
+MW,Malawi,马拉维,e-Visa,D,,136,Wikipedia: eVisa
+TJ,Tajikistan,塔吉克斯坦,e-Visa,D,,137,
+UG,Uganda,乌干达,e-Visa,D,,138,Wikipedia: eVisa
+GH,Ghana,加纳,e-Visa,D,,140,Wikipedia: eVisa
+KE,Kenya,肯尼亚,e-Visa,D,,141,Wikipedia: eVisa
+ST,Sao Tome and Principe,圣多美和普林西比,e-Visa,D,,142,Wikipedia: eVisa
+ZW,Zimbabwe,津巴布韦,e-Visa,D,,143,Wikipedia: eVisa
+CV,Cabo Verde,佛得角,e-Visa,D,,144,Wikipedia: eVisa
+CU,Cuba,古巴,e-Visa,D,,145,Thailand cut its visa-free list from 93 to 60 countries; those removed now use the e-visa
+MG,Madagascar,马达加斯加,e-Visa,D,,146,Wikipedia: eVisa
+HT,Haiti,海地,e-Visa,D,,147,Wikipedia: eVisa
+TZ,Tanzania,坦桑尼亚,e-Visa,D,,148,Wikipedia: eVisa
+SN,Senegal,塞内加尔,e-Visa,D,,149,Wikipedia: eVisa
+DZ,Algeria,阿尔及利亚,e-Visa,D,,150,
+BJ,Benin,贝宁,e-Visa,D,,151,Wikipedia: eVisa
+NE,Niger,尼日尔,e-Visa,D,,152,Wikipedia: eVisa
+ZM,Zambia,赞比亚,e-Visa,D,,153,Wikipedia: eVisa
+RW,Rwanda,卢旺达,e-Visa,D,,154,Wikipedia: eVisa
+PS,Palestine,巴勒斯坦,e-Visa,D,,155,Wikipedia: eVisa
+GN,Guinea,几内亚,e-Visa,D,,156,Wikipedia: eVisa
+MZ,Mozambique,莫桑比克,e-Visa,D,,157,Wikipedia: eVisa
+TM,Turkmenistan,土库曼斯坦,e-Visa,D,,159,Wikipedia: eVisa
+KM,Comoros,科摩罗,e-Visa,D,,160,Wikipedia: eVisa
+GQ,Equatorial Guinea,赤道几内亚,e-Visa,D,,161,Wikipedia: eVisa
+AO,Angola,安哥拉,e-Visa,D,,162,Wikipedia: eVisa
+CI,Côte d'Ivoire,科特迪瓦,e-Visa,D,,163,Wikipedia: eVisa
+EG,Egypt,埃及,e-Visa,D,,164,
+TG,Togo,多哥,e-Visa,D,,165,Wikipedia: eVisa
+BF,Burkina Faso,布基纳法索,e-Visa,D,,166,Wikipedia: eVisa
+MR,Mauritania,毛里塔尼亚,e-Visa,D,,167,Wikipedia: eVisa
+LB,Lebanon,黎巴嫩,e-Visa,D,,168,
+ML,Mali,马里,e-Visa,D,,171,Wikipedia: eVisa
+TD,Chad,乍得,e-Visa,D,,172,Wikipedia: eVisa
+GW,Guinea-Bissau,几内亚比绍,e-Visa,D,,173,Wikipedia: eVisa
+SL,Sierra Leone,塞拉利昂,e-Visa,D,,174,Wikipedia: eVisa
+DJ,Djibouti,吉布提,e-Visa,D,,175,
+CF,Central African Republic,中非,e-Visa,D,,176,Wikipedia: eVisa
+CM,Cameroon,喀麦隆,e-Visa,D,,177,Wikipedia: e-Visa
+NP,Nepal,尼泊尔,e-Visa,D,,178,Wikipedia: eVisa
+BI,Burundi,布隆迪,e-Visa,D,,179,Wikipedia: eVisa
+LY,Libya,利比亚,e-Visa,D,,180,
+LR,Liberia,利比里亚,e-Visa,D,,182,Wikipedia: eVisa
+LK,Sri Lanka,斯里兰卡,e-Visa,D,,183,Thailand cut its visa-free list from 93 to 60 countries; those removed now use the e-visa
+IR,Iran,伊朗,e-Visa,D,,184,Wikipedia: eVisa
+CG,Congo,刚果（布）,e-Visa,D,,185,
+ET,Ethiopia,埃塞俄比亚,e-Visa,D,,186,Thailand cut its visa-free list from 93 to 60 countries; those removed now use the e-visa
+KP,North Korea,朝鲜,e-Visa,D,,187,
+SD,Sudan,苏丹,e-Visa,D,,189,
+YE,Yemen,也门,e-Visa,D,,190,Wikipedia: eVisa
+BD,Bangladesh,孟加拉国,e-Visa,D,,191,Wikipedia: eVisa
+ER,Eritrea,厄立特里亚,e-Visa,D,,192,
+PK,Pakistan,巴基斯坦,e-Visa,D,,193,Wikipedia: eVisa
+NG,Nigeria,尼日利亚,e-Visa,D,,194,Wikipedia: eVisa
+SO,Somalia,索马里,e-Visa,D,,195,Wikipedia: eVisa
+IQ,Iraq,伊拉克,e-Visa,D,,197,Wikipedia: eVisa
+SY,Syria,叙利亚,e-Visa,D,,198,Wikipedia: eVisa
+AF,Afghanistan,阿富汗,e-Visa,D,,199,Wikipedia: eVisa
+BS,Bahamas,巴哈马,Visa required,E,,59,Wikipedia: Visa required
+VC,Saint Vincent and the Grenadines,圣文森特和格林纳丁斯,Visa required,E,,65,Wikipedia: Visa required
+HN,Honduras,洪都拉斯,Visa required,E,,86,
+GA,Gabon,加蓬,Visa required,E,,169,
+GM,Gambia,冈比亚,Visa required,E,,181,
+CD,Democratic Republic of the Congo,刚果（金）,Visa required,E,,188,
+SS,South Sudan,南苏丹,Visa required,E,,196,

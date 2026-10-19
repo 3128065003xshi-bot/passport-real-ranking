@@ -1,0 +1,199 @@
+﻿passport_iso2,passport,passport_zh,access,code,max_stay_days,passport_rank,note
+SG,Singapore,新加坡,Visa-free,A,90,1,
+DK,Denmark,丹麦,Visa-free,A,90,2,
+FI,Finland,芬兰,Visa-free,A,90,2,
+NO,Norway,挪威,Visa-free,A,90,2,
+HR,Croatia,克罗地亚,Visa-free,A,90,5,
+NL,Netherlands,荷兰,Visa-free,A,90,6,
+ES,Spain,西班牙,Visa-free,A,90,6,
+SE,Sweden,瑞典,Visa-free,A,90,6,
+CH,Switzerland,瑞士,Visa-free,A,90,9,
+LU,Luxembourg,卢森堡,Visa-free,A,90,10,
+BE,Belgium,比利时,Visa-free,A,90,11,
+FR,France,法国,Visa-free,A,90,12,
+HU,Hungary,匈牙利,Visa-free,A,90,13,
+PL,Poland,波兰,Visa-free,A,90,14,
+DE,Germany,德国,Visa-free,A,90,15,
+AT,Austria,奥地利,Visa-free,A,90,16,
+IE,Ireland,爱尔兰,Visa-free,A,90,17,
+IT,Italy,意大利,Visa-free,A,90,18,
+GR,Greece,希腊,Visa-free,A,90,19,
+PT,Portugal,葡萄牙,Visa-free,A,90,20,
+MT,Malta,马耳他,Visa-free,A,90,21,
+SI,Slovenia,斯洛文尼亚,Visa-free,A,90,22,
+SK,Slovakia,斯洛伐克,Visa-free,A,90,23,
+KR,South Korea,韩国,Visa-free,A,90,24,
+JP,Japan,日本,Visa-free,A,90,25,
+AE,United Arab Emirates,阿联酋,Visa-free,A,30,26,
+IS,Iceland,冰岛,Visa-free,A,90,27,
+EE,Estonia,爱沙尼亚,Visa-free,A,90,28,
+LI,Liechtenstein,列支敦士登,Visa-free,A,90,29,
+BG,Bulgaria,保加利亚,Visa-free,A,90,30,
+RO,Romania,罗马尼亚,Visa-free,A,90,30,
+LV,Latvia,拉脱维亚,Visa-free,A,90,32,
+MY,Malaysia,马来西亚,Visa-free,A,90,33,
+LT,Lithuania,立陶宛,Visa-free,A,90,34,
+CZ,Czechia,捷克,Visa-free,A,90,35,
+CY,Cyprus,塞浦路斯,Visa-free,A,90,36,
+NZ,New Zealand,新西兰,Visa-free,A,90,38,
+AU,Australia,澳大利亚,Visa-free,A,90,39,
+MC,Monaco,摩纳哥,Visa-free,A,90,40,
+GB,United Kingdom,英国,Visa-free,A,180,41,
+CA,Canada,加拿大,Visa-free,A,90,42,
+US,United States,美国,Visa-free,A,90,43,
+AD,Andorra,安道尔,Visa-free,A,90,44,
+SM,San Marino,圣马力诺,Visa-free,A,90,45,
+CL,Chile,智利,Visa-free,A,90,46,
+BR,Brazil,巴西,Visa-free,A,90,47,
+AR,Argentina,阿根廷,Visa-free,A,90,48,
+BN,Brunei,文莱,Visa-free,A,90,49,
+BB,Barbados,巴巴多斯,Visa-free,A,90,50,
+UY,Uruguay,乌拉圭,Visa-free,A,90,51,
+MX,Mexico,墨西哥,Visa-free,A,90,52,
+VA,Holy See (Vatican City),梵蒂冈,Visa-free,A,14,53,
+IL,Israel,以色列,Visa-free,A,90,54,
+CR,Costa Rica,哥斯达黎加,Visa-free,A,30,55,
+PY,Paraguay,巴拉圭,Visa-free,A,30,56,
+PE,Peru,秘鲁,Visa-free,A,30,57,
+UA,Ukraine,乌克兰,Visa-free,A,14,58,
+BS,Bahamas,巴哈马,Visa-free,A,90,59,
+KN,Saint Kitts and Nevis,圣基茨和尼维斯,Visa-free,A,90,60,
+PA,Panama,巴拿马,Visa-free,A,30,61,
+MO,Macao,中国澳门,Visa-free,A,7,62,
+TW,Taiwan,台湾,Visa-free,A,30,63,
+AG,Antigua and Barbuda,安提瓜和巴布达,Visa-free,A,90,64,
+VC,Saint Vincent and the Grenadines,圣文森特和格林纳丁斯,Visa-free,A,90,65,
+RS,Serbia,塞尔维亚,Visa-free,A,14,66,
+TT,Trinidad and Tobago,特立尼达和多巴哥,Visa-free,A,90,67,
+ME,Montenegro,黑山,Visa-free,A,14,68,
+CO,Colombia,哥伦比亚,Visa-free,A,90,69,
+DM,Dominica,多米尼克,Visa-free,A,90,70,
+SC,Seychelles,塞舌尔,Visa-free,A,90,71,
+MU,Mauritius,毛里求斯,Visa-free,A,90,72,
+SV,El Salvador,萨尔瓦多,Visa-free,A,30,73,
+GD,Grenada,格林纳达,Visa-free,A,90,74,
+MK,North Macedonia,北马其顿,Visa-free,A,14,75,
+GE,Georgia,格鲁吉亚,Visa-free,A,30,76,
+WS,Samoa,萨摩亚,Visa-free,A,30,77,
+LC,Saint Lucia,圣卢西亚,Visa-free,A,90,78,
+AL,Albania,阿尔巴尼亚,Visa-free,A,14,79,
+SB,Solomon Islands,所罗门群岛,Visa-free,A,,80,On Hong Kong's visa-exemption list
+GT,Guatemala,危地马拉,Visa-free,A,30,81,
+NI,Nicaragua,尼加拉瓜,Visa-free,A,,82,On Hong Kong's visa-exemption list
+MH,Marshall Islands,马绍尔群岛,Visa-free,A,14,83,
+BA,Bosnia and Herzegovina,波斯尼亚和黑塞哥维那,Visa-free,A,14,84,
+TV,Tuvalu,图瓦卢,Visa-free,A,90,85,
+HN,Honduras,洪都拉斯,Visa-free,A,30,86,
+TO,Tonga,汤加,Visa-free,A,90,88,
+PW,Palau,帕劳,Visa-free,A,14,89,
+KI,Kiribati,基里巴斯,Visa-free,A,90,90,
+FM,Micronesia,密克罗尼西亚联邦,Visa-free,A,14,91,
+VE,Venezuela,委内瑞拉,Visa-free,A,90,92,
+TL,Timor-Leste,东帝汶,Visa-free,A,7,93,
+QA,Qatar,卡塔尔,Visa-free,A,30,94,
+RU,Russia,俄罗斯,Visa-free,A,14,95,
+TR,Türkiye,土耳其,Visa-free,A,90,96,
+KW,Kuwait,科威特,Visa-free,A,30,98,
+SA,Saudi Arabia,沙特阿拉伯,Visa-free,A,30,99,
+ZA,South Africa,南非,Visa-free,A,30,100,
+EC,Ecuador,厄瓜多尔,Visa-free,A,90,101,
+BZ,Belize,伯利兹,Visa-free,A,90,102,
+JM,Jamaica,牙买加,Visa-free,A,90,103,
+BH,Bahrain,巴林,Visa-free,A,30,104,
+OM,Oman,阿曼,Visa-free,A,30,105,
+MV,Maldives,马尔代夫,Visa-free,A,90,106,
+FJ,Fiji,斐济,Visa-free,A,90,107,
+TH,Thailand,泰国,Visa-free,A,30,108,
+BY,Belarus,白俄罗斯,Visa-free,A,14,109,
+KZ,Kazakhstan,哈萨克斯坦,Visa-free,A,14,110,
+BO,Bolivia,玻利维亚,Visa-free,A,30,112,
+SR,Suriname,苏里南,Visa-free,A,14,113,
+GY,Guyana,圭亚那,Visa-free,A,90,114,
+DO,Dominican Republic,多米尼加,Visa-free,A,30,115,
+ID,Indonesia,印度尼西亚,Visa-free,A,30,116,
+VU,Vanuatu,瓦努阿图,Visa-free,A,90,117,
+MN,Mongolia,蒙古,Visa-free,A,14,118,
+NR,Nauru,瑙鲁,Visa-free,A,90,119,
+MA,Morocco,摩洛哥,Visa-free,A,30,120,
+PH,Philippines,菲律宾,Visa-free,A,14,121,
+AM,Armenia,亚美尼亚,Visa-free,A,30,122,
+PG,Papua New Guinea,巴布亚新几内亚,Visa-free,A,90,123,
+BW,Botswana,博茨瓦纳,Visa-free,A,90,124,
+LS,Lesotho,莱索托,Visa-free,A,14,127,
+NA,Namibia,纳米比亚,Visa-free,A,90,128,
+TN,Tunisia,突尼斯,Visa-free,A,30,129,
+JO,Jordan,约旦,Visa-free,A,30,135,
+MW,Malawi,马拉维,Visa-free,A,90,136,
+UG,Uganda,乌干达,Visa-free,A,30,138,
+BT,Bhutan,不丹,Visa-free,A,14,139,
+KE,Kenya,肯尼亚,Visa-free,A,90,141,
+ST,Sao Tome and Principe,圣多美和普林西比,Visa-free,A,14,142,
+ZW,Zimbabwe,津巴布韦,Visa-free,A,90,143,
+CV,Cabo Verde,佛得角,Visa-free,A,30,144,
+MG,Madagascar,马达加斯加,Visa-free,A,14,146,
+HT,Haiti,海地,Visa-free,A,14,147,
+TZ,Tanzania,坦桑尼亚,Visa-free,A,90,148,
+DZ,Algeria,阿尔及利亚,Visa-free,A,14,150,
+BJ,Benin,贝宁,Visa-free,A,14,151,
+NE,Niger,尼日尔,Visa-free,A,14,152,
+ZM,Zambia,赞比亚,Visa-free,A,90,153,
+GN,Guinea,几内亚,Visa-free,A,14,156,
+MZ,Mozambique,莫桑比克,Visa-free,A,14,157,
+KM,Comoros,科摩罗,Visa-free,A,14,160,
+GQ,Equatorial Guinea,赤道几内亚,Visa-free,A,14,161,
+EG,Egypt,埃及,Visa-free,A,90,164,
+BF,Burkina Faso,布基纳法索,Visa-free,A,14,166,
+MR,Mauritania,毛里塔尼亚,Visa-free,A,14,167,
+GA,Gabon,加蓬,Visa-free,A,14,169,
+ML,Mali,马里,Visa-free,A,14,171,
+TD,Chad,乍得,Visa-free,A,14,172,
+DJ,Djibouti,吉布提,Visa-free,A,14,175,
+IN,India,印度,ETA (pre-travel authorisation),B,14,131,Hong Kong: Indian nationals visa-free for 14 days after mandatory online Pre-arrival Registration
+MD,Moldova,摩尔多瓦,Visa required,E,,87,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+XK,Kosovo,科索沃,Visa required,E,,97,Wikipedia: Visa required
+CN,China,中国,Visa required,E,,111,
+AZ,Azerbaijan,阿塞拜疆,Visa required,E,,125,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+UZ,Uzbekistan,乌兹别克斯坦,Visa required,E,,126,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+SZ,Eswatini,斯威士兰,Visa required,E,,130,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+VN,Vietnam,越南,Visa required,E,,132,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+KG,Kyrgyzstan,吉尔吉斯斯坦,Visa required,E,,133,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+KH,Cambodia,柬埔寨,Visa required,E,,134,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+TJ,Tajikistan,塔吉克斯坦,Visa required,E,,137,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+GH,Ghana,加纳,Visa required,E,,140,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+CU,Cuba,古巴,Visa required,E,,145,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+SN,Senegal,塞内加尔,Visa required,E,,149,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+RW,Rwanda,卢旺达,Visa required,E,,154,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+PS,Palestine,巴勒斯坦,Visa required,E,,155,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+LA,Laos,老挝,Visa required,E,,158,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+TM,Turkmenistan,土库曼斯坦,Visa required,E,,159,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+AO,Angola,安哥拉,Visa required,E,,162,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+CI,Côte d'Ivoire,科特迪瓦,Visa required,E,,163,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+TG,Togo,多哥,Visa required,E,,165,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+LB,Lebanon,黎巴嫩,Visa required,E,,168,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+MM,Myanmar,缅甸,Visa required,E,,170,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+GW,Guinea-Bissau,几内亚比绍,Visa required,E,,173,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+SL,Sierra Leone,塞拉利昂,Visa required,E,,174,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+CF,Central African Republic,中非,Visa required,E,,176,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+CM,Cameroon,喀麦隆,Visa required,E,,177,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+NP,Nepal,尼泊尔,Visa required,E,,178,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+BI,Burundi,布隆迪,Visa required,E,,179,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+LY,Libya,利比亚,Visa required,E,,180,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+GM,Gambia,冈比亚,Visa required,E,,181,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+LR,Liberia,利比里亚,Visa required,E,,182,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+LK,Sri Lanka,斯里兰卡,Visa required,E,,183,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+IR,Iran,伊朗,Visa required,E,,184,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+CG,Congo,刚果（布）,Visa required,E,,185,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+ET,Ethiopia,埃塞俄比亚,Visa required,E,,186,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+KP,North Korea,朝鲜,Visa required,E,,187,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+CD,Democratic Republic of the Congo,刚果（金）,Visa required,E,,188,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+SD,Sudan,苏丹,Visa required,E,,189,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+YE,Yemen,也门,Visa required,E,,190,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+BD,Bangladesh,孟加拉国,Visa required,E,,191,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+ER,Eritrea,厄立特里亚,Visa required,E,,192,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+PK,Pakistan,巴基斯坦,Visa required,E,,193,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+NG,Nigeria,尼日利亚,Visa required,E,,194,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+SO,Somalia,索马里,Visa required,E,,195,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+SS,South Sudan,南苏丹,Visa required,E,,196,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+IQ,Iraq,伊拉克,Visa required,E,,197,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+SY,Syria,叙利亚,Visa required,E,,198,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"
+AF,Afghanistan,阿富汗,Visa required,E,,199,"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa"

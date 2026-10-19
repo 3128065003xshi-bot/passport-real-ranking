@@ -1,0 +1,199 @@
+﻿passport_iso2,passport,passport_zh,access,code,max_stay_days,passport_rank,note
+GT,Guatemala,危地马拉,Free movement,S,,81,Central America-4 border control agreement
+NI,Nicaragua,尼加拉瓜,Free movement,S,,82,Central America-4 border control agreement
+HN,Honduras,洪都拉斯,Free movement,S,,86,Central America-4 border control agreement
+SG,Singapore,新加坡,Visa-free,A,180,1,
+DK,Denmark,丹麦,Visa-free,A,180,2,
+FI,Finland,芬兰,Visa-free,A,180,2,
+NO,Norway,挪威,Visa-free,A,180,2,
+HR,Croatia,克罗地亚,Visa-free,A,180,5,
+NL,Netherlands,荷兰,Visa-free,A,180,6,
+ES,Spain,西班牙,Visa-free,A,180,6,
+SE,Sweden,瑞典,Visa-free,A,180,6,
+CH,Switzerland,瑞士,Visa-free,A,180,9,
+LU,Luxembourg,卢森堡,Visa-free,A,180,10,
+BE,Belgium,比利时,Visa-free,A,180,11,
+FR,France,法国,Visa-free,A,180,12,
+HU,Hungary,匈牙利,Visa-free,A,180,13,
+PL,Poland,波兰,Visa-free,A,180,14,
+DE,Germany,德国,Visa-free,A,180,15,
+AT,Austria,奥地利,Visa-free,A,180,16,
+IE,Ireland,爱尔兰,Visa-free,A,180,17,
+IT,Italy,意大利,Visa-free,A,180,18,
+GR,Greece,希腊,Visa-free,A,180,19,
+PT,Portugal,葡萄牙,Visa-free,A,180,20,
+MT,Malta,马耳他,Visa-free,A,180,21,
+SI,Slovenia,斯洛文尼亚,Visa-free,A,180,22,
+SK,Slovakia,斯洛伐克,Visa-free,A,180,23,
+KR,South Korea,韩国,Visa-free,A,180,24,
+JP,Japan,日本,Visa-free,A,180,25,
+AE,United Arab Emirates,阿联酋,Visa-free,A,180,26,
+IS,Iceland,冰岛,Visa-free,A,180,27,
+EE,Estonia,爱沙尼亚,Visa-free,A,180,28,
+LI,Liechtenstein,列支敦士登,Visa-free,A,180,29,
+BG,Bulgaria,保加利亚,Visa-free,A,180,30,
+RO,Romania,罗马尼亚,Visa-free,A,180,30,
+LV,Latvia,拉脱维亚,Visa-free,A,180,32,
+MY,Malaysia,马来西亚,Visa-free,A,180,33,
+LT,Lithuania,立陶宛,Visa-free,A,180,34,
+CZ,Czechia,捷克,Visa-free,A,180,35,
+CY,Cyprus,塞浦路斯,Visa-free,A,180,36,
+NZ,New Zealand,新西兰,Visa-free,A,180,38,
+AU,Australia,澳大利亚,Visa-free,A,180,39,
+MC,Monaco,摩纳哥,Visa-free,A,180,40,
+GB,United Kingdom,英国,Visa-free,A,180,41,
+CA,Canada,加拿大,Visa-free,A,180,42,
+US,United States,美国,Visa-free,A,180,43,
+AD,Andorra,安道尔,Visa-free,A,180,44,
+SM,San Marino,圣马力诺,Visa-free,A,180,45,
+CL,Chile,智利,Visa-free,A,180,46,
+BR,Brazil,巴西,Visa-free,A,180,47,
+AR,Argentina,阿根廷,Visa-free,A,180,48,
+BN,Brunei,文莱,Visa-free,A,180,49,
+BB,Barbados,巴巴多斯,Visa-free,A,180,50,
+UY,Uruguay,乌拉圭,Visa-free,A,180,51,
+MX,Mexico,墨西哥,Visa-free,A,180,52,
+VA,Holy See (Vatican City),梵蒂冈,Visa-free,A,180,53,
+IL,Israel,以色列,Visa-free,A,180,54,
+CR,Costa Rica,哥斯达黎加,Visa-free,A,180,55,
+PY,Paraguay,巴拉圭,Visa-free,A,180,56,
+PE,Peru,秘鲁,Visa-free,A,180,57,
+UA,Ukraine,乌克兰,Visa-free,A,180,58,
+BS,Bahamas,巴哈马,Visa-free,A,180,59,
+KN,Saint Kitts and Nevis,圣基茨和尼维斯,Visa-free,A,180,60,
+PA,Panama,巴拿马,Visa-free,A,180,61,
+AG,Antigua and Barbuda,安提瓜和巴布达,Visa-free,A,180,64,
+VC,Saint Vincent and the Grenadines,圣文森特和格林纳丁斯,Visa-free,A,180,65,
+TT,Trinidad and Tobago,特立尼达和多巴哥,Visa-free,A,180,67,
+CO,Colombia,哥伦比亚,Visa-free,A,180,69,
+MK,North Macedonia,北马其顿,Visa-free,A,180,75,
+LC,Saint Lucia,圣卢西亚,Visa-free,A,180,78,
+AL,Albania,阿尔巴尼亚,Visa-free,A,180,79,
+SB,Solomon Islands,所罗门群岛,Visa-free,A,180,80,
+MH,Marshall Islands,马绍尔群岛,Visa-free,A,180,83,
+TV,Tuvalu,图瓦卢,Visa-free,A,180,85,
+QA,Qatar,卡塔尔,Visa-free,A,180,94,
+RU,Russia,俄罗斯,Visa-free,A,180,95,
+TR,Türkiye,土耳其,Visa-free,A,180,96,
+KW,Kuwait,科威特,Visa-free,A,180,98,
+SA,Saudi Arabia,沙特阿拉伯,Visa-free,A,180,99,
+ZA,South Africa,南非,Visa-free,A,180,100,
+EC,Ecuador,厄瓜多尔,Visa-free,A,180,101,
+BZ,Belize,伯利兹,Visa-free,A,180,102,
+BH,Bahrain,巴林,Visa-free,A,180,104,
+FJ,Fiji,斐济,Visa-free,A,180,107,
+BO,Bolivia,玻利维亚,Visa-free,A,90,112,
+DO,Dominican Republic,多米尼加,Visa-free,A,180,115,
+VU,Vanuatu,瓦努阿图,Visa-free,A,180,117,
+ST,Sao Tome and Principe,圣多美和普林西比,Visa-free,A,180,142,
+MG,Madagascar,马达加斯加,Visa-free,A,180,146,
+HK,Hong Kong,中国香港,e-Visa,D,,37,
+WS,Samoa,萨摩亚,e-Visa,D,,77,
+MD,Moldova,摩尔多瓦,e-Visa,D,,87,
+TO,Tonga,汤加,e-Visa,D,,88,
+KI,Kiribati,基里巴斯,e-Visa,D,,90,
+TL,Timor-Leste,东帝汶,e-Visa,D,,93,
+JM,Jamaica,牙买加,e-Visa,D,,103,
+NR,Nauru,瑙鲁,e-Visa,D,,119,
+BW,Botswana,博茨瓦纳,e-Visa,D,,124,
+SZ,Eswatini,斯威士兰,e-Visa,D,,130,
+KG,Kyrgyzstan,吉尔吉斯斯坦,e-Visa,D,,133,
+KH,Cambodia,柬埔寨,e-Visa,D,,134,
+JO,Jordan,约旦,e-Visa,D,,135,
+MW,Malawi,马拉维,e-Visa,D,,136,
+TJ,Tajikistan,塔吉克斯坦,e-Visa,D,,137,
+UG,Uganda,乌干达,e-Visa,D,,138,
+BT,Bhutan,不丹,e-Visa,D,,139,
+GH,Ghana,加纳,e-Visa,D,,140,
+KE,Kenya,肯尼亚,e-Visa,D,,141,
+HT,Haiti,海地,e-Visa,D,,147,
+BJ,Benin,贝宁,e-Visa,D,,151,
+RW,Rwanda,卢旺达,e-Visa,D,,154,
+PS,Palestine,巴勒斯坦,e-Visa,D,,155,
+GN,Guinea,几内亚,e-Visa,D,,156,
+KM,Comoros,科摩罗,e-Visa,D,,160,
+GQ,Equatorial Guinea,赤道几内亚,e-Visa,D,,161,
+AO,Angola,安哥拉,e-Visa,D,,162,
+CI,Côte d'Ivoire,科特迪瓦,e-Visa,D,,163,
+TG,Togo,多哥,e-Visa,D,,165,
+BF,Burkina Faso,布基纳法索,e-Visa,D,,166,
+MR,Mauritania,毛里塔尼亚,e-Visa,D,,167,
+LB,Lebanon,黎巴嫩,e-Visa,D,,168,
+ML,Mali,马里,e-Visa,D,,171,
+TD,Chad,乍得,e-Visa,D,,172,
+GW,Guinea-Bissau,几内亚比绍,e-Visa,D,,173,
+SL,Sierra Leone,塞拉利昂,e-Visa,D,,174,
+DJ,Djibouti,吉布提,e-Visa,D,,175,
+CF,Central African Republic,中非,e-Visa,D,,176,
+CM,Cameroon,喀麦隆,e-Visa,D,,177,
+BI,Burundi,布隆迪,e-Visa,D,,179,
+LR,Liberia,利比里亚,e-Visa,D,,182,
+CG,Congo,刚果（布）,e-Visa,D,,185,
+ET,Ethiopia,埃塞俄比亚,e-Visa,D,,186,
+YE,Yemen,也门,e-Visa,D,,190,
+SO,Somalia,索马里,e-Visa,D,,195,
+MO,Macao,中国澳门,Visa required,E,,62,Wikipedia: Visa required
+TW,Taiwan,台湾,Visa required,E,,63,Wikipedia: Visa required
+RS,Serbia,塞尔维亚,Visa required,E,,66,Wikipedia: Visa required
+ME,Montenegro,黑山,Visa required,E,,68,Wikipedia: Visa required
+DM,Dominica,多米尼克,Visa required,E,,70,Wikipedia: Visa required
+SC,Seychelles,塞舌尔,Visa required,E,,71,Wikipedia: Visa required
+MU,Mauritius,毛里求斯,Visa required,E,,72,Wikipedia: Visa required
+GD,Grenada,格林纳达,Visa required,E,,74,Wikipedia: Visa required
+GE,Georgia,格鲁吉亚,Visa required,E,,76,Wikipedia: Visa required
+BA,Bosnia and Herzegovina,波斯尼亚和黑塞哥维那,Visa required,E,,84,Wikipedia: Visa required
+PW,Palau,帕劳,Visa required,E,,89,Wikipedia: Visa required
+FM,Micronesia,密克罗尼西亚联邦,Visa required,E,,91,Wikipedia: Visa required
+VE,Venezuela,委内瑞拉,Visa required,E,,92,Wikipedia: Visa required
+XK,Kosovo,科索沃,Visa required,E,,97,Wikipedia: Visa required
+OM,Oman,阿曼,Visa required,E,,105,Wikipedia: Visa required
+MV,Maldives,马尔代夫,Visa required,E,,106,Wikipedia: Visa required
+TH,Thailand,泰国,Visa required,E,,108,Wikipedia: Visa required
+BY,Belarus,白俄罗斯,Visa required,E,,109,Wikipedia: Visa required
+KZ,Kazakhstan,哈萨克斯坦,Visa required,E,,110,Wikipedia: Visa required
+CN,China,中国,Visa required,E,,111,Visa required (El Salvador visa-free only with a qualifying US/Canada/Schengen visa)
+SR,Suriname,苏里南,Visa required,E,,113,Wikipedia: Visa required
+GY,Guyana,圭亚那,Visa required,E,,114,Wikipedia: Visa required
+ID,Indonesia,印度尼西亚,Visa required,E,,116,Wikipedia: Visa required
+MN,Mongolia,蒙古,Visa required,E,,118,Wikipedia: Visa required
+MA,Morocco,摩洛哥,Visa required,E,,120,Wikipedia: Visa required
+PH,Philippines,菲律宾,Visa required,E,,121,Wikipedia: Visa required
+AM,Armenia,亚美尼亚,Visa required,E,,122,Wikipedia: Visa required
+PG,Papua New Guinea,巴布亚新几内亚,Visa required,E,,123,Wikipedia: Visa required
+AZ,Azerbaijan,阿塞拜疆,Visa required,E,,125,Wikipedia: Visa required
+UZ,Uzbekistan,乌兹别克斯坦,Visa required,E,,126,Wikipedia: Visa required
+LS,Lesotho,莱索托,Visa required,E,,127,Wikipedia: Visa required
+NA,Namibia,纳米比亚,Visa required,E,,128,Wikipedia: Visa required
+TN,Tunisia,突尼斯,Visa required,E,,129,Wikipedia: Visa required
+IN,India,印度,Visa required,E,,131,Wikipedia: Visa required
+VN,Vietnam,越南,Visa required,E,,132,Wikipedia: Visa required
+ZW,Zimbabwe,津巴布韦,Visa required,E,,143,Wikipedia: Visa required
+CV,Cabo Verde,佛得角,Visa required,E,,144,Wikipedia: Visa required
+CU,Cuba,古巴,Visa required,E,,145,Wikipedia: Visa required
+TZ,Tanzania,坦桑尼亚,Visa required,E,,148,Wikipedia: Visa required
+SN,Senegal,塞内加尔,Visa required,E,,149,Wikipedia: Visa required
+DZ,Algeria,阿尔及利亚,Visa required,E,,150,Wikipedia: Visa required
+NE,Niger,尼日尔,Visa required,E,,152,Wikipedia: Visa required
+ZM,Zambia,赞比亚,Visa required,E,,153,Wikipedia: Visa required
+MZ,Mozambique,莫桑比克,Visa required,E,,157,Wikipedia: Visa required
+LA,Laos,老挝,Visa required,E,,158,Wikipedia: Visa required
+TM,Turkmenistan,土库曼斯坦,Visa required,E,,159,Wikipedia: Visa required
+EG,Egypt,埃及,Visa required,E,,164,Wikipedia: Visa required
+GA,Gabon,加蓬,Visa required,E,,169,Wikipedia: Visa required
+MM,Myanmar,缅甸,Visa required,E,,170,Wikipedia: Visa required
+NP,Nepal,尼泊尔,Visa required,E,,178,Wikipedia: Visa required
+LY,Libya,利比亚,Visa required,E,,180,Wikipedia: Visa required
+GM,Gambia,冈比亚,Visa required,E,,181,Wikipedia: Visa required
+LK,Sri Lanka,斯里兰卡,Visa required,E,,183,Wikipedia: Visa required
+IR,Iran,伊朗,Visa required,E,,184,Wikipedia: Visa required
+KP,North Korea,朝鲜,Visa required,E,,187,Wikipedia: Visa required
+CD,Democratic Republic of the Congo,刚果（金）,Visa required,E,,188,Wikipedia: Visa required
+SD,Sudan,苏丹,Visa required,E,,189,Wikipedia: Visa required
+BD,Bangladesh,孟加拉国,Visa required,E,,191,Wikipedia: Visa required
+ER,Eritrea,厄立特里亚,Visa required,E,,192,Wikipedia: Visa required
+PK,Pakistan,巴基斯坦,Visa required,E,,193,Wikipedia: Visa required
+NG,Nigeria,尼日利亚,Visa required,E,,194,Wikipedia: Visa required
+SS,South Sudan,南苏丹,Visa required,E,,196,Wikipedia: Visa required
+IQ,Iraq,伊拉克,Visa required,E,,197,Wikipedia: Visa required
+SY,Syria,叙利亚,Visa required,E,,198,Wikipedia: Visa required
+AF,Afghanistan,阿富汗,Visa required,E,,199,Wikipedia: Visa required

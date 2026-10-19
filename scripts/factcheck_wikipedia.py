@@ -126,6 +126,15 @@ def remap(d, cur, w, status):
     return w
 
 
+def stay_days(stay):
+    """'90 days', '3 months', '1 year', '90 days within any 180-day period' -> 90 / 90 / 365 / 90; '' if none."""
+    m = re.search(r"(\d+)\s*(day|week|month|year)", stay or "", re.I)
+    if not m:
+        return ""
+    n, unit = int(m.group(1)), m.group(2).lower()
+    return n * {"day": 1, "week": 7, "month": 30, "year": 365}[unit]
+
+
 def decide(p, d, cur, w, status, fresh, matrix):
     """(decision, reason) for one disagreement."""
     if cur["source"].startswith("group:"):
@@ -208,6 +217,14 @@ def main():
             d = names.get(name)
             if d and d != p and (p, d) in matrix and d not in pages[p]:
                 pages[p][d] = (remap(d, matrix[p, d]["code"], wiki_code(status), status), status, stay)
+
+    # Stay lengths for every row a page lists (used by the country profiles).
+    with open(PROC / "stays_wikipedia.csv", "w", newline="", encoding="utf-8") as f:
+        w = csv.writer(f)
+        w.writerow(["passport", "destination", "wiki_status", "stay", "stay_days"])
+        for p, table in sorted(pages.items()):
+            for d, (_, status, stay) in sorted(table.items()):
+                w.writerow([p, d, display(status)[:80], stay, stay_days(stay)])
 
     # Pass 2: EU/EEA pages correct each other where one is missing a row or has not caught up.
     adjust = eu_consensus({p: {d: v[0] for d, v in t.items()} for p, t in pages.items()},

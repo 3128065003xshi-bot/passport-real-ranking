@@ -1,0 +1,199 @@
+﻿passport_iso2,passport,passport_zh,access,code,max_stay_days,passport_rank,note
+NZ,New Zealand,新西兰,Visa-free,A,,38,
+SG,Singapore,新加坡,ETA (pre-travel authorisation),B,90,1,
+DK,Denmark,丹麦,ETA (pre-travel authorisation),B,90,2,
+FI,Finland,芬兰,ETA (pre-travel authorisation),B,90,2,
+NO,Norway,挪威,ETA (pre-travel authorisation),B,90,2,
+HR,Croatia,克罗地亚,ETA (pre-travel authorisation),B,90,5,
+NL,Netherlands,荷兰,ETA (pre-travel authorisation),B,,6,
+ES,Spain,西班牙,ETA (pre-travel authorisation),B,90,6,
+SE,Sweden,瑞典,ETA (pre-travel authorisation),B,90,6,
+CH,Switzerland,瑞士,ETA (pre-travel authorisation),B,90,9,
+LU,Luxembourg,卢森堡,ETA (pre-travel authorisation),B,90,10,
+BE,Belgium,比利时,ETA (pre-travel authorisation),B,90,11,
+FR,France,法国,ETA (pre-travel authorisation),B,,12,
+HU,Hungary,匈牙利,ETA (pre-travel authorisation),B,90,13,
+PL,Poland,波兰,ETA (pre-travel authorisation),B,90,14,
+DE,Germany,德国,ETA (pre-travel authorisation),B,,15,
+AT,Austria,奥地利,ETA (pre-travel authorisation),B,,16,
+IE,Ireland,爱尔兰,ETA (pre-travel authorisation),B,90,17,
+IT,Italy,意大利,ETA (pre-travel authorisation),B,90,18,
+GR,Greece,希腊,ETA (pre-travel authorisation),B,90,19,
+PT,Portugal,葡萄牙,ETA (pre-travel authorisation),B,90,20,
+MT,Malta,马耳他,ETA (pre-travel authorisation),B,90,21,
+SI,Slovenia,斯洛文尼亚,ETA (pre-travel authorisation),B,90,22,
+SK,Slovakia,斯洛伐克,ETA (pre-travel authorisation),B,90,23,
+KR,South Korea,韩国,ETA (pre-travel authorisation),B,90,24,
+JP,Japan,日本,ETA (pre-travel authorisation),B,90,25,
+IS,Iceland,冰岛,ETA (pre-travel authorisation),B,90,27,
+EE,Estonia,爱沙尼亚,ETA (pre-travel authorisation),B,90,28,
+LI,Liechtenstein,列支敦士登,ETA (pre-travel authorisation),B,90,29,
+BG,Bulgaria,保加利亚,ETA (pre-travel authorisation),B,90,30,
+RO,Romania,罗马尼亚,ETA (pre-travel authorisation),B,90,30,
+LV,Latvia,拉脱维亚,ETA (pre-travel authorisation),B,90,32,
+MY,Malaysia,马来西亚,ETA (pre-travel authorisation),B,90,33,
+LT,Lithuania,立陶宛,ETA (pre-travel authorisation),B,90,34,
+CZ,Czechia,捷克,ETA (pre-travel authorisation),B,90,35,
+CY,Cyprus,塞浦路斯,ETA (pre-travel authorisation),B,90,36,
+HK,Hong Kong,中国香港,ETA (pre-travel authorisation),B,90,37,
+MC,Monaco,摩纳哥,ETA (pre-travel authorisation),B,90,40,
+GB,United Kingdom,英国,ETA (pre-travel authorisation),B,90,41,
+CA,Canada,加拿大,ETA (pre-travel authorisation),B,90,42,
+US,United States,美国,ETA (pre-travel authorisation),B,,43,
+AD,Andorra,安道尔,ETA (pre-travel authorisation),B,90,44,
+SM,San Marino,圣马力诺,ETA (pre-travel authorisation),B,90,45,
+BN,Brunei,文莱,ETA (pre-travel authorisation),B,90,49,
+VA,Holy See (Vatican City),梵蒂冈,ETA (pre-travel authorisation),B,90,53,
+TW,Taiwan,台湾,ETA (pre-travel authorisation),B,90,63,
+AE,United Arab Emirates,阿联酋,Visa required,E,,26,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+CL,Chile,智利,Visa required,E,,46,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+BR,Brazil,巴西,Visa required,E,,47,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+AR,Argentina,阿根廷,Visa required,E,,48,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+BB,Barbados,巴巴多斯,Visa required,E,,50,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+UY,Uruguay,乌拉圭,Visa required,E,,51,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+MX,Mexico,墨西哥,Visa required,E,,52,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+IL,Israel,以色列,Visa required,E,,54,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+CR,Costa Rica,哥斯达黎加,Visa required,E,,55,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+PY,Paraguay,巴拉圭,Visa required,E,,56,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+PE,Peru,秘鲁,Visa required,E,,57,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+UA,Ukraine,乌克兰,Visa required,E,,58,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+BS,Bahamas,巴哈马,Visa required,E,,59,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+KN,Saint Kitts and Nevis,圣基茨和尼维斯,Visa required,E,,60,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+PA,Panama,巴拿马,Visa required,E,,61,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+MO,Macao,中国澳门,Visa required,E,,62,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+AG,Antigua and Barbuda,安提瓜和巴布达,Visa required,E,,64,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+VC,Saint Vincent and the Grenadines,圣文森特和格林纳丁斯,Visa required,E,,65,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+RS,Serbia,塞尔维亚,Visa required,E,,66,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+TT,Trinidad and Tobago,特立尼达和多巴哥,Visa required,E,,67,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+ME,Montenegro,黑山,Visa required,E,,68,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+CO,Colombia,哥伦比亚,Visa required,E,,69,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+DM,Dominica,多米尼克,Visa required,E,,70,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+SC,Seychelles,塞舌尔,Visa required,E,,71,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+MU,Mauritius,毛里求斯,Visa required,E,,72,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+SV,El Salvador,萨尔瓦多,Visa required,E,,73,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+GD,Grenada,格林纳达,Visa required,E,,74,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+MK,North Macedonia,北马其顿,Visa required,E,,75,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+GE,Georgia,格鲁吉亚,Visa required,E,,76,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+WS,Samoa,萨摩亚,Visa required,E,,77,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+LC,Saint Lucia,圣卢西亚,Visa required,E,,78,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+AL,Albania,阿尔巴尼亚,Visa required,E,,79,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+SB,Solomon Islands,所罗门群岛,Visa required,E,,80,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+GT,Guatemala,危地马拉,Visa required,E,,81,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+NI,Nicaragua,尼加拉瓜,Visa required,E,,82,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+MH,Marshall Islands,马绍尔群岛,Visa required,E,,83,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+BA,Bosnia and Herzegovina,波斯尼亚和黑塞哥维那,Visa required,E,,84,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+TV,Tuvalu,图瓦卢,Visa required,E,,85,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+HN,Honduras,洪都拉斯,Visa required,E,,86,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+MD,Moldova,摩尔多瓦,Visa required,E,,87,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+TO,Tonga,汤加,Visa required,E,,88,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+PW,Palau,帕劳,Visa required,E,,89,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+KI,Kiribati,基里巴斯,Visa required,E,,90,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+FM,Micronesia,密克罗尼西亚联邦,Visa required,E,,91,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+VE,Venezuela,委内瑞拉,Visa required,E,,92,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+TL,Timor-Leste,东帝汶,Visa required,E,,93,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+QA,Qatar,卡塔尔,Visa required,E,,94,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+RU,Russia,俄罗斯,Visa required,E,,95,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+TR,Türkiye,土耳其,Visa required,E,,96,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+XK,Kosovo,科索沃,Visa required,E,,97,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+KW,Kuwait,科威特,Visa required,E,,98,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+SA,Saudi Arabia,沙特阿拉伯,Visa required,E,,99,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+ZA,South Africa,南非,Visa required,E,,100,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+EC,Ecuador,厄瓜多尔,Visa required,E,,101,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+BZ,Belize,伯利兹,Visa required,E,,102,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+JM,Jamaica,牙买加,Visa required,E,,103,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+BH,Bahrain,巴林,Visa required,E,,104,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+OM,Oman,阿曼,Visa required,E,,105,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+MV,Maldives,马尔代夫,Visa required,E,,106,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+FJ,Fiji,斐济,Visa required,E,,107,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+TH,Thailand,泰国,Visa required,E,,108,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+BY,Belarus,白俄罗斯,Visa required,E,,109,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+KZ,Kazakhstan,哈萨克斯坦,Visa required,E,,110,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+CN,China,中国,Visa required,E,,111,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+BO,Bolivia,玻利维亚,Visa required,E,,112,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+SR,Suriname,苏里南,Visa required,E,,113,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+GY,Guyana,圭亚那,Visa required,E,,114,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+DO,Dominican Republic,多米尼加,Visa required,E,,115,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+ID,Indonesia,印度尼西亚,Visa required,E,,116,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+VU,Vanuatu,瓦努阿图,Visa required,E,,117,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+MN,Mongolia,蒙古,Visa required,E,,118,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+NR,Nauru,瑙鲁,Visa required,E,,119,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+MA,Morocco,摩洛哥,Visa required,E,,120,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+PH,Philippines,菲律宾,Visa required,E,,121,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+AM,Armenia,亚美尼亚,Visa required,E,,122,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+PG,Papua New Guinea,巴布亚新几内亚,Visa required,E,,123,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+BW,Botswana,博茨瓦纳,Visa required,E,,124,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+AZ,Azerbaijan,阿塞拜疆,Visa required,E,,125,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+UZ,Uzbekistan,乌兹别克斯坦,Visa required,E,,126,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+LS,Lesotho,莱索托,Visa required,E,,127,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+NA,Namibia,纳米比亚,Visa required,E,,128,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+TN,Tunisia,突尼斯,Visa required,E,,129,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+SZ,Eswatini,斯威士兰,Visa required,E,,130,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+IN,India,印度,Visa required,E,,131,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+VN,Vietnam,越南,Visa required,E,,132,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+KG,Kyrgyzstan,吉尔吉斯斯坦,Visa required,E,,133,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+KH,Cambodia,柬埔寨,Visa required,E,,134,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+JO,Jordan,约旦,Visa required,E,,135,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+MW,Malawi,马拉维,Visa required,E,,136,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+TJ,Tajikistan,塔吉克斯坦,Visa required,E,,137,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+UG,Uganda,乌干达,Visa required,E,,138,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+BT,Bhutan,不丹,Visa required,E,,139,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+GH,Ghana,加纳,Visa required,E,,140,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+KE,Kenya,肯尼亚,Visa required,E,,141,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+ST,Sao Tome and Principe,圣多美和普林西比,Visa required,E,,142,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+ZW,Zimbabwe,津巴布韦,Visa required,E,,143,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+CV,Cabo Verde,佛得角,Visa required,E,,144,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+CU,Cuba,古巴,Visa required,E,,145,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+MG,Madagascar,马达加斯加,Visa required,E,,146,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+HT,Haiti,海地,Visa required,E,,147,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+TZ,Tanzania,坦桑尼亚,Visa required,E,,148,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+SN,Senegal,塞内加尔,Visa required,E,,149,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+DZ,Algeria,阿尔及利亚,Visa required,E,,150,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+BJ,Benin,贝宁,Visa required,E,,151,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+NE,Niger,尼日尔,Visa required,E,,152,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+ZM,Zambia,赞比亚,Visa required,E,,153,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+RW,Rwanda,卢旺达,Visa required,E,,154,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+PS,Palestine,巴勒斯坦,Visa required,E,,155,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+GN,Guinea,几内亚,Visa required,E,,156,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+MZ,Mozambique,莫桑比克,Visa required,E,,157,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+LA,Laos,老挝,Visa required,E,,158,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+TM,Turkmenistan,土库曼斯坦,Visa required,E,,159,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+KM,Comoros,科摩罗,Visa required,E,,160,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+GQ,Equatorial Guinea,赤道几内亚,Visa required,E,,161,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+AO,Angola,安哥拉,Visa required,E,,162,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+CI,Côte d'Ivoire,科特迪瓦,Visa required,E,,163,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+EG,Egypt,埃及,Visa required,E,,164,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+TG,Togo,多哥,Visa required,E,,165,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+BF,Burkina Faso,布基纳法索,Visa required,E,,166,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+MR,Mauritania,毛里塔尼亚,Visa required,E,,167,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+LB,Lebanon,黎巴嫩,Visa required,E,,168,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+GA,Gabon,加蓬,Visa required,E,,169,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+MM,Myanmar,缅甸,Visa required,E,,170,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+ML,Mali,马里,Visa required,E,,171,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+TD,Chad,乍得,Visa required,E,,172,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+GW,Guinea-Bissau,几内亚比绍,Visa required,E,,173,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+SL,Sierra Leone,塞拉利昂,Visa required,E,,174,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+DJ,Djibouti,吉布提,Visa required,E,,175,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+CF,Central African Republic,中非,Visa required,E,,176,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+CM,Cameroon,喀麦隆,Visa required,E,,177,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+NP,Nepal,尼泊尔,Visa required,E,,178,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+BI,Burundi,布隆迪,Visa required,E,,179,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+LY,Libya,利比亚,Visa required,E,,180,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+GM,Gambia,冈比亚,Visa required,E,,181,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+LR,Liberia,利比里亚,Visa required,E,,182,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+LK,Sri Lanka,斯里兰卡,Visa required,E,,183,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+IR,Iran,伊朗,Visa required,E,,184,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+CG,Congo,刚果（布）,Visa required,E,,185,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+ET,Ethiopia,埃塞俄比亚,Visa required,E,,186,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+KP,North Korea,朝鲜,Visa required,E,,187,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+CD,Democratic Republic of the Congo,刚果（金）,Visa required,E,,188,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+SD,Sudan,苏丹,Visa required,E,,189,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+YE,Yemen,也门,Visa required,E,,190,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+BD,Bangladesh,孟加拉国,Visa required,E,,191,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+ER,Eritrea,厄立特里亚,Visa required,E,,192,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+PK,Pakistan,巴基斯坦,Visa required,E,,193,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+NG,Nigeria,尼日利亚,Visa required,E,,194,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+SS,South Sudan,南苏丹,Visa required,E,,196,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+IQ,Iraq,伊拉克,Visa required,E,,197,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+SY,Syria,叙利亚,Visa required,E,,198,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+AF,Afghanistan,阿富汗,Visa required,E,,199,"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected"
+SO,Somalia,索马里,Banned / not possible,F,,195,

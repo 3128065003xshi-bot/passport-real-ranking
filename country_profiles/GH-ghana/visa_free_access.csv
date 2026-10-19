@@ -1,0 +1,199 @@
+﻿destination_iso2,destination,destination_zh,access,code,max_stay_days,destination_tourism_score,destination_tourism_rank,points,source,note,source_url
+SG,Singapore,新加坡,Visa-free,A,30,58.9,21,57.8,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+PH,Philippines,菲律宾,Visa-free,A,30,45.6,59,44.7,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+ZA,South Africa,南非,Visa-free,A,90,44.8,63,43.9,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+TZ,Tanzania,坦桑尼亚,Visa-free,A,90,39.1,83,38.3,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+BD,Bangladesh,孟加拉国,Visa-free,A,90,35.0,105,34.3,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+BS,Bahamas,巴哈马,Visa-free,A,90,33.5,110,32.8,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+MU,Mauritius,毛里求斯,Visa-free,A,90,33.3,111,32.7,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+GY,Guyana,圭亚那,Visa-free,A,90,32.1,115,31.5,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+BW,Botswana,博茨瓦纳,Visa-free,A,,31.9,116,31.3,Wikipedia fact-check (Oct 2026),Wikipedia: Visa not required,https://en.wikipedia.org/wiki/Visa_requirements_for_Ghanaian_citizens
+ZW,Zimbabwe,津巴布韦,Visa-free,A,90,31.6,119,31.0,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+NG,Nigeria,尼日利亚,Visa-free,A,,31.5,120,30.9,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+FJ,Fiji,斐济,Visa-free,A,120,31.2,121,30.6,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+SN,Senegal,塞内加尔,Visa-free,A,90,30.6,124,30.0,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+RW,Rwanda,卢旺达,Visa-free,A,90,30.0,129,29.4,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+UG,Uganda,乌干达,Visa-free,A,90,29.7,130,29.1,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+JM,Jamaica,牙买加,Visa-free,A,,29.6,131,29.0,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+BB,Barbados,巴巴多斯,Visa-free,A,180,28.3,140,27.7,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+CI,Côte d'Ivoire,科特迪瓦,Visa-free,A,90,28.0,142,27.5,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+MZ,Mozambique,莫桑比克,Visa-free,A,30,28.0,143,27.4,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+BZ,Belize,伯利兹,Visa-free,A,,27.0,149,26.5,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+TT,Trinidad and Tobago,特立尼达和多巴哥,Visa-free,A,,27.0,150,26.5,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+MW,Malawi,马拉维,Visa-free,A,90,25.9,153,25.4,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+ML,Mali,马里,Visa-free,A,,25.9,152,25.4,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+BJ,Benin,贝宁,Visa-free,A,90,25.8,155,25.3,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+CV,Cabo Verde,佛得角,Visa-free,A,90,24.2,161,23.7,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+BF,Burkina Faso,布基纳法索,Visa-free,A,,22.9,164,22.5,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+SZ,Eswatini,斯威士兰,Visa-free,A,30,22.7,165,22.3,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+GD,Grenada,格林纳达,Visa-free,A,90,22.6,166,22.2,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+NE,Niger,尼日尔,Visa-free,A,,22.4,167,22.0,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+WS,Samoa,萨摩亚,Visa-free,A,60,22.0,168,21.5,Wikipedia fact-check (Oct 2026),Wikipedia: Visa not required,https://en.wikipedia.org/wiki/Visa_requirements_for_Ghanaian_citizens
+GN,Guinea,几内亚,Visa-free,A,,21.9,169,21.5,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+SL,Sierra Leone,塞拉利昂,Visa-free,A,,21.8,171,21.3,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+VU,Vanuatu,瓦努阿图,Visa-free,A,120,21.8,170,21.4,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+DM,Dominica,多米尼克,Visa-free,A,180,21.0,173,20.6,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+TG,Togo,多哥,Visa-free,A,,20.5,175,20.1,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+VC,Saint Vincent and the Grenadines,圣文森特和格林纳丁斯,Visa-free,A,90,20.4,177,20.0,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+FM,Micronesia,密克罗尼西亚联邦,Visa-free,A,30,19.8,179,19.4,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+GM,Gambia,冈比亚,Visa-free,A,90,18.8,183,18.4,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+HT,Haiti,海地,Visa-free,A,90,18.4,186,18.0,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+GW,Guinea-Bissau,几内亚比绍,Visa-free,A,90,17.6,189,17.3,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+LR,Liberia,利比里亚,Visa-free,A,,16.3,194,16.0,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+KI,Kiribati,基里巴斯,Visa-free,A,90,15.0,195,14.7,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+MA,Morocco,摩洛哥,ETA (pre-travel authorisation),B,,48.4,50,45.0,Wikipedia fact-check (Oct 2026),Wikipedia: Electronic Travel Authorization,https://en.wikipedia.org/wiki/Visa_requirements_for_Ghanaian_citizens
+PK,Pakistan,巴基斯坦,ETA (pre-travel authorisation),B,,45.6,58,42.4,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+KE,Kenya,肯尼亚,ETA (pre-travel authorisation),B,90,36.1,98,33.6,"Passport Index (Jan 2025), not on the passport's Wikipedia page",,https://github.com/ilyankou/passport-index-dataset
+SC,Seychelles,塞舌尔,ETA (pre-travel authorisation),B,90,28.3,139,26.3,Researched policy (2025–26),"Seychelles: free visitor permit on arrival for every nationality, but the online ES-Pass travel authorisation (paid) is mandatory before travel",https://seychelles.govt.sc/
+KN,Saint Kitts and Nevis,圣基茨和尼维斯,ETA (pre-travel authorisation),B,90,24.1,162,22.4,Wikipedia fact-check (Oct 2026),Wikipedia: Electronic Travel Authorisation,https://en.wikipedia.org/wiki/Visa_requirements_for_Ghanaian_citizens
+MO,Macao,中国澳门,Visa on arrival,C,,50.3,43,44.3,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+IR,Iran,伊朗,Visa on arrival,C,15,50.0,44,44.0,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+JO,Jordan,约旦,Visa on arrival,C,30,43.4,66,38.2,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+KH,Cambodia,柬埔寨,Visa on arrival,C,30,41.4,71,36.4,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+ET,Ethiopia,埃塞俄比亚,Visa on arrival,C,90,35.6,101,31.3,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+MV,Maldives,马尔代夫,Visa on arrival,C,30,33.5,108,29.5,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+LB,Lebanon,黎巴嫩,Visa on arrival,C,30,32.9,112,28.9,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+NA,Namibia,纳米比亚,Visa on arrival,C,90,30.5,125,26.8,Wikipedia fact-check (Oct 2026),Wikipedia: eVisa / Visa on arrival,https://en.wikipedia.org/wiki/Visa_requirements_for_Ghanaian_citizens
+NI,Nicaragua,尼加拉瓜,Visa on arrival,C,90,30.1,128,26.4,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+ZM,Zambia,赞比亚,Visa on arrival,C,90,29.0,134,25.6,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+MG,Madagascar,马达加斯加,Visa on arrival,C,90,28.4,138,25.0,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+LC,Saint Lucia,圣卢西亚,Visa on arrival,C,42,24.9,158,21.9,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+PW,Palau,帕劳,Visa on arrival,C,30,23.4,163,20.6,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+TL,Timor-Leste,东帝汶,Visa on arrival,C,30,19.3,181,17.0,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+KM,Comoros,科摩罗,Visa on arrival,C,45,16.6,192,14.6,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+BI,Burundi,布隆迪,Visa on arrival,C,,14.0,197,12.3,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+TV,Tuvalu,图瓦卢,Visa on arrival,C,30,12.1,199,10.6,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+IN,India,印度,e-Visa,D,,64.0,12,49.9,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+TH,Thailand,泰国,e-Visa,D,,58.4,23,45.6,Wikipedia fact-check (Oct 2026),Wikipedia: eVisa,https://en.wikipedia.org/wiki/Visa_requirements_for_Ghanaian_citizens
+MY,Malaysia,马来西亚,e-Visa,D,,54.5,33,42.5,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+AE,United Arab Emirates,阿联酋,e-Visa,D,,54.1,34,42.2,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+VN,Vietnam,越南,e-Visa,D,,53.7,37,41.9,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+KZ,Kazakhstan,哈萨克斯坦,e-Visa,D,,46.2,56,36.1,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+QA,Qatar,卡塔尔,e-Visa,D,,45.3,60,35.3,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+CO,Colombia,哥伦比亚,e-Visa,D,,44.9,62,35.0,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+OM,Oman,阿曼,e-Visa,D,,44.7,64,34.9,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+UZ,Uzbekistan,乌兹别克斯坦,e-Visa,D,,44.0,65,34.4,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+GE,Georgia,格鲁吉亚,e-Visa,D,,43.3,67,33.8,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+AL,Albania,阿尔巴尼亚,e-Visa,D,,43.0,68,33.6,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+BH,Bahrain,巴林,e-Visa,D,,39.6,82,30.9,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+BO,Bolivia,玻利维亚,e-Visa,D,,38.8,86,30.2,Wikipedia fact-check (Oct 2026),Wikipedia: eVisa,https://en.wikipedia.org/wiki/Visa_requirements_for_Ghanaian_citizens
+EC,Ecuador,厄瓜多尔,e-Visa,D,,38.4,87,29.9,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+MM,Myanmar,缅甸,e-Visa,D,,38.3,88,29.9,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+BT,Bhutan,不丹,e-Visa,D,,35.2,104,27.4,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+IQ,Iraq,伊拉克,e-Visa,D,,35.2,103,27.4,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+MN,Mongolia,蒙古,e-Visa,D,,34.8,106,27.1,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+SY,Syria,叙利亚,e-Visa,D,,33.5,109,26.2,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+LY,Libya,利比亚,e-Visa,D,,32.6,113,25.4,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+TJ,Tajikistan,塔吉克斯坦,e-Visa,D,,32.4,114,25.3,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+KG,Kyrgyzstan,吉尔吉斯斯坦,e-Visa,D,,31.8,117,24.8,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+SV,El Salvador,萨尔瓦多,e-Visa,D,,30.7,123,23.9,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+TM,Turkmenistan,土库曼斯坦,e-Visa,D,,29.2,133,22.8,Researched policy (2025–26),Turkmenistan e-visa (evisa.migration.gov.tm) since 2026-10-01; no invitation letter for tourists,https://www.buch-dein-visum.de/en/news/turkmenistan/turkmenistan-fuehrt-elektronisches-visum-e-visa-zum-1-oktober-2026-ein-77b4ed
+AF,Afghanistan,阿富汗,e-Visa,D,,28.9,135,22.6,Wikipedia fact-check (Oct 2026),Wikipedia: eVisa,https://en.wikipedia.org/wiki/Visa_requirements_for_Ghanaian_citizens
+CM,Cameroon,喀麦隆,e-Visa,D,,27.6,145,21.5,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+AO,Angola,安哥拉,e-Visa,D,,27.5,146,21.4,Wikipedia fact-check (Oct 2026),Wikipedia: eVisa,https://en.wikipedia.org/wiki/Visa_requirements_for_Ghanaian_citizens
+AG,Antigua and Barbuda,安提瓜和巴布达,e-Visa,D,,27.3,148,21.3,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+CD,Democratic Republic of the Congo,刚果（金）,e-Visa,D,,26.4,151,20.6,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+PG,Papua New Guinea,巴布亚新几内亚,e-Visa,D,,25.8,154,20.1,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+MD,Moldova,摩尔多瓦,e-Visa,D,,25.6,156,20.0,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+MR,Mauritania,毛里塔尼亚,e-Visa,D,,25.4,157,19.8,Wikipedia fact-check (Oct 2026),Wikipedia: eVisa,https://en.wikipedia.org/wiki/Visa_requirements_for_Ghanaian_citizens
+GA,Gabon,加蓬,e-Visa,D,,24.8,159,19.3,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+SR,Suriname,苏里南,e-Visa,D,,24.7,160,19.2,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+TD,Chad,乍得,e-Visa,D,,20.4,176,15.9,Researched policy (2025–26),Chad: evisa.td is the sole channel for visas since 2026-05-11 (visas for US citizens suspended),https://www.ecofinagency.com/news-digital/1405-55588-chad-makes-online-platform-mandatory-for-all-visa-applications
+GQ,Equatorial Guinea,赤道几内亚,e-Visa,D,,20.3,178,15.8,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+DJ,Djibouti,吉布提,e-Visa,D,,19.4,180,15.1,Wikipedia fact-check (Oct 2026),Wikipedia: eVisa,https://en.wikipedia.org/wiki/Visa_requirements_for_Ghanaian_citizens
+LS,Lesotho,莱索托,e-Visa,D,,19.3,182,15.0,Wikipedia fact-check (Oct 2026),Wikipedia: eVisa,https://en.wikipedia.org/wiki/Visa_requirements_for_Ghanaian_citizens
+SO,Somalia,索马里,e-Visa,D,,18.4,185,14.4,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+ST,Sao Tome and Principe,圣多美和普林西比,e-Visa,D,,18.3,187,14.3,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+SS,South Sudan,南苏丹,e-Visa,D,,14.4,196,11.2,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+US,United States,美国,Visa required,E,,81.1,1,6.5,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+CN,China,中国,Visa required,E,,76.9,2,6.2,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+FR,France,法国,Visa required,E,,72.3,3,5.8,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+JP,Japan,日本,Visa required,E,,70.9,4,5.7,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+ES,Spain,西班牙,Visa required,E,,69.1,5,5.5,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+IT,Italy,意大利,Visa required,E,,68.8,6,5.5,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+DE,Germany,德国,Visa required,E,,67.2,7,5.4,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+GB,United Kingdom,英国,Visa required,E,,67.0,8,5.4,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+CH,Switzerland,瑞士,Visa required,E,,65.5,9,5.2,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+TR,Türkiye,土耳其,Visa required,E,,64.7,10,5.2,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+AT,Austria,奥地利,Visa required,E,,64.7,11,5.2,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+CA,Canada,加拿大,Visa required,E,,62.6,13,5.0,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+RU,Russia,俄罗斯,Visa required,E,,62.4,14,5.0,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+IE,Ireland,爱尔兰,Visa required,E,,61.0,15,4.9,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+NO,Norway,挪威,Visa required,E,,60.6,16,4.8,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+MX,Mexico,墨西哥,Visa required,E,,59.8,17,4.8,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+AU,Australia,澳大利亚,Visa required,E,,59.6,18,4.8,Researched policy (2025–26),"Australia Visitor visa (subclass 600): case-officer assessment with proof of funds and home ties, from AUD 250; a full visa, not a simple e-visa. ETA/eVisitor passports unaffected",https://themigration.com.au/blog/600-vs-601-vs-651-visitor-visa
+KR,South Korea,韩国,Visa required,E,,59.1,20,4.7,Researched policy (2025–26),Korea C-3-9 tourist visa is applied for at an embassy or visa centre with financial documents; the e-visa is not open to ordinary individual tourists,https://overseas.mofa.go.kr/no-en/brd/m_25413/view.do?seq=11&page=1
+NL,Netherlands,荷兰,Visa required,E,,59.1,19,4.7,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+GR,Greece,希腊,Visa required,E,,58.9,22,4.7,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+PT,Portugal,葡萄牙,Visa required,E,,58.3,24,4.7,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+SA,Saudi Arabia,沙特阿拉伯,Visa required,E,,57.7,25,4.6,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+ID,Indonesia,印度尼西亚,Visa required,E,,57.4,26,4.6,Wikipedia fact-check (Oct 2026),Wikipedia: Visa required,https://en.wikipedia.org/wiki/Visa_requirements_for_Ghanaian_citizens
+TW,Taiwan,台湾,Visa required,E,,57.1,27,4.6,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+HK,Hong Kong,中国香港,Visa required,E,,56.5,28,4.5,Researched policy (2025–26),"Hong Kong visit visa is a full application to ImmD (issued as an e-Visa only once approved), not a simple e-visa",https://www.immd.gov.hk/pdforms/ID(E)1004.pdf
+DK,Denmark,丹麦,Visa required,E,,55.4,29,4.4,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+SE,Sweden,瑞典,Visa required,E,,55.2,30,4.4,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+EG,Egypt,埃及,Visa required,E,,55.1,31,4.4,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+PL,Poland,波兰,Visa required,E,,54.7,32,4.4,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+CZ,Czechia,捷克,Visa required,E,,53.9,35,4.3,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+BR,Brazil,巴西,Visa required,E,,53.7,36,4.3,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+HR,Croatia,克罗地亚,Visa required,E,,53.7,38,4.3,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+BE,Belgium,比利时,Visa required,E,,53.3,39,4.3,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+AR,Argentina,阿根廷,Visa required,E,,52.9,40,4.2,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+RO,Romania,罗马尼亚,Visa required,E,,51.1,41,4.1,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+NZ,New Zealand,新西兰,Visa required,E,,50.6,42,4.0,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+FI,Finland,芬兰,Visa required,E,,49.9,45,4.0,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+IS,Iceland,冰岛,Visa required,E,,49.8,46,4.0,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+PE,Peru,秘鲁,Visa required,E,,49.7,47,4.0,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+IL,Israel,以色列,Visa required,E,,49.6,48,4.0,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+HU,Hungary,匈牙利,Visa required,E,,48.5,49,3.9,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+SK,Slovakia,斯洛伐克,Visa required,E,,47.9,52,3.8,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+SI,Slovenia,斯洛文尼亚,Visa required,E,,47.9,51,3.8,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+CL,Chile,智利,Visa required,E,,47.3,53,3.8,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+MT,Malta,马耳他,Visa required,E,,46.7,54,3.7,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+BG,Bulgaria,保加利亚,Visa required,E,,46.3,55,3.7,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+LU,Luxembourg,卢森堡,Visa required,E,,45.7,57,3.7,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+CY,Cyprus,塞浦路斯,Visa required,E,,45.0,61,3.6,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+MC,Monaco,摩纳哥,Visa required,E,,42.6,69,3.4,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+LK,Sri Lanka,斯里兰卡,Visa required,E,,42.4,70,3.4,Wikipedia fact-check (Oct 2026),Wikipedia: Visa required,https://en.wikipedia.org/wiki/Visa_requirements_for_Ghanaian_citizens
+AD,Andorra,安道尔,Visa required,E,,41.4,72,3.3,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+CU,Cuba,古巴,Visa required,E,,41.2,73,3.3,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+DO,Dominican Republic,多米尼加,Visa required,E,,41.1,74,3.3,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+NP,Nepal,尼泊尔,Visa required,E,,41.0,75,3.3,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+EE,Estonia,爱沙尼亚,Visa required,E,,40.8,76,3.3,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+UA,Ukraine,乌克兰,Visa required,E,,40.7,77,3.3,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+TN,Tunisia,突尼斯,Visa required,E,,40.6,78,3.2,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+DZ,Algeria,阿尔及利亚,Visa required,E,,40.4,79,3.2,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+LT,Lithuania,立陶宛,Visa required,E,,40.4,80,3.2,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+ME,Montenegro,黑山,Visa required,E,,40.0,81,3.2,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+LI,Liechtenstein,列支敦士登,Visa required,E,,38.9,84,3.1,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+RS,Serbia,塞尔维亚,Visa required,E,,38.8,85,3.1,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+CR,Costa Rica,哥斯达黎加,Visa required,E,,38.1,89,3.0,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+GT,Guatemala,危地马拉,Visa required,E,,38.0,90,3.0,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+AZ,Azerbaijan,阿塞拜疆,Visa required,E,,37.9,91,3.0,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+BA,Bosnia and Herzegovina,波斯尼亚和黑塞哥维那,Visa required,E,,37.7,92,3.0,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+LV,Latvia,拉脱维亚,Visa required,E,,37.7,93,3.0,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+PA,Panama,巴拿马,Visa required,E,,37.2,94,3.0,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+AM,Armenia,亚美尼亚,Visa required,E,,37.2,95,3.0,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+LA,Laos,老挝,Visa required,E,,36.9,96,3.0,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+BY,Belarus,白俄罗斯,Visa required,E,,36.5,97,2.9,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+UY,Uruguay,乌拉圭,Visa required,E,,36.0,99,2.9,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+BN,Brunei,文莱,Visa required,E,,35.6,102,2.8,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+SM,San Marino,圣马力诺,Visa required,E,,35.6,100,2.8,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+MK,North Macedonia,北马其顿,Visa required,E,,33.7,107,2.7,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+KW,Kuwait,科威特,Visa required,E,,31.8,118,2.5,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+VE,Venezuela,委内瑞拉,Visa required,E,,31.2,122,2.5,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+PS,Palestine,巴勒斯坦,Visa required,E,,30.2,126,2.4,"Passport Index (Jan 2025), not on the passport's Wikipedia page",,https://github.com/ilyankou/passport-index-dataset
+XK,Kosovo,科索沃,Visa required,E,,30.2,127,2.4,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+PY,Paraguay,巴拉圭,Visa required,E,,28.4,137,2.3,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+YE,Yemen,也门,Visa required,E,,28.4,136,2.3,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+SD,Sudan,苏丹,Visa required,E,,28.1,141,2.2,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+HN,Honduras,洪都拉斯,Visa required,E,,27.4,147,2.2,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+TO,Tonga,汤加,Visa required,E,,21.3,172,1.7,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+CG,Congo,刚果（布）,Visa required,E,,20.9,174,1.7,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+VA,Holy See (Vatican City),梵蒂冈,Visa required,E,,18.7,184,1.5,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+ER,Eritrea,厄立特里亚,Visa required,E,,17.7,188,1.4,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+NR,Nauru,瑙鲁,Visa required,E,,17.6,190,1.4,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+MH,Marshall Islands,马绍尔群岛,Visa required,E,,16.7,191,1.3,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+SB,Solomon Islands,所罗门群岛,Visa required,E,,16.4,193,1.3,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+CF,Central African Republic,中非,Visa required,E,,13.4,198,1.1,"Passport Index (Jan 2025), confirmed by Wikipedia (Oct 2026)",,https://github.com/ilyankou/passport-index-dataset
+KP,North Korea,朝鲜,Banned / not possible,F,,27.7,144,0.0,Researched policy (2025–26),North Korea largely closed to tourism since 2020; only Russian tour groups admitted (judgement call),

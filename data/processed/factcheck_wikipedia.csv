@@ -736,6 +736,7 @@ MU,TM,D,E,keep,hand-researched override,Visa required,,2026-06-30,override:row49
 MU,UA,E,D,apply,,eVisa,,2026-06-30,passport_index_2025-01-12
 MA,AF,E,D,apply,,eVisa,,2026-10-10,passport_index_2025-01-12
 MA,AD,E,A,keep,"reachable only through Schengen, which needs a visa",Visa not required,,2026-10-10,passport_index_2025-01-12
+MA,AR,A,E,keep,hand-researched override,Visa required,,2026-10-10,override:row65
 MA,BH,D,C,apply,,eVisa / Visa on arrival,14 days,2026-10-10,passport_index_2025-01-12
 MA,BO,C,D,apply,,Online Visa,30 days,2026-10-10,passport_index_2025-01-12
 MA,CU,B,D,keep,hand-researched override,eVisa,90 days,2026-10-10,override:row54
@@ -1876,6 +1877,7 @@ PE,CI,B,D,apply,,eVisa,3 months,2026-09-09,passport_index_2025-01-12
 PE,CU,B,D,keep,hand-researched override,eVisa,90 days,2026-09-09,override:row54
 PE,DJ,C,D,apply,,eVisa,90 days,2026-09-09,passport_index_2025-01-12
 PE,GH,B,E,keep,hand-researched override,Visa required,,2026-09-09,override:row48
+PE,ID,A,C,keep,hand-researched override,e-VOA / Visa on arrival,30 days,2026-09-09,override:row66
 PE,IL,A,B,apply,,Electronic Travel Authorization,90 days,2026-09-09,passport_index_2025-01-12
 PE,JP,E,A,apply,,Visa not required,90 days,2026-09-09,passport_index_2025-01-12
 PE,KZ,D,E,apply,,Visa required,,2026-09-09,passport_index_2025-01-12
@@ -2349,7 +2351,7 @@ CY,TN,E,A,apply,,EU/EEA consensus: A on >= 70% of EU/EEA pages (own page: Visa r
 CY,TR,C,D,apply,,eVisa,1 month,2026-10-04,passport_index_2025-01-12
 CY,TM,D,E,keep,hand-researched override,Visa required,,2026-10-04,override:row49
 CY,UG,A,D,apply,,EU/EEA consensus: D on >= 70% of EU/EEA pages (own page: Visa not required),3 months,2026-10-04,passport_index_2025-01-12
-CY,US,E,B,apply,,EU/EEA consensus: B on >= 70% of EU/EEA pages (own page: Visa required),,2026-10-04,passport_index_2025-01-12
+CY,US,E,B,keep,hand-researched override,EU/EEA consensus: B on >= 70% of EU/EEA pages (own page: Visa required),,2026-10-04,override:row58
 CY,VA,S,A,keep,free movement group (S),Visa not required,,2026-10-04,group:EU_EEA_CH
 CY,ZW,A,C,apply,,EU/EEA consensus: C on >= 70% of EU/EEA pages (own page: Visa not required),3 months,2026-10-04,passport_index_2025-01-12
 GE,AF,E,D,apply,,eVisa,30 days,2026-10-16,passport_index_2025-01-12
@@ -3584,7 +3586,7 @@ BG,ZA,D,A,apply,,Visa not required,90 days,2026-10-10,passport_index_2025-01-12
 BG,SR,E,A,apply,,Visa not required,90 days,2026-10-10,passport_index_2025-01-12
 BG,SY,D,C,apply,,eVisa / Visa on arrival,30 days,2026-10-10,passport_index_2025-01-12
 BG,TM,D,E,keep,hand-researched override,Visa required,,2026-10-10,override:row49
-BG,US,E,B,apply,,EU/EEA consensus: B on >= 70% of EU/EEA pages (own page: Visa required),,2026-10-10,passport_index_2025-01-12
+BG,US,E,B,keep,hand-researched override,EU/EEA consensus: B on >= 70% of EU/EEA pages (own page: Visa required),,2026-10-10,override:row58
 BG,VA,S,A,keep,free movement group (S),Visa not required,,2026-10-10,group:EU_EEA_CH
 BG,VN,D,A,apply,,Visa not required,45 days,2026-10-10,passport_index_2025-01-12
 HR,AF,E,D,apply,,eVisa,30 days,2026-10-13,passport_index_2025-01-12
@@ -3597,7 +3599,7 @@ HR,CU,B,D,keep,hand-researched override,eVisa,90 days,2026-10-13,override:row54
 HR,DJ,C,D,apply,,EU/EEA consensus: D on >= 70% of EU/EEA pages (own page: eVisa / Visa on arrival),30 days,2026-10-13,passport_index_2025-01-12
 HR,GH,B,D,keep,hand-researched override,eVisa,30 days,2026-10-13,override:row48
 HR,GY,E,D,apply,,eVisa,,2026-10-13,passport_index_2025-01-12
-HR,IR,A,D,apply,,EU/EEA consensus: D on >= 70% of EU/EEA pages (own page: Visa not required),15 days,2026-10-13,passport_index_2025-01-12
+HR,IR,A,D,keep,hand-researched override,EU/EEA consensus: D on >= 70% of EU/EEA pages (own page: Visa not required),15 days,2026-10-13,override:row64
 HR,IQ,C,D,apply,,eVisa,60 days,2026-10-13,passport_index_2025-01-12
 HR,IL,A,B,apply,,Electronic Travel Authorization,90 days,2026-10-13,passport_index_2025-01-12
 HR,JM,C,A,apply,,EU/EEA consensus: A on >= 70% of EU/EEA pages (own page: Visa on arrival),30 days,2026-10-13,passport_index_2025-01-12
@@ -4104,6 +4106,7 @@ LU,SO,C,D,apply,,eVisa,,2026-09-10,passport_index_2025-01-12
 LU,SR,E,A,apply,,EU/EEA consensus: A on >= 70% of EU/EEA pages (own page: Visa required),90 days,2026-09-10,passport_index_2025-01-12
 LU,TM,D,E,keep,hand-researched override,Visa required,,2026-09-10,override:row49
 LU,VA,S,A,keep,free movement group (S),Visa not required,,2026-09-10,group:EU_EEA_CH
+LU,VN,A,D,keep,hand-researched override,eVisa,* e-Visa is valid for 90 days and multiple entry.,2026-09-10,override:row63
 MT,AF,E,D,apply,,eVisa,30 days,2026-07-30,passport_index_2025-01-12
 MT,AD,S,A,keep,free movement group (S),Visa not required,,2026-07-30,group:EU_EEA_CH
 MT,BO,C,A,apply,,Visa not required,90 days,2026-07-30,passport_index_2025-01-12
@@ -4452,7 +4455,7 @@ RO,SR,E,A,apply,,Visa not required,90 days,2026-10-06,passport_index_2025-01-12
 RO,SY,D,C,apply,,eVisa / Visa on arrival,30 days,2026-10-06,passport_index_2025-01-12
 RO,TZ,A,C,apply,,EU/EEA consensus: C on >= 70% of EU/EEA pages (own page: Visa not required),90 days,2026-10-06,passport_index_2025-01-12
 RO,TM,D,E,keep,hand-researched override,Visa required,,2026-10-06,override:row49
-RO,US,E,B,apply,,EU/EEA consensus: B on >= 70% of EU/EEA pages (own page: Visa required),,2026-10-06,passport_index_2025-01-12
+RO,US,E,B,keep,hand-researched override,EU/EEA consensus: B on >= 70% of EU/EEA pages (own page: Visa required),,2026-10-06,override:row58
 RO,VA,S,A,keep,free movement group (S),Visa not required,,2026-10-06,group:EU_EEA_CH
 RO,VN,D,A,apply,,Visa not required,45 days,2026-10-06,passport_index_2025-01-12
 RO,CI,B,D,apply,,EU/EEA consensus: D on >= 70% of EU/EEA pages (missing on own page),,2026-10-06,passport_index_2025-01-12
@@ -4466,7 +4469,7 @@ RU,EE,F,?,keep,hand-researched override,✓,,2026-10-13,override:row37
 RU,FI,F,?,keep,hand-researched override,✓,,2026-10-13,override:row38
 RU,GM,A,E,apply,,Visa required,,2026-10-13,passport_index_2025-01-12
 RU,GH,B,D,keep,hand-researched override,eVisa,,2026-10-13,override:row48
-RU,IR,C,D,apply,,Visa not required (conditional) / eVisa,* Visa not required for 15 days for travelling as part of an accredited tour group (5 ~ 50 people).,2026-10-13,passport_index_2025-01-12
+RU,IR,A,D,keep,hand-researched override,Visa not required (conditional) / eVisa,* Visa not required for 15 days for travelling as part of an accredited tour group (5 ~ 50 people).,2026-10-13,override:row64
 RU,IQ,C,D,apply,,eVisa,,2026-10-13,passport_index_2025-01-12
 RU,IL,A,B,apply,,Electronic Travel Authorization,,2026-10-13,passport_index_2025-01-12
 RU,JO,C,A,apply,,Visa not required,90 days,2026-10-13,passport_index_2025-01-12
@@ -4485,6 +4488,7 @@ RU,PL,F,?,keep,hand-researched override,✓,,2026-10-13,override:row41
 RU,QA,C,A,apply,,Visa not required,,2026-10-13,passport_index_2025-01-12
 RU,KN,A,B,apply,,Electronic Travel Authorisation,,2026-10-13,passport_index_2025-01-12
 RU,SA,C,A,apply,,Visa not required,* Visa-free for 90 days within one calendar year period.,2026-10-13,passport_index_2025-01-12
+RU,SG,A,D,keep,hand-researched override,Visa required / Online Visa,,2026-10-13,override:row60
 RU,SB,E,D,apply,,eVisa,,2026-10-13,passport_index_2025-01-12
 RU,SO,C,D,apply,,eVisa,,2026-10-13,passport_index_2025-01-12
 RU,SR,E,A,apply,,Visa not required,,2026-10-13,passport_index_2025-01-12
@@ -4608,6 +4612,7 @@ SK,ZA,D,A,apply,,Visa not required,90 days,2026-09-10,passport_index_2025-01-12
 SK,SR,E,A,apply,,Visa not required,,2026-09-10,passport_index_2025-01-12
 SK,TM,D,E,keep,hand-researched override,Visa required,,2026-09-10,override:row49
 SK,VA,S,A,keep,free movement group (S),Visa not required,,2026-09-10,group:EU_EEA_CH
+SK,VN,A,D,keep,hand-researched override,eVisa,90 days,2026-09-10,override:row63
 SI,AF,E,D,apply,,eVisa,30 days,2026-04-16,passport_index_2025-01-12
 SI,AD,S,A,keep,free movement group (S),Visa not required,,2026-04-16,group:EU_EEA_CH
 SI,BF,C,D,apply,,eVisa,1 month,2026-04-16,passport_index_2025-01-12
@@ -5023,7 +5028,7 @@ PG,RS,E,D,apply,,eVisa,90 days,2026-08-25,passport_index_2025-01-12
 PG,SR,E,A,apply,,Visa not required,90 days,2026-08-25,passport_index_2025-01-12
 PG,TH,D,A,keep,hand-researched override,Visa not required,60 days,2026-08-25,override:row9
 PG,TM,D,E,keep,hand-researched override,Visa required,"* When transiting between two non-bordering countries, visitors can obtain a Turkmenistan transit visa for a five-day stay. This must be applied for in advance at the Turkmenistan Embassy. Visitors must also submit copies of the visas for the country of entry into Turkmenistan and the country of departure from Turkmenistan. Visa fee is 20 USD.",2026-08-25,override:row49
-PG,AE,D,E,keep,UAE tourist visas are issued online via airlines/agents: e-visa,Visa required,,2026-08-25,passport_index_2025-01-12
+PG,AE,A,E,keep,hand-researched override,Visa required,,2026-08-25,override:row67
 PG,VE,E,D,apply,,eVisa,,2026-08-25,passport_index_2025-01-12
 PG,ZM,D,A,apply,,Visa not required,90 days,2026-08-25,passport_index_2025-01-12
 WS,AF,E,D,apply,,eVisa,30 days,2026-05-07,passport_index_2025-01-12
@@ -5062,7 +5067,7 @@ SB,MR,C,D,apply,,eVisa,30 days,2026-04-12,passport_index_2025-01-12
 SB,NA,E,D,apply,,eVisa,90 days,2026-04-12,passport_index_2025-01-12
 SB,OM,D,E,apply,,Visa required,,2026-04-12,passport_index_2025-01-12
 SB,PG,B,C,apply,,eVisa / Free visa on arrival,60 days,2026-04-12,passport_index_2025-01-12
-SB,RO,A,E,apply,,Visa required,90 days,2026-04-12,passport_index_2025-01-12
+SB,RO,A,E,keep,hand-researched override,Visa required,90 days,2026-04-12,override:row59
 SB,KN,A,B,apply,,Electronic Travel Authorisation,,2026-04-12,passport_index_2025-01-12
 SB,WS,C,A,apply,,Visa not required,60 days,2026-04-12,passport_index_2025-01-12
 SB,SC,B,C,keep,hand-researched override,Free Visitor's Permit on arrival,3 months,2026-04-12,override:row46
@@ -5072,6 +5077,7 @@ SB,TM,D,E,keep,hand-researched override,Visa required,,2026-04-12,override:row49
 SB,UA,E,D,apply,,eVisa,30 days,2026-04-12,passport_index_2025-01-12
 SB,VE,E,D,apply,,eVisa,,2026-04-12,passport_index_2025-01-12
 SB,TW,D,E,apply,,Visa required,,2026-04-12,passport_index_2025-01-12
+SB,HK,A,E,keep,hand-researched override,eVisa,,2026-04-12,override:row62
 TO,AF,E,D,apply,,eVisa,30 days,2026-04-12,passport_index_2025-01-12
 TO,CI,B,D,apply,,eVisa,90 days,2026-04-12,passport_index_2025-01-12
 TO,CU,B,D,keep,hand-researched override,eVisa,90 days,2026-04-12,override:row54

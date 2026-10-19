@@ -1,0 +1,199 @@
+﻿passport_iso2,passport,passport_zh,access,code,max_stay_days,passport_rank,note
+SG,Singapore,新加坡,Visa-free,A,30,1,
+MY,Malaysia,马来西亚,Visa-free,A,30,33,
+HK,Hong Kong,中国香港,Visa-free,A,30,37,
+BR,Brazil,巴西,Visa-free,A,30,47,Wikipedia: Visa not required / e-VOA
+BN,Brunei,文莱,Visa-free,A,30,49,
+PE,Peru,秘鲁,Visa-free,A,30,57,On Indonesia's visa-exemption list
+MO,Macao,中国澳门,Visa-free,A,30,62,Wikipedia: Visa not required
+CO,Colombia,哥伦比亚,Visa-free,A,30,69,
+TL,Timor-Leste,东帝汶,Visa-free,A,30,93,
+TR,Türkiye,土耳其,Visa-free,A,30,96,Wikipedia: Visa not required / e-VOA
+TH,Thailand,泰国,Visa-free,A,30,108,
+BY,Belarus,白俄罗斯,Visa-free,A,30,109,Wikipedia: Visa not required
+KZ,Kazakhstan,哈萨克斯坦,Visa-free,A,30,110,Wikipedia: Visa not required
+SR,Suriname,苏里南,Visa-free,A,30,113,
+PH,Philippines,菲律宾,Visa-free,A,30,121,
+VN,Vietnam,越南,Visa-free,A,30,132,
+KH,Cambodia,柬埔寨,Visa-free,A,30,134,
+LA,Laos,老挝,Visa-free,A,30,158,
+MM,Myanmar,缅甸,Visa-free,A,30,170,
+DK,Denmark,丹麦,Visa on arrival,C,30,2,
+FI,Finland,芬兰,Visa on arrival,C,30,2,
+NO,Norway,挪威,Visa on arrival,C,30,2,
+HR,Croatia,克罗地亚,Visa on arrival,C,30,5,
+NL,Netherlands,荷兰,Visa on arrival,C,30,6,
+ES,Spain,西班牙,Visa on arrival,C,30,6,
+SE,Sweden,瑞典,Visa on arrival,C,30,6,
+CH,Switzerland,瑞士,Visa on arrival,C,30,9,
+LU,Luxembourg,卢森堡,Visa on arrival,C,30,10,
+BE,Belgium,比利时,Visa on arrival,C,30,11,
+FR,France,法国,Visa on arrival,C,30,12,
+HU,Hungary,匈牙利,Visa on arrival,C,30,13,
+PL,Poland,波兰,Visa on arrival,C,,14,
+DE,Germany,德国,Visa on arrival,C,,15,
+AT,Austria,奥地利,Visa on arrival,C,,16,
+IE,Ireland,爱尔兰,Visa on arrival,C,30,17,
+IT,Italy,意大利,Visa on arrival,C,30,18,
+GR,Greece,希腊,Visa on arrival,C,30,19,
+PT,Portugal,葡萄牙,Visa on arrival,C,30,20,
+MT,Malta,马耳他,Visa on arrival,C,30,21,
+SI,Slovenia,斯洛文尼亚,Visa on arrival,C,30,22,
+SK,Slovakia,斯洛伐克,Visa on arrival,C,30,23,
+KR,South Korea,韩国,Visa on arrival,C,30,24,
+JP,Japan,日本,Visa on arrival,C,30,25,
+AE,United Arab Emirates,阿联酋,Visa on arrival,C,30,26,
+IS,Iceland,冰岛,Visa on arrival,C,30,27,
+EE,Estonia,爱沙尼亚,Visa on arrival,C,30,28,
+LI,Liechtenstein,列支敦士登,Visa on arrival,C,30,29,
+BG,Bulgaria,保加利亚,Visa on arrival,C,,30,
+RO,Romania,罗马尼亚,Visa on arrival,C,,30,
+LV,Latvia,拉脱维亚,Visa on arrival,C,30,32,
+LT,Lithuania,立陶宛,Visa on arrival,C,30,34,
+CZ,Czechia,捷克,Visa on arrival,C,30,35,
+CY,Cyprus,塞浦路斯,Visa on arrival,C,30,36,
+NZ,New Zealand,新西兰,Visa on arrival,C,30,38,
+AU,Australia,澳大利亚,Visa on arrival,C,30,39,
+MC,Monaco,摩纳哥,Visa on arrival,C,30,40,
+GB,United Kingdom,英国,Visa on arrival,C,30,41,
+CA,Canada,加拿大,Visa on arrival,C,30,42,
+US,United States,美国,Visa on arrival,C,,43,
+AD,Andorra,安道尔,Visa on arrival,C,30,44,
+SM,San Marino,圣马力诺,Visa on arrival,C,30,45,
+CL,Chile,智利,Visa on arrival,C,30,46,
+AR,Argentina,阿根廷,Visa on arrival,C,30,48,
+MX,Mexico,墨西哥,Visa on arrival,C,30,52,
+VA,Holy See (Vatican City),梵蒂冈,Visa on arrival,C,30,53,
+UA,Ukraine,乌克兰,Visa on arrival,C,30,58,
+TW,Taiwan,台湾,Visa on arrival,C,30,63,
+RS,Serbia,塞尔维亚,Visa on arrival,C,30,66,
+SC,Seychelles,塞舌尔,Visa on arrival,C,30,71,
+SV,El Salvador,萨尔瓦多,Visa on arrival,C,,73,Wikipedia: Visa on arrival
+AL,Albania,阿尔巴尼亚,Visa on arrival,C,30,79,
+GT,Guatemala,危地马拉,Visa on arrival,C,30,81,
+BA,Bosnia and Herzegovina,波斯尼亚和黑塞哥维那,Visa on arrival,C,30,84,
+VE,Venezuela,委内瑞拉,Visa on arrival,C,30,92,
+QA,Qatar,卡塔尔,Visa on arrival,C,30,94,
+RU,Russia,俄罗斯,Visa on arrival,C,,95,
+KW,Kuwait,科威特,Visa on arrival,C,30,98,
+SA,Saudi Arabia,沙特阿拉伯,Visa on arrival,C,30,99,
+ZA,South Africa,南非,Visa on arrival,C,30,100,
+EC,Ecuador,厄瓜多尔,Visa on arrival,C,30,101,
+BH,Bahrain,巴林,Visa on arrival,C,30,104,
+OM,Oman,阿曼,Visa on arrival,C,30,105,
+MV,Maldives,马尔代夫,Visa on arrival,C,30,106,
+CN,China,中国,Visa on arrival,C,30,111,
+MN,Mongolia,蒙古,Visa on arrival,C,30,118,
+MA,Morocco,摩洛哥,Visa on arrival,C,30,120,
+AM,Armenia,亚美尼亚,Visa on arrival,C,30,122,
+PG,Papua New Guinea,巴布亚新几内亚,Visa on arrival,C,30,123,
+AZ,Azerbaijan,阿塞拜疆,Visa on arrival,C,30,125,
+UZ,Uzbekistan,乌兹别克斯坦,Visa on arrival,C,30,126,
+TN,Tunisia,突尼斯,Visa on arrival,C,30,129,
+IN,India,印度,Visa on arrival,C,30,131,
+JO,Jordan,约旦,Visa on arrival,C,30,135,
+KE,Kenya,肯尼亚,Visa on arrival,C,30,141,
+TZ,Tanzania,坦桑尼亚,Visa on arrival,C,,148,
+RW,Rwanda,卢旺达,Visa on arrival,C,30,154,
+PS,Palestine,巴勒斯坦,Visa on arrival,C,30,155,
+MZ,Mozambique,莫桑比克,Visa on arrival,C,30,157,
+EG,Egypt,埃及,Visa on arrival,C,30,164,
+PY,Paraguay,巴拉圭,e-Visa,D,,56,
+BS,Bahamas,巴哈马,e-Visa,D,,59,
+KN,Saint Kitts and Nevis,圣基茨和尼维斯,e-Visa,D,,60,
+TT,Trinidad and Tobago,特立尼达和多巴哥,e-Visa,D,,67,
+MK,North Macedonia,北马其顿,e-Visa,D,,75,
+GE,Georgia,格鲁吉亚,e-Visa,D,,76,
+NI,Nicaragua,尼加拉瓜,e-Visa,D,,82,
+MD,Moldova,摩尔多瓦,e-Visa,D,,87,
+PW,Palau,帕劳,e-Visa,D,,89,
+BZ,Belize,伯利兹,e-Visa,D,,102,
+JM,Jamaica,牙买加,e-Visa,D,,103,
+BO,Bolivia,玻利维亚,e-Visa,D,,112,
+UG,Uganda,乌干达,e-Visa,D,,138,
+ST,Sao Tome and Principe,圣多美和普林西比,e-Visa,D,,142,
+ZW,Zimbabwe,津巴布韦,e-Visa,D,,143,
+CU,Cuba,古巴,e-Visa,D,,145,
+MG,Madagascar,马达加斯加,e-Visa,D,,146,
+SN,Senegal,塞内加尔,e-Visa,D,,149,
+NE,Niger,尼日尔,e-Visa,D,,152,
+TM,Turkmenistan,土库曼斯坦,e-Visa,D,,159,
+KM,Comoros,科摩罗,e-Visa,D,,160,
+GQ,Equatorial Guinea,赤道几内亚,e-Visa,D,,161,
+TG,Togo,多哥,e-Visa,D,,165,
+LB,Lebanon,黎巴嫩,e-Visa,D,,168,
+CM,Cameroon,喀麦隆,e-Visa,D,,177,
+NP,Nepal,尼泊尔,e-Visa,D,,178,
+LY,Libya,利比亚,e-Visa,D,,180,
+LK,Sri Lanka,斯里兰卡,e-Visa,D,,183,
+IR,Iran,伊朗,e-Visa,D,,184,
+ET,Ethiopia,埃塞俄比亚,e-Visa,D,,186,
+CD,Democratic Republic of the Congo,刚果（金）,e-Visa,D,,188,
+SD,Sudan,苏丹,e-Visa,D,,189,
+YE,Yemen,也门,e-Visa,D,,190,
+BD,Bangladesh,孟加拉国,e-Visa,D,,191,
+PK,Pakistan,巴基斯坦,e-Visa,D,,193,
+BB,Barbados,巴巴多斯,Visa required,E,,50,Wikipedia: Visa required
+UY,Uruguay,乌拉圭,Visa required,E,,51,Wikipedia: Visa required
+IL,Israel,以色列,Visa required,E,,54,"Indonesia calling-visa countries: entry needs special pre-approval via a sponsor, not the ordinary e-visa"
+CR,Costa Rica,哥斯达黎加,Visa required,E,,55,Wikipedia: Visa required
+PA,Panama,巴拿马,Visa required,E,,61,Wikipedia: Visa required
+AG,Antigua and Barbuda,安提瓜和巴布达,Visa required,E,,64,Wikipedia: Visa required
+VC,Saint Vincent and the Grenadines,圣文森特和格林纳丁斯,Visa required,E,,65,Wikipedia: Visa required
+ME,Montenegro,黑山,Visa required,E,,68,Wikipedia: Visa required
+DM,Dominica,多米尼克,Visa required,E,,70,Wikipedia: Visa required
+MU,Mauritius,毛里求斯,Visa required,E,,72,Wikipedia: Visa required
+GD,Grenada,格林纳达,Visa required,E,,74,Wikipedia: Visa required
+WS,Samoa,萨摩亚,Visa required,E,,77,Wikipedia: Visa required
+LC,Saint Lucia,圣卢西亚,Visa required,E,,78,Wikipedia: Visa required
+SB,Solomon Islands,所罗门群岛,Visa required,E,,80,Wikipedia: Visa required
+MH,Marshall Islands,马绍尔群岛,Visa required,E,,83,Wikipedia: Visa required
+TV,Tuvalu,图瓦卢,Visa required,E,,85,Wikipedia: Visa required
+HN,Honduras,洪都拉斯,Visa required,E,,86,Wikipedia: Visa required
+TO,Tonga,汤加,Visa required,E,,88,Wikipedia: Visa required
+KI,Kiribati,基里巴斯,Visa required,E,,90,Wikipedia: Visa required
+FM,Micronesia,密克罗尼西亚联邦,Visa required,E,,91,Wikipedia: Visa required
+XK,Kosovo,科索沃,Visa required,E,,97,Wikipedia: Visa required
+FJ,Fiji,斐济,Visa required,E,,107,Wikipedia: Visa required
+GY,Guyana,圭亚那,Visa required,E,,114,Wikipedia: Visa required
+DO,Dominican Republic,多米尼加,Visa required,E,,115,Wikipedia: Visa required
+VU,Vanuatu,瓦努阿图,Visa required,E,,117,Wikipedia: Visa required
+NR,Nauru,瑙鲁,Visa required,E,,119,Wikipedia: Visa required
+BW,Botswana,博茨瓦纳,Visa required,E,,124,Wikipedia: Visa required
+LS,Lesotho,莱索托,Visa required,E,,127,Wikipedia: Visa required
+NA,Namibia,纳米比亚,Visa required,E,,128,Wikipedia: Visa required
+SZ,Eswatini,斯威士兰,Visa required,E,,130,Wikipedia: Visa required
+KG,Kyrgyzstan,吉尔吉斯斯坦,Visa required,E,,133,Wikipedia: Visa required
+MW,Malawi,马拉维,Visa required,E,,136,Wikipedia: Visa required
+TJ,Tajikistan,塔吉克斯坦,Visa required,E,,137,Wikipedia: Visa required
+BT,Bhutan,不丹,Visa required,E,,139,Wikipedia: Visa required
+GH,Ghana,加纳,Visa required,E,,140,Wikipedia: Visa required
+CV,Cabo Verde,佛得角,Visa required,E,,144,Wikipedia: Visa required
+HT,Haiti,海地,Visa required,E,,147,Wikipedia: Visa required
+DZ,Algeria,阿尔及利亚,Visa required,E,,150,Wikipedia: Visa required
+BJ,Benin,贝宁,Visa required,E,,151,Wikipedia: Visa required
+ZM,Zambia,赞比亚,Visa required,E,,153,Wikipedia: Visa required
+GN,Guinea,几内亚,Visa required,E,,156,"Indonesia calling-visa countries: entry needs special pre-approval via a sponsor, not the ordinary e-visa"
+AO,Angola,安哥拉,Visa required,E,,162,Wikipedia: Visa required
+CI,Côte d'Ivoire,科特迪瓦,Visa required,E,,163,Wikipedia: Visa required
+BF,Burkina Faso,布基纳法索,Visa required,E,,166,Wikipedia: Visa required
+MR,Mauritania,毛里塔尼亚,Visa required,E,,167,Wikipedia: Visa required
+GA,Gabon,加蓬,Visa required,E,,169,Wikipedia: Visa required
+ML,Mali,马里,Visa required,E,,171,Wikipedia: Visa required
+TD,Chad,乍得,Visa required,E,,172,Wikipedia: Visa required
+GW,Guinea-Bissau,几内亚比绍,Visa required,E,,173,Wikipedia: Visa required
+SL,Sierra Leone,塞拉利昂,Visa required,E,,174,Wikipedia: Visa required
+DJ,Djibouti,吉布提,Visa required,E,,175,Wikipedia: Visa required
+CF,Central African Republic,中非,Visa required,E,,176,Wikipedia: Visa required
+BI,Burundi,布隆迪,Visa required,E,,179,Wikipedia: Visa required
+GM,Gambia,冈比亚,Visa required,E,,181,Wikipedia: Visa required
+LR,Liberia,利比里亚,Visa required,E,,182,"Indonesia calling-visa countries: entry needs special pre-approval via a sponsor, not the ordinary e-visa"
+CG,Congo,刚果（布）,Visa required,E,,185,Wikipedia: Visa required
+KP,North Korea,朝鲜,Visa required,E,,187,"Indonesia calling-visa countries: entry needs special pre-approval via a sponsor, not the ordinary e-visa"
+ER,Eritrea,厄立特里亚,Visa required,E,,192,Wikipedia: Visa required
+NG,Nigeria,尼日利亚,Visa required,E,,194,"Indonesia calling-visa countries: entry needs special pre-approval via a sponsor, not the ordinary e-visa"
+SO,Somalia,索马里,Visa required,E,,195,"Indonesia calling-visa countries: entry needs special pre-approval via a sponsor, not the ordinary e-visa"
+SS,South Sudan,南苏丹,Visa required,E,,196,Wikipedia: Visa required
+IQ,Iraq,伊拉克,Visa required,E,,197,Wikipedia: Visa required
+SY,Syria,叙利亚,Visa required,E,,198,Wikipedia: Visa required
+AF,Afghanistan,阿富汗,Visa required,E,,199,"Indonesia calling-visa countries: entry needs special pre-approval via a sponsor, not the ordinary e-visa"
