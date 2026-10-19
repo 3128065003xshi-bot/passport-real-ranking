@@ -128,8 +128,10 @@ def make_card(r, codes, note):
         for y, key, font, colour in ((694, "note_zh1", cjk, GOLD), (726, "note_en1", latin, INK),
                                      (758, "note_zh2", cjk, GOLD), (790, "note_en2", latin, INK)):
             text = note[key]
+            size = 22 if font is cjk else 18
+            if key in ("note_zh2", "note_en2") and d.textlength(text, font=font(15)) > CARD_W - 28:
+                text = note[key + "_short"]  # two destinations per type do not fit: one each
             if text:
-                size = 22 if font is cjk else 18
                 centred(d, cx, y, text, fit(d, text, font, CARD_W - 28, size), colour)
     return card
 

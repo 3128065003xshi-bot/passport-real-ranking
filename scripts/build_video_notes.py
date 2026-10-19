@@ -102,6 +102,7 @@ rows = []
 for i, r in enumerate(ranking):
     p = r["iso2"]
     n_free = sum(1 for (q, d), c in code.items() if q == p and c in FREE)
+    short_z2 = short_e2 = ""
     if n_free < FEW:
         best = top(p, FREE, 3, exclude=universal)
         if best:
@@ -110,14 +111,17 @@ for i, r in enumerate(ranking):
         else:
             z1, e1 = "仅少数小国免签", "Visa-free only to a few small states"
         # Best visa-on-arrival and e-visa options, each under its own label (never lumped together).
-        parts_zh, parts_en = [], []
-        for c, lz, le in (("C", "落地签", "On arrival"), ("D", "电子签", "e-visa")):
-            ds = top(p, {c}, 2)
-            if ds:
-                z, e = listing(ds)
-                parts_zh.append(f"{lz}：{z}")
-                parts_en.append(f"{le}: {e}")
-        z2, e2 = " · ".join(parts_zh), " · ".join(parts_en)
+        def options(n):
+            parts_zh, parts_en = [], []
+            for c, lz, le in (("C", "落地签", "On arrival"), ("D", "电子签", "e-visa")):
+                ds = top(p, {c}, n)
+                if ds:
+                    z, e = listing(ds)
+                    parts_zh.append(f"{lz}：{z}")
+                    parts_en.append(f"{le}: {e}")
+            return " · ".join(parts_zh), " · ".join(parts_en)
+        z2, e2 = options(2)
+        short_z2, short_e2 = options(1)  # for narrow cards when two per type do not fit
     else:
         need = top(p, VISA, 3, exclude=closed)
         if need:
@@ -132,7 +136,8 @@ for i, r in enumerate(ranking):
             q = ranking[i - 1] if i else ranking[i + 1]
             z2, e2 = f"签证要求与 #{q['rank']} {zh(q['iso2'])} 相同", f"Same visa needs as #{q['rank']} {en(q['iso2'])}"
     rows.append({"iso2": p, "rank": r["rank"], "mode": "few" if n_free < FEW else "many",
-                 "note_zh1": z1, "note_en1": e1, "note_zh2": z2, "note_en2": e2})
+                 "note_zh1": z1, "note_en1": e1, "note_zh2": z2, "note_en2": e2,
+                 "note_zh2_short": short_z2 if n_free < FEW else z2, "note_en2_short": short_e2 if n_free < FEW else e2})
 
 with open(PROC / "video_notes.csv", "w", newline="", encoding="utf-8") as f:
     w = csv.DictWriter(f, fieldnames=list(rows[0]))
