@@ -21,7 +21,7 @@ BAR = 4 * BEAT
 
 # (name, duration, intro, hold) — must match make_video.py and make_video_vertical.py.
 VIDEOS = [("passport-real-ranking-2026", 255.0, 7.0, 8.0),
-          ("passport-real-ranking-2026-vertical", 170.0, 8.0, 6.0)]
+          ("passport-real-ranking-2026-vertical", 179.0, 8.0, 6.0)]
 
 # Fmaj7 – G6 – Em7 – Am7, as MIDI notes (pad voicing) and bass roots.
 CHORDS = [[53, 57, 60, 64], [55, 59, 62, 64], [52, 55, 59, 62], [57, 60, 64, 67]]

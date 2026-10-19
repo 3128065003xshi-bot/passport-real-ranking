@@ -5,7 +5,7 @@
 
 Needs Pillow, imageio-ffmpeg (bundles ffmpeg) and macOS's Helvetica Neue + Hiragino Sans GB.
 Passports listed in SKIP are left out of the video (ranks are kept as in the data, so their slot is a gap).
-Short notes under major passports come from data/raw/video_notes.csv.
+The note under each passport comes from data/processed/video_notes.csv (scripts/build_video_notes.py).
 Flags come from assets/flags/ (flagcdn.com, w320). Passport covers are stylised, not real cover art:
 each cover takes the flag's dominant colour, darkened.
 """
@@ -19,13 +19,13 @@ from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
 ROOT = Path(__file__).resolve().parent.parent
 PROC, FLAGS, OUT = ROOT / "data/processed", ROOT / "assets/flags", ROOT / "video"
-NOTES = ROOT / "data/raw/video_notes.csv"
+NOTES = ROOT / "data/processed/video_notes.csv"  # from scripts/build_video_notes.py
 SKIP = {"TW"}
 
 W, H, FPS = 1920, 1080, 60
 INTRO, SCROLL, HOLD = 7.0, 240.0, 8.0  # seconds
 DECEL = 6.0  # the scroll slows to a stop over its last DECEL seconds
-CARD_W, GAP, CARD_Y, CARD_H = 344, 24, 168, 800
+CARD_W, GAP, CARD_Y, CARD_H = 344, 24, 150, 830
 STRIDE = CARD_W + GAP
 
 BG, PANEL, INK, QUIET, GOLD = (12, 20, 33), (22, 33, 50), (255, 255, 255), (143, 163, 191), (226, 190, 110)
@@ -124,9 +124,13 @@ def make_card(r, codes, note):
     centred(d, cx, y + 40, f"No visa · 无需签证  {no_visa} / 199", cjk(20), QUIET)
 
     if note:
-        d.line((40, 700, CARD_W - 40, 700), fill=(52, 68, 92), width=2)
-        centred(d, cx, 718, note["note_zh"], fit(d, note["note_zh"], cjk, CARD_W - 36, 24), GOLD)
-        centred(d, cx, 756, note["note_en"], fit(d, note["note_en"], latin, CARD_W - 36, 21), INK)
+        d.line((40, 680, CARD_W - 40, 680), fill=(52, 68, 92), width=2)
+        for y, key, font, colour in ((694, "note_zh1", cjk, GOLD), (726, "note_en1", latin, INK),
+                                     (758, "note_zh2", cjk, GOLD), (790, "note_en2", latin, INK)):
+            text = note[key]
+            if text:
+                size = 22 if font is cjk else 18
+                centred(d, cx, y, text, fit(d, text, font, CARD_W - 28, size), colour)
     return card
 
 

@@ -16,9 +16,9 @@ import make_video as mv
 from make_video import BG, CODE_COLOURS, CODE_NAMES, GITHUB, GOLD, INK, MEDALS, PANEL, QUIET, centred, cjk, fit, latin
 
 W, H, FPS = 1080, 1920, 60
-INTRO, SCROLL, HOLD, DECEL = 8.0, 156.0, 6.0, 5.0  # 170 s in all: under the 3-minute Shorts limit
+INTRO, SCROLL, HOLD, DECEL = 8.0, 165.0, 6.0, 5.0  # 179 s in all: under the 3-minute Shorts limit
 X_ARTICLE = "x.com/i/article/2111989228271775744"  # public link of the X Article; check once it is published
-ROW_W, ROW_H, GAP, LEFT = 1000, 310, 22, 40
+ROW_W, ROW_H, GAP, LEFT = 1000, 362, 22, 40
 STRIDE = ROW_H + GAP
 TOP, BOTTOM = 300, 1740  # the band the rows scroll through
 
@@ -67,8 +67,10 @@ def make_row(r, codes, note):
     d.text((bar_x, y + 34), f"No visa · 无需签证  {no_visa} / 199", font=cjk(22), fill=QUIET)
 
     if note:
-        d.text((bar_x, 228), note["note_zh"], font=fit(d, note["note_zh"], cjk, ROW_W - 30 - bar_x, 28), fill=GOLD)
-        d.text((bar_x, 266), note["note_en"], font=fit(d, note["note_en"], latin, ROW_W - 30 - bar_x, 24), fill=INK)
+        for y, key, font, size, colour in ((226, "note_zh1", cjk, 28, GOLD), (260, "note_en1", latin, 23, INK),
+                                           (294, "note_zh2", cjk, 28, GOLD), (328, "note_en2", latin, 23, INK)):
+            if note[key]:
+                d.text((bar_x, y), note[key], font=fit(d, note[key], font, ROW_W - 30 - bar_x, size), fill=colour)
     return row
 
 
