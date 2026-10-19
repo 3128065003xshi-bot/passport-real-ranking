@@ -1,9 +1,12 @@
 """Build data/processed/visa_matrix.csv from the base snapshot + free-movement groups + overrides.
 
-Order: base dataset -> free-movement groups (S) -> overrides (top to bottom, later rows win).
-In visa_overrides.csv, passport/destination/only_if/except take ';'-separated lists, '*' means all.
+Order: base dataset -> free-movement groups (S) -> visa_overrides_wikipedia.csv -> visa_overrides.csv
+(top to bottom within each file, later rows win).
+In visa_overrides.csv, passport/destination/only_if/except take ';'-separated lists, '*' means all;
+`except` removes codes from both the passport and the destination side.
 """
 import csv
+import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -46,17 +49,22 @@ for g in read(RAW / "free_movement_groups.csv"):
             if p != d:
                 matrix[p, d] = {"code": "S", "days": "", "source": f"group:{g['group']}", "note": g["note"]}
 
-for i, o in enumerate(read(RAW / "visa_overrides.csv"), start=2):
-    only_if = split(o["only_if"], weights) if o["only_if"] else None
-    excluded = split(o["except"], codes) if o["except"] else set()
-    for p in split(o["passport"], codes) - excluded:
-        for d in split(o["destination"], codes) - excluded:
-            if p == d or (p, d) not in matrix:
-                continue
-            if only_if and matrix[p, d]["code"] not in only_if:
-                continue
-            matrix[p, d] = {"code": o["code"], "days": o["days"],
-                            "source": f"override:row{i}", "note": o["note"]}
+# Wikipedia fact-check corrections first, then hand-researched overrides, so a rule we verified
+# ourselves always wins over a Wikipedia table.
+for path, label in ((RAW / "visa_overrides_wikipedia.csv", "wikipedia"), (RAW / "visa_overrides.csv", "override")):
+    if not path.exists() or (label == "wikipedia" and "--no-wikipedia" in sys.argv):
+        continue
+    for i, o in enumerate(read(path), start=2):
+        only_if = split(o["only_if"], weights) if o["only_if"] else None
+        excluded = split(o["except"], codes) if o["except"] else set()
+        for p in split(o["passport"], codes) - excluded:
+            for d in split(o["destination"], codes) - excluded:
+                if p == d or (p, d) not in matrix:
+                    continue
+                if only_if and matrix[p, d]["code"] not in only_if:
+                    continue
+                matrix[p, d] = {"code": o["code"], "days": o["days"],
+                                "source": f"{label}:row{i}", "note": o["note"]}
 
 OUT.mkdir(parents=True, exist_ok=True)
 with open(OUT / "visa_matrix.csv", "w", newline="", encoding="utf-8") as f:
