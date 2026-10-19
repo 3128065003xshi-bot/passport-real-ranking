@@ -108,3 +108,15 @@ scripts/                             build scripts
 - UN DESA, World Urbanization Prospects 2018, urban agglomerations of 300,000+
 - UNESCO World Heritage List, 2024
 - Policy changes: see the `source` column of `data/raw/visa_overrides.csv`
+
+## License
+
+Code and original data (scores, weights, overrides) are under the [MIT License](LICENSE).
+
+Third-party data in `data/raw/` keeps its own terms:
+
+- `passport_index_2025-01-12.csv` — Passport Index dataset, MIT License, Copyright (c) 2019 Ilya Ilyankou.
+- `sources/worldbank_*.csv` — World Bank Open Data, CC BY 4.0.
+- `sources/untourism_*.csv` — UN Tourism, via Our World in Data (CC BY 4.0).
+- `sources/un_wup2018_*.csv` — UN DESA, World Urbanization Prospects 2018.
+- `sources/unesco_whs_2024.csv` — UNESCO World Heritage Centre.
