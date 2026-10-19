@@ -1,9 +1,9 @@
 code,weight,name_zh,name_en,definition
 S,100,自由流动,Free movement,不需要护照，身份证即可往来，可居住工作（如欧盟/申根内部）
-A,90,免签,Visa-free,无需任何事先申请，直接入境
-B,85,电子旅行授权,eTA / ETA / ESTA,免签但须在线申请授权（如英国 ETA、加拿大 eTA、美国 ESTA）
+A,95,免签,Visa-free,无需任何事先申请，直接入境
+B,90,电子旅行授权,eTA / ETA / ESTA,免签但须在线申请授权（如英国 ETA、加拿大 eTA、美国 ESTA）
 C,75,落地签,Visa on arrival,抵达口岸时办理签证
-D,50,电子签证,e-Visa,出发前在线申请签证
-E,20,需签证,Visa required,须向使领馆申请签证
+D,55,电子签证,e-Visa,出发前在线申请签证
+E,15,需签证,Visa required,须向使领馆申请签证
 F,0,禁止入境/极难获得,No admission,禁止入境、暂停发签、未建交或签证几乎无法获得
--,,本国,Home country,护照签发国本身，不计分
+-,100,本国,Home country,护照签发国本身，按满分计入

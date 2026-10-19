@@ -55,6 +55,14 @@ data/processed/visa_matrix_wide.csv     生成结果（宽表，199×199，方�
 
 每项：先按 `cap` 封顶（如人均 GDP 超过 10 万美元按 10 万算），再按 `transform` 变换（`log` = ln(1+x)，`sqrt` = 平方根，介于对数和线性之间；`linear` = 原值），然后在全部国家间 min-max 缩放到 0–100（`direction = lower` 时翻转），乘以权重/100 得到该项得分；各项相加即旅游分数（权重总和 100 时满分 100）。缺失值记 0 分并写在 `missing` 列。权重在 `data/raw/indicator_weights.csv`。
 
+## 护照排名
+
+`python3 scripts/build_passport_ranking.py` → `data/processed/passport_ranking.csv`。
+
+护照得分 = Σ（入境方式权重 ÷ 100 × 目的地旅游分数），遍历全部 199 个目的地，本国按满分（100）计入。`pct_of_max` 为相对"所有目的地都按 100 计"的百分比。
+
+完整流程：`build_visa_matrix.py` → `build_country_indicators.py` → `build_tourism_score.py` → `build_passport_ranking.py`。
+
 ## 目录
 
 ```
