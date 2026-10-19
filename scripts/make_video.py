@@ -121,7 +121,7 @@ def make_card(r, codes, note):
             d.rectangle((x, y, x + w, y + 26), fill=colour)
         x += w
     no_visa = sum(codes.get(c, 0) for c in "SABC")
-    centred(d, cx, y + 40, f"No visa · 无需签证  {no_visa} / 199", cjk(20), QUIET)
+    centred(d, cx, y + 40, f"No visa · 无需签证  {no_visa} / 198", cjk(20), QUIET)
 
     if note:
         d.line((40, 680, CARD_W - 40, 680), fill=(52, 68, 92), width=2)

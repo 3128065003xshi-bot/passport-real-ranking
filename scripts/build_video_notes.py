@@ -56,9 +56,9 @@ for (p, d), c in code.items():
     dest_visa[d].append(c in VISA)
 closed = {d for d, v in dest_visa.items() if sum(v) / len(v) >= CLOSED}
 
-ACCESS_ZH = {"S": "自由通行", "A": "免签", "B": "只需电子授权", "C": "可落地签", "D": "只需电子签"}
+ACCESS_ZH = {"S": "自由通行", "A": "免签", "B": "只需电子授权", "C": "可落地签", "D": "只需电子签", "E": "可申请签证"}
 ACCESS_EN = {"S": "free movement to", "A": "visa-free to", "B": "only an eTA for", "C": "visa on arrival in",
-             "D": "only an e-visa for"}
+             "D": "only an e-visa for", "E": "a visa available for"}
 
 
 def top(p, codes, n, exclude=()):
@@ -77,24 +77,31 @@ def mark_banned(p, ds):
     return z, e
 
 
+WEIGHT = {r["code"]: float(r["weight"]) for r in read(RAW / "entry_codes.csv")}
+
+
 def comparison(i):
-    """Most valuable destination where access differs from the passport ranked just above (else below)."""
+    """The neighbouring passport (above, else below) and the most valuable destination where access differs.
+
+    Prefer a difference across the visa line (one side needs a visa, the other does not); failing that, any
+    difference in entry type, weighted by how much score it moves. Identical rules -> say so.
+    """
     p = ranking[i]["iso2"]
-    for j in (i - 1, i + 1):
-        if not 0 <= j < len(ranking):
-            continue
-        q = ranking[j]["iso2"]
-        diffs = [d for d in tourism if d not in SKIP and d not in (p, q)
-                 and (code[p, d] in VISA) != (code[q, d] in VISA)]
-        if not diffs:
-            continue
-        d = max(diffs, key=lambda d: tourism[d])
-        tag_zh, tag_en = f"#{ranking[j]['rank']} {zh(q)}", f"#{ranking[j]['rank']} {en(q)}"
-        if code[p, d] in VISA:
-            c = code[q, d]
-            return f"{tag_zh} 去{zh(d)}{ACCESS_ZH[c]}", f"{tag_en}: {ACCESS_EN[c]} {en(d)}"
-        c = code[p, d]
-        return f"胜过 {tag_zh}：去{zh(d)}{ACCESS_ZH[c]}", f"Beats {tag_en}: {ACCESS_EN[c]} {en(d)}"
+    neighbours = [ranking[j]["iso2"] for j in (i - 1, i + 1) if 0 <= j < len(ranking)]
+    for visa_line in (True, False):
+        for q in neighbours:
+            diffs = [d for d in tourism if d not in SKIP and d not in (p, q) and code[p, d] != code[q, d]
+                     and (not visa_line or (code[p, d] in VISA) != (code[q, d] in VISA))]
+            if not diffs:
+                continue
+            d = max(diffs, key=lambda d: abs(WEIGHT[code[p, d]] - WEIGHT[code[q, d]]) * tourism[d])
+            rq = next(r["rank"] for r in ranking if r["iso2"] == q)
+            tag_zh, tag_en = f"#{rq} {zh(q)}", f"#{rq} {en(q)}"
+            if WEIGHT[code[p, d]] < WEIGHT[code[q, d]]:
+                c = code[q, d]
+                return f"{tag_zh} 去{zh(d)}{ACCESS_ZH[c]}", f"{tag_en}: {ACCESS_EN[c]} {en(d)}"
+            c = code[p, d]
+            return f"胜过 {tag_zh}：去{zh(d)}{ACCESS_ZH[c]}", f"Beats {tag_en}: {ACCESS_EN[c]} {en(d)}"
     return "", ""
 
 
@@ -134,7 +141,7 @@ for i, r in enumerate(ranking):
         z2, e2 = comparison(i)
         if not z2:  # identical visa needs to both neighbours: say so
             q = ranking[i - 1] if i else ranking[i + 1]
-            z2, e2 = f"签证要求与 #{q['rank']} {zh(q['iso2'])} 相同", f"Same visa needs as #{q['rank']} {en(q['iso2'])}"
+            z2, e2 = f"入境规则与 #{q['rank']} {zh(q['iso2'])} 完全相同", f"Same entry rules as #{q['rank']} {en(q['iso2'])}"
     rows.append({"iso2": p, "rank": r["rank"], "mode": "few" if n_free < FEW else "many",
                  "note_zh1": z1, "note_en1": e1, "note_zh2": z2, "note_en2": e2,
                  "note_zh2_short": short_z2 if n_free < FEW else z2, "note_en2_short": short_e2 if n_free < FEW else e2})

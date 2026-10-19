@@ -6,7 +6,7 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #6 of 199** · score 6908.51 · **91.6% of the maximum** · no visa needed for **158 of 198** destinations.
 
-> Visa needed only for Algeria, Yemen and a few others — Same visa needs as #6 Netherlands
+> Visa needed only for Algeria, Yemen and a few others — Beats #9 Switzerland: visa-free to S. Korea
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

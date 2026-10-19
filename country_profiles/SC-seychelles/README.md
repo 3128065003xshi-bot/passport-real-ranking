@@ -6,7 +6,7 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #71 of 199** · score 5776.35 · **76.6% of the maximum** · no visa needed for **136 of 198** destinations.
 
-> Visa needed: the US, Japan, Canada — Beats #70 Dominica: only an eTA for the UK
+> Visa needed: the US, Japan, Canada — Beats #70 Dominica: visa-free to Türkiye
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

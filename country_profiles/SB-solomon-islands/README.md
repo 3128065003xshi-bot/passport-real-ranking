@@ -6,7 +6,7 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #80 of 199** · score 5589.43 · **74.1% of the maximum** · no visa needed for **121 of 198** destinations.
 
-> Visa needed: the US, Japan, Türkiye — Beats #79 Albania: only an eTA for the UK
+> Visa needed: the US, Japan, Türkiye — #79 Albania: visa-free to Türkiye
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

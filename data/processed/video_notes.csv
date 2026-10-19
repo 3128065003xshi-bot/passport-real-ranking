@@ -1,13 +1,13 @@
 iso2,rank,mode,note_zh1,note_en1,note_zh2,note_en2,note_zh2_short,note_en2_short
-SG,1,many,仅阿尔及利亚、也门等少数国家需签证,"Visa needed only for Algeria, Yemen and a few others",签证要求与 #2 丹麦 相同,Same visa needs as #2 Denmark,签证要求与 #2 丹麦 相同,Same visa needs as #2 Denmark
-DK,2,many,仅阿尔及利亚、也门等少数国家需签证,"Visa needed only for Algeria, Yemen and a few others",签证要求与 #1 新加坡 相同,Same visa needs as #1 Singapore,签证要求与 #1 新加坡 相同,Same visa needs as #1 Singapore
-FI,2,many,仅阿尔及利亚、也门等少数国家需签证,"Visa needed only for Algeria, Yemen and a few others",签证要求与 #2 丹麦 相同,Same visa needs as #2 Denmark,签证要求与 #2 丹麦 相同,Same visa needs as #2 Denmark
-NO,2,many,仅阿尔及利亚、也门等少数国家需签证,"Visa needed only for Algeria, Yemen and a few others",签证要求与 #2 芬兰 相同,Same visa needs as #2 Finland,签证要求与 #2 芬兰 相同,Same visa needs as #2 Finland
-HR,5,many,仅阿尔及利亚、也门等少数国家需签证,"Visa needed only for Algeria, Yemen and a few others",签证要求与 #2 挪威 相同,Same visa needs as #2 Norway,签证要求与 #2 挪威 相同,Same visa needs as #2 Norway
-ES,6,many,仅阿尔及利亚、也门等少数国家需签证,"Visa needed only for Algeria, Yemen and a few others",签证要求与 #5 克罗地亚 相同,Same visa needs as #5 Croatia,签证要求与 #5 克罗地亚 相同,Same visa needs as #5 Croatia
-NL,6,many,仅阿尔及利亚、也门等少数国家需签证,"Visa needed only for Algeria, Yemen and a few others",签证要求与 #6 西班牙 相同,Same visa needs as #6 Spain,签证要求与 #6 西班牙 相同,Same visa needs as #6 Spain
-SE,6,many,仅阿尔及利亚、也门等少数国家需签证,"Visa needed only for Algeria, Yemen and a few others",签证要求与 #6 荷兰 相同,Same visa needs as #6 Netherlands,签证要求与 #6 荷兰 相同,Same visa needs as #6 Netherlands
-CH,9,many,仅阿尔及利亚、也门等少数国家需签证,"Visa needed only for Algeria, Yemen and a few others",签证要求与 #6 瑞典 相同,Same visa needs as #6 Sweden,签证要求与 #6 瑞典 相同,Same visa needs as #6 Sweden
+SG,1,many,仅阿尔及利亚、也门等少数国家需签证,"Visa needed only for Algeria, Yemen and a few others",胜过 #2 丹麦：去伊朗免签,Beats #2 Denmark: visa-free to Iran,胜过 #2 丹麦：去伊朗免签,Beats #2 Denmark: visa-free to Iran
+DK,2,many,仅阿尔及利亚、也门等少数国家需签证,"Visa needed only for Algeria, Yemen and a few others",#1 新加坡 去伊朗免签,#1 Singapore: visa-free to Iran,#1 新加坡 去伊朗免签,#1 Singapore: visa-free to Iran
+FI,2,many,仅阿尔及利亚、也门等少数国家需签证,"Visa needed only for Algeria, Yemen and a few others",入境规则与 #2 丹麦 完全相同,Same entry rules as #2 Denmark,入境规则与 #2 丹麦 完全相同,Same entry rules as #2 Denmark
+NO,2,many,仅阿尔及利亚、也门等少数国家需签证,"Visa needed only for Algeria, Yemen and a few others",#5 克罗地亚 去伊朗免签,#5 Croatia: visa-free to Iran,#5 克罗地亚 去伊朗免签,#5 Croatia: visa-free to Iran
+HR,5,many,仅阿尔及利亚、也门等少数国家需签证,"Visa needed only for Algeria, Yemen and a few others",胜过 #2 挪威：去伊朗免签,Beats #2 Norway: visa-free to Iran,胜过 #2 挪威：去伊朗免签,Beats #2 Norway: visa-free to Iran
+ES,6,many,仅阿尔及利亚、也门等少数国家需签证,"Visa needed only for Algeria, Yemen and a few others",#5 克罗地亚 去伊朗免签,#5 Croatia: visa-free to Iran,#5 克罗地亚 去伊朗免签,#5 Croatia: visa-free to Iran
+NL,6,many,仅阿尔及利亚、也门等少数国家需签证,"Visa needed only for Algeria, Yemen and a few others",入境规则与 #6 西班牙 完全相同,Same entry rules as #6 Spain,入境规则与 #6 西班牙 完全相同,Same entry rules as #6 Spain
+SE,6,many,仅阿尔及利亚、也门等少数国家需签证,"Visa needed only for Algeria, Yemen and a few others",胜过 #9 瑞士：去韩国免签,Beats #9 Switzerland: visa-free to S. Korea,胜过 #9 瑞士：去韩国免签,Beats #9 Switzerland: visa-free to S. Korea
+CH,9,many,仅阿尔及利亚、也门等少数国家需签证,"Visa needed only for Algeria, Yemen and a few others",#6 瑞典 去韩国免签,#6 Sweden: visa-free to S. Korea,#6 瑞典 去韩国免签,#6 Sweden: visa-free to S. Korea
 LU,10,many,仅阿尔及利亚、也门等少数国家需签证,"Visa needed only for Algeria, Yemen and a few others",胜过 #11 比利时：去利比里亚只需电子签,Beats #11 Belgium: only an e-visa for Liberia,胜过 #11 比利时：去利比里亚只需电子签,Beats #11 Belgium: only an e-visa for Liberia
 BE,11,many,需签证：利比里亚,Visa needed: Liberia,#10 卢森堡 去利比里亚只需电子签,#10 Luxembourg: only an e-visa for Liberia,#10 卢森堡 去利比里亚只需电子签,#10 Luxembourg: only an e-visa for Liberia
 FR,12,many,需签证：利比里亚,Visa needed: Liberia,#13 匈牙利 去利比里亚只需电子签,#13 Hungary: only an e-visa for Liberia,#13 匈牙利 去利比里亚只需电子签,#13 Hungary: only an e-visa for Liberia
@@ -18,7 +18,7 @@ AT,16,many,仅阿尔及利亚、也门等少数国家需签证,"Visa needed only
 IE,17,many,仅阿尔及利亚、也门等少数国家需签证,"Visa needed only for Algeria, Yemen and a few others",胜过 #18 意大利：去利比里亚只需电子签,Beats #18 Italy: only an e-visa for Liberia,胜过 #18 意大利：去利比里亚只需电子签,Beats #18 Italy: only an e-visa for Liberia
 IT,18,many,需签证：利比里亚,Visa needed: Liberia,#17 爱尔兰 去利比里亚只需电子签,#17 Ireland: only an e-visa for Liberia,#17 爱尔兰 去利比里亚只需电子签,#17 Ireland: only an e-visa for Liberia
 GR,19,many,仅阿尔及利亚、也门等少数国家需签证,"Visa needed only for Algeria, Yemen and a few others",胜过 #18 意大利：去利比里亚只需电子签,Beats #18 Italy: only an e-visa for Liberia,胜过 #18 意大利：去利比里亚只需电子签,Beats #18 Italy: only an e-visa for Liberia
-PT,20,many,仅阿尔及利亚、也门等少数国家需签证,"Visa needed only for Algeria, Yemen and a few others",签证要求与 #19 希腊 相同,Same visa needs as #19 Greece,签证要求与 #19 希腊 相同,Same visa needs as #19 Greece
+PT,20,many,仅阿尔及利亚、也门等少数国家需签证,"Visa needed only for Algeria, Yemen and a few others",#19 希腊 去叙利亚可落地签,#19 Greece: visa on arrival in Syria,#19 希腊 去叙利亚可落地签,#19 Greece: visa on arrival in Syria
 MT,21,many,仅阿尔及利亚、也门等少数国家需签证,"Visa needed only for Algeria, Yemen and a few others",胜过 #22 斯洛文尼亚：去圭亚那只需电子签,Beats #22 Slovenia: only an e-visa for Guyana,胜过 #22 斯洛文尼亚：去圭亚那只需电子签,Beats #22 Slovenia: only an e-visa for Guyana
 SI,22,many,需签证：圭亚那,Visa needed: Guyana,#21 马耳他 去圭亚那只需电子签,#21 Malta: only an e-visa for Guyana,#21 马耳他 去圭亚那只需电子签,#21 Malta: only an e-visa for Guyana
 SK,23,many,需签证：圭亚那,Visa needed: Guyana,#24 韩国 去圭亚那免签,#24 S. Korea: visa-free to Guyana,#24 韩国 去圭亚那免签,#24 S. Korea: visa-free to Guyana
@@ -32,9 +32,9 @@ BG,30,many,需签证：美国,Visa needed: the US,#29 列支敦士登 去美国�
 RO,30,many,需签证：美国,Visa needed: the US,#32 拉脱维亚 去美国只需电子授权,#32 Latvia: only an eTA for the US,#32 拉脱维亚 去美国只需电子授权,#32 Latvia: only an eTA for the US
 LV,32,many,需签证：圭亚那、纳米比亚,"Visa needed: Guyana, Namibia",胜过 #30 罗马尼亚：去美国只需电子授权,Beats #30 Romania: only an eTA for the US,胜过 #30 罗马尼亚：去美国只需电子授权,Beats #30 Romania: only an eTA for the US
 MY,33,many,需签证：美国、加拿大、以色列,"Visa needed: the US, Canada, Israel",#32 拉脱维亚 去美国只需电子授权,#32 Latvia: only an eTA for the US,#32 拉脱维亚 去美国只需电子授权,#32 Latvia: only an eTA for the US
-LT,34,many,需签证：中国,Visa needed: China,胜过 #33 马来西亚：去美国只需电子授权,Beats #33 Malaysia: only an eTA for the US,胜过 #33 马来西亚：去美国只需电子授权,Beats #33 Malaysia: only an eTA for the US
+LT,34,many,需签证：中国,Visa needed: China,#33 马来西亚 去中国免签,#33 Malaysia: visa-free to China,#33 马来西亚 去中国免签,#33 Malaysia: visa-free to China
 CZ,35,many,需签证：中国、圭亚那,"Visa needed: China, Guyana",#34 立陶宛 去圭亚那只需电子签,#34 Lithuania: only an e-visa for Guyana,#34 立陶宛 去圭亚那只需电子签,#34 Lithuania: only an e-visa for Guyana
-CY,36,many,需签证：美国,Visa needed: the US,#35 捷克 去美国只需电子授权,#35 Czechia: only an eTA for the US,#35 捷克 去美国只需电子授权,#35 Czechia: only an eTA for the US
+CY,36,many,需签证：美国,Visa needed: the US,胜过 #35 捷克：去中国免签,Beats #35 Czechia: visa-free to China,胜过 #35 捷克：去中国免签,Beats #35 Czechia: visa-free to China
 HK,37,many,需签证：美国、印度、危地马拉,"Visa needed: the US, India, Guatemala",#36 塞浦路斯 去印度只需电子签,#36 Cyprus: only an e-visa for India,#36 塞浦路斯 去印度只需电子签,#36 Cyprus: only an e-visa for India
 NZ,38,many,需签证：俄罗斯,Visa needed: Russia,胜过 #37 中国香港：去美国只需电子授权,Beats #37 Hong Kong: only an eTA for the US,胜过 #37 中国香港：去美国只需电子授权,Beats #37 Hong Kong: only an eTA for the US
 AU,39,many,需签证：俄罗斯,Visa needed: Russia,#40 摩纳哥 去俄罗斯只需电子签,#40 Monaco: only an e-visa for Russia,#40 摩纳哥 去俄罗斯只需电子签,#40 Monaco: only an e-visa for Russia
@@ -43,7 +43,7 @@ GB,41,many,需签证：俄罗斯、伊朗、洪都拉斯,"Visa needed: Russia, I
 CA,42,many,需签证：俄罗斯、伊朗、叙利亚,"Visa needed: Russia, Iran, Syria",#41 英国 去叙利亚可落地签,#41 the UK: visa on arrival in Syria,#41 英国 去叙利亚可落地签,#41 the UK: visa on arrival in Syria
 US,43,many,需签证：中国、俄罗斯、伊朗,"Visa needed: China, Russia, Iran",#42 加拿大 去中国免签,#42 Canada: visa-free to China,#42 加拿大 去中国免签,#42 Canada: visa-free to China
 AD,44,many,需签证：缅甸、文莱、圭亚那,"Visa needed: Myanmar, Brunei, Guyana",胜过 #43 美国：去中国免签,Beats #43 the US: visa-free to China,胜过 #43 美国：去中国免签,Beats #43 the US: visa-free to China
-SM,45,many,需签证：缅甸、文莱、圭亚那,"Visa needed: Myanmar, Brunei, Guyana",胜过 #44 安道尔：去斐济只需电子签,Beats #44 Andorra: only an e-visa for Fiji,胜过 #44 安道尔：去斐济只需电子签,Beats #44 Andorra: only an e-visa for Fiji
+SM,45,many,需签证：缅甸、文莱、圭亚那,"Visa needed: Myanmar, Brunei, Guyana",#44 安道尔 去巴拉圭免签,#44 Andorra: visa-free to Paraguay,#44 安道尔 去巴拉圭免签,#44 Andorra: visa-free to Paraguay
 CL,46,many,需签证：澳大利亚、沙特、文莱,"Visa needed: Australia, Saudi, Brunei",#45 圣马力诺 去澳大利亚只需电子授权,#45 San Marino: only an eTA for Australia,#45 圣马力诺 去澳大利亚只需电子授权,#45 San Marino: only an eTA for Australia
 BR,47,many,需签证：美国、加拿大、澳大利亚,"Visa needed: the US, Canada, Australia",#46 智利 去美国只需电子授权,#46 Chile: only an eTA for the US,#46 智利 去美国只需电子授权,#46 Chile: only an eTA for the US
 AR,48,many,需签证：美国、加拿大、澳大利亚,"Visa needed: the US, Canada, Australia",胜过 #47 巴西：去孟加拉国可落地签,Beats #47 Brazil: visa on arrival in Bangladesh,胜过 #47 巴西：去孟加拉国可落地签,Beats #47 Brazil: visa on arrival in Bangladesh
@@ -54,7 +54,7 @@ MX,52,many,需签证：美国、中国、加拿大,"Visa needed: the US, China, 
 VA,53,many,需签证：美国、中国、日本,"Visa needed: the US, China, Japan",#52 墨西哥 去日本免签,#52 Mexico: visa-free to Japan,#52 墨西哥 去日本免签,#52 Mexico: visa-free to Japan
 IL,54,many,需签证：中国、澳大利亚、沙特(禁),"Visa needed: China, Australia, Saudi (banned)",胜过 #53 梵蒂冈：去美国只需电子授权,Beats #53 Vatican: only an eTA for the US,胜过 #53 梵蒂冈：去美国只需电子授权,Beats #53 Vatican: only an eTA for the US
 CR,55,many,需签证：美国、中国、加拿大,"Visa needed: the US, China, Canada",#54 以色列 去美国只需电子授权,#54 Israel: only an eTA for the US,#54 以色列 去美国只需电子授权,#54 Israel: only an eTA for the US
-PY,56,many,需签证：美国、中国、加拿大,"Visa needed: the US, China, Canada",胜过 #55 哥斯达黎加：去印度尼西亚只需电子签,Beats #55 Costa Rica: only an e-visa for Indonesia,胜过 #55 哥斯达黎加：去印度尼西亚只需电子签,Beats #55 Costa Rica: only an e-visa for Indonesia
+PY,56,many,需签证：美国、中国、加拿大,"Visa needed: the US, China, Canada",胜过 #55 哥斯达黎加：去阿曼免签,Beats #55 Costa Rica: visa-free to Oman,胜过 #55 哥斯达黎加：去阿曼免签,Beats #55 Costa Rica: visa-free to Oman
 PE,57,many,需签证：美国、加拿大、爱尔兰,"Visa needed: the US, Canada, Ireland",胜过 #56 巴拉圭：去中国免签,Beats #56 Paraguay: visa-free to China,胜过 #56 巴拉圭：去中国免签,Beats #56 Paraguay: visa-free to China
 UA,58,many,需签证：美国、中国、日本,"Visa needed: the US, China, Japan",#57 秘鲁 去中国免签,#57 Peru: visa-free to China,#57 秘鲁 去中国免签,#57 Peru: visa-free to China
 BS,59,many,需签证：美国、俄罗斯、澳大利亚,"Visa needed: the US, Russia, Australia",胜过 #58 乌克兰：去中国免签,Beats #58 Ukraine: visa-free to China,胜过 #58 乌克兰：去中国免签,Beats #58 Ukraine: visa-free to China
@@ -68,22 +68,22 @@ TT,67,many,需签证：美国、中国、日本,"Visa needed: the US, China, Jap
 ME,68,many,需签证：美国、英国、加拿大,"Visa needed: the US, the UK, Canada",胜过 #67 特立尼达：去中国免签,Beats #67 Trinidad: visa-free to China,胜过 #67 特立尼达：去中国免签,Beats #67 Trinidad: visa-free to China
 CO,69,many,需签证：美国、中国、日本,"Visa needed: the US, China, Japan",#68 黑山 去中国免签,#68 Montenegro: visa-free to China,#68 黑山 去中国免签,#68 Montenegro: visa-free to China
 DM,70,many,需签证：美国(禁)、日本、英国,"Visa needed: the US (banned), Japan, the UK",胜过 #69 哥伦比亚：去中国免签,Beats #69 Colombia: visa-free to China,胜过 #69 哥伦比亚：去中国免签,Beats #69 Colombia: visa-free to China
-SC,71,many,需签证：美国、日本、加拿大,"Visa needed: the US, Japan, Canada",胜过 #70 多米尼克：去英国只需电子授权,Beats #70 Dominica: only an eTA for the UK,胜过 #70 多米尼克：去英国只需电子授权,Beats #70 Dominica: only an eTA for the UK
+SC,71,many,需签证：美国、日本、加拿大,"Visa needed: the US, Japan, Canada",胜过 #70 多米尼克：去土耳其免签,Beats #70 Dominica: visa-free to Türkiye,胜过 #70 多米尼克：去土耳其免签,Beats #70 Dominica: visa-free to Türkiye
 MU,72,many,需签证：美国、加拿大、爱尔兰,"Visa needed: the US, Canada, Ireland",胜过 #71 塞舌尔：去日本免签,Beats #71 Seychelles: visa-free to Japan,胜过 #71 塞舌尔：去日本免签,Beats #71 Seychelles: visa-free to Japan
 SV,73,many,需签证：美国、中国、英国,"Visa needed: the US, China, the UK",#72 毛里求斯 去中国免签,#72 Mauritius: visa-free to China,#72 毛里求斯 去中国免签,#72 Mauritius: visa-free to China
 GD,74,many,需签证：美国、日本、加拿大,"Visa needed: the US, Japan, Canada",胜过 #73 萨尔瓦多：去中国免签,Beats #73 El Salvador: visa-free to China,胜过 #73 萨尔瓦多：去中国免签,Beats #73 El Salvador: visa-free to China
 MK,75,many,需签证：美国、英国、加拿大,"Visa needed: the US, the UK, Canada",胜过 #74 格林纳达：去日本免签,Beats #74 Grenada: visa-free to Japan,胜过 #74 格林纳达：去日本免签,Beats #74 Grenada: visa-free to Japan
 GE,76,many,需签证：美国、日本、英国,"Visa needed: the US, Japan, the UK",#75 北马其顿 去日本免签,#75 N. Macedonia: visa-free to Japan,#75 北马其顿 去日本免签,#75 N. Macedonia: visa-free to Japan
-WS,77,many,需签证：美国、日本、土耳其,"Visa needed: the US, Japan, Türkiye",胜过 #76 格鲁吉亚：去英国只需电子授权,Beats #76 Georgia: only an eTA for the UK,胜过 #76 格鲁吉亚：去英国只需电子授权,Beats #76 Georgia: only an eTA for the UK
+WS,77,many,需签证：美国、日本、土耳其,"Visa needed: the US, Japan, Türkiye",#76 格鲁吉亚 去土耳其免签,#76 Georgia: visa-free to Türkiye,#76 格鲁吉亚 去土耳其免签,#76 Georgia: visa-free to Türkiye
 LC,78,many,需签证：美国、中国、日本,"Visa needed: the US, China, Japan",#77 萨摩亚 去中国免签,#77 Samoa: visa-free to China,#77 萨摩亚 去中国免签,#77 Samoa: visa-free to China
 AL,79,many,需签证：美国、日本、英国,"Visa needed: the US, Japan, the UK",胜过 #78 圣卢西亚：去中国免签,Beats #78 Saint Lucia: visa-free to China,胜过 #78 圣卢西亚：去中国免签,Beats #78 Saint Lucia: visa-free to China
-SB,80,many,需签证：美国、日本、土耳其,"Visa needed: the US, Japan, Türkiye",胜过 #79 阿尔巴尼亚：去英国只需电子授权,Beats #79 Albania: only an eTA for the UK,胜过 #79 阿尔巴尼亚：去英国只需电子授权,Beats #79 Albania: only an eTA for the UK
+SB,80,many,需签证：美国、日本、土耳其,"Visa needed: the US, Japan, Türkiye",#79 阿尔巴尼亚 去土耳其免签,#79 Albania: visa-free to Türkiye,#79 阿尔巴尼亚 去土耳其免签,#79 Albania: visa-free to Türkiye
 GT,81,many,需签证：美国、中国、加拿大,"Visa needed: the US, China, Canada",#80 所罗门群岛 去中国免签,#80 Solomon Is.: visa-free to China,#80 所罗门群岛 去中国免签,#80 Solomon Is.: visa-free to China
 NI,82,many,需签证：美国、中国、日本,"Visa needed: the US, China, Japan",#81 危地马拉 去日本免签,#81 Guatemala: visa-free to Japan,#81 危地马拉 去日本免签,#81 Guatemala: visa-free to Japan
 MH,83,many,需签证：中国、日本、土耳其,"Visa needed: China, Japan, Türkiye",胜过 #82 尼加拉瓜：去美国免签,Beats #82 Nicaragua: visa-free to the US,胜过 #82 尼加拉瓜：去美国免签,Beats #82 Nicaragua: visa-free to the US
 BA,84,many,需签证：美国、日本、英国,"Visa needed: the US, Japan, the UK",#83 马绍尔群岛 去美国免签,#83 Marshall Is.: visa-free to the US,#83 马绍尔群岛 去美国免签,#83 Marshall Is.: visa-free to the US
 TV,85,many,需签证：美国、中国、土耳其,"Visa needed: the US, China, Türkiye",#84 波黑 去中国免签,#84 Bosnia: visa-free to China,#84 波黑 去中国免签,#84 Bosnia: visa-free to China
-HN,86,many,需签证：美国、中国、英国,"Visa needed: the US, China, the UK",#85 图瓦卢 去英国只需电子授权,#85 Tuvalu: only an eTA for the UK,#85 图瓦卢 去英国只需电子授权,#85 Tuvalu: only an eTA for the UK
+HN,86,many,需签证：美国、中国、英国,"Visa needed: the US, China, the UK",胜过 #85 图瓦卢：去土耳其免签,Beats #85 Tuvalu: visa-free to Türkiye,胜过 #85 图瓦卢：去土耳其免签,Beats #85 Tuvalu: visa-free to Türkiye
 MD,87,many,需签证：美国、中国、日本,"Visa needed: the US, China, Japan",#86 洪都拉斯 去日本免签,#86 Honduras: visa-free to Japan,#86 洪都拉斯 去日本免签,#86 Honduras: visa-free to Japan
 TO,88,many,需签证：美国(禁)、日本、土耳其,"Visa needed: the US (banned), Japan, Türkiye",胜过 #87 摩尔多瓦：去中国免签,Beats #87 Moldova: visa-free to China,胜过 #87 摩尔多瓦：去中国免签,Beats #87 Moldova: visa-free to China
 PW,89,many,需签证：中国、日本、土耳其,"Visa needed: China, Japan, Türkiye",胜过 #88 汤加：去美国免签,Beats #88 Tonga: visa-free to the US,胜过 #88 汤加：去美国免签,Beats #88 Tonga: visa-free to the US
@@ -91,7 +91,7 @@ KI,90,many,需签证：美国、中国、日本,"Visa needed: the US, China, Jap
 FM,91,many,需签证：中国、日本、土耳其,"Visa needed: China, Japan, Türkiye",胜过 #90 基里巴斯：去美国免签,Beats #90 Kiribati: visa-free to the US,胜过 #90 基里巴斯：去美国免签,Beats #90 Kiribati: visa-free to the US
 VE,92,many,需签证：美国(禁)、中国、日本,"Visa needed: the US (banned), China, Japan",#91 密克罗尼西亚 去美国免签,#91 Micronesia: visa-free to the US,#91 密克罗尼西亚 去美国免签,#91 Micronesia: visa-free to the US
 TL,93,many,需签证：美国、中国、日本,"Visa needed: the US, China, Japan",#92 委内瑞拉 去俄罗斯免签,#92 Venezuela: visa-free to Russia,#92 委内瑞拉 去俄罗斯免签,#92 Venezuela: visa-free to Russia
-QA,94,many,需签证：法国、西班牙、意大利,"Visa needed: France, Spain, Italy",胜过 #93 东帝汶：去美国只需电子授权,Beats #93 Timor-Leste: only an eTA for the US,胜过 #93 东帝汶：去美国只需电子授权,Beats #93 Timor-Leste: only an eTA for the US
+QA,94,many,需签证：法国、西班牙、意大利,"Visa needed: France, Spain, Italy",胜过 #93 东帝汶：去中国免签,Beats #93 Timor-Leste: visa-free to China,胜过 #93 东帝汶：去中国免签,Beats #93 Timor-Leste: visa-free to China
 RU,95,many,需签证：美国、法国、日本,"Visa needed: the US, France, Japan",#94 卡塔尔 去美国只需电子授权,#94 Qatar: only an eTA for the US,#94 卡塔尔 去美国只需电子授权,#94 Qatar: only an eTA for the US
 TR,96,many,需签证：美国、中国、法国,"Visa needed: the US, China, France",#95 俄罗斯 去中国免签,#95 Russia: visa-free to China,#95 俄罗斯 去中国免签,#95 Russia: visa-free to China
 XK,97,few,免签：法国、西班牙、意大利,"Visa-free: France, Spain, Italy",落地签：沙特、中国澳门 · 电子签：新加坡、泰国,"On arrival: Saudi, Macao · e-visa: Singapore, Thailand",落地签：沙特 · 电子签：新加坡,On arrival: Saudi · e-visa: Singapore

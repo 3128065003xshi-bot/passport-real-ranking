@@ -6,7 +6,7 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #6 of 199** · score 6908.51 · **91.6% of the maximum** · no visa needed for **158 of 198** destinations.
 
-> Visa needed only for Algeria, Yemen and a few others — Same visa needs as #5 Croatia
+> Visa needed only for Algeria, Yemen and a few others — #5 Croatia: visa-free to Iran
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

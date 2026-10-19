@@ -6,7 +6,7 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #86 of 199** · score 5438.76 · **72.1% of the maximum** · no visa needed for **118 of 198** destinations.
 
-> Visa needed: the US, China, the UK — #85 Tuvalu: only an eTA for the UK
+> Visa needed: the US, China, the UK — Beats #85 Tuvalu: visa-free to Türkiye
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

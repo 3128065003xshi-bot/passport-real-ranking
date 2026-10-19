@@ -6,7 +6,7 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #56 of 199** · score 6121.78 · **81.2% of the maximum** · no visa needed for **128 of 198** destinations.
 
-> Visa needed: the US, China, Canada — Beats #55 Costa Rica: only an e-visa for Indonesia
+> Visa needed: the US, China, Canada — Beats #55 Costa Rica: visa-free to Oman
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

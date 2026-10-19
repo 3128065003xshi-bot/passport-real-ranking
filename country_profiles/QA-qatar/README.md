@@ -6,7 +6,7 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #94 of 199** · score 4798.1 · **63.6% of the maximum** · no visa needed for **106 of 198** destinations.
 
-> Visa needed: France, Spain, Italy — Beats #93 Timor-Leste: only an eTA for the US
+> Visa needed: France, Spain, Italy — Beats #93 Timor-Leste: visa-free to China
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

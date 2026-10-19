@@ -64,7 +64,7 @@ def make_row(r, codes, note):
             d.rectangle((cur, y, cur + w, y + 24), fill=colour)
         cur += w
     no_visa = sum(codes.get(c, 0) for c in "SABC")
-    d.text((bar_x, y + 34), f"No visa · 无需签证  {no_visa} / 199", font=cjk(22), fill=QUIET)
+    d.text((bar_x, y + 34), f"No visa · 无需签证  {no_visa} / 198", font=cjk(22), fill=QUIET)
 
     if note:
         for y, key, font, size, colour in ((226, "note_zh1", cjk, 28, GOLD), (260, "note_en1", latin, 23, INK),

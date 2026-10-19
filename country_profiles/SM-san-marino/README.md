@@ -6,7 +6,7 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #45 of 199** · score 6652.67 · **88.2% of the maximum** · no visa needed for **143 of 198** destinations.
 
-> Visa needed: Myanmar, Brunei, Guyana — Beats #44 Andorra: only an e-visa for Fiji
+> Visa needed: Myanmar, Brunei, Guyana — #44 Andorra: visa-free to Paraguay
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

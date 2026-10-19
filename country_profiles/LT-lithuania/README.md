@@ -6,7 +6,7 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #34 of 199** · score 6813.33 · **90.4% of the maximum** · no visa needed for **155 of 198** destinations.
 
-> Visa needed: China — Beats #33 Malaysia: only an eTA for the US
+> Visa needed: China — #33 Malaysia: visa-free to China
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

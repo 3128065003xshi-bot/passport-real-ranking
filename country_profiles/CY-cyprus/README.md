@@ -6,7 +6,7 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #36 of 199** · score 6799.31 · **90.2% of the maximum** · no visa needed for **154 of 198** destinations.
 
-> Visa needed: the US — #35 Czechia: only an eTA for the US
+> Visa needed: the US — Beats #35 Czechia: visa-free to China
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

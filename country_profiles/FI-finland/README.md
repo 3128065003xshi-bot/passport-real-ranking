@@ -6,7 +6,7 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #2 of 199** · score 6911.09 · **91.7% of the maximum** · no visa needed for **159 of 198** destinations.
 
-> Visa needed only for Algeria, Yemen and a few others — Same visa needs as #2 Denmark
+> Visa needed only for Algeria, Yemen and a few others — Same entry rules as #2 Denmark
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|
