@@ -6,7 +6,9 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #133 of 199** · score 3330.73 · **44.2% of the maximum** · no visa needed for **62 of 198** destinations.
 
-> Visa-free: Türkiye, Russia, Thailand — On arrival: Saudi, Macao · e-visa: India, Singapore
+> Visa-free: Türkiye, Russia, Thailand · 免签：土耳其、俄罗斯、泰国
+
+> On arrival / e-visa: India, Singapore, Saudi · 落地签/电子签可去：印度、新加坡、沙特
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #131 of 199** · score 3358.49 · **44.6% of the maximum** · no visa needed for **55 of 198** destinations.
 
-> Visa-free: Thailand, Hong Kong, Malaysia — On arrival: Indonesia, Jordan · e-visa: Russia, Egypt
+> Visa-free: Thailand, Hong Kong, Malaysia · 免签：泰国、中国香港、马来西亚
+
+> Entry banned: Pakistan · 禁止入境：巴基斯坦
+
+> On arrival / e-visa: Russia, Indonesia, Egypt · 落地签/电子签可去：俄罗斯、印度尼西亚、埃及
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

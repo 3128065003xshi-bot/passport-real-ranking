@@ -6,7 +6,9 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #91 of 199** · score 5350.09 · **71.0% of the maximum** · no visa needed for **106 of 198** destinations.
 
-> Visa needed: China, Japan, Türkiye — Beats #90 Kiribati: visa-free to the US
+> Visa needed: China, Japan, Türkiye · 需签证：中国、日本、土耳其
+
+> e-visa: India, Thailand, UAE · 电子签：印度、泰国、阿联酋
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

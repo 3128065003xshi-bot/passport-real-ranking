@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #26 of 199** · score 6855.43 · **90.9% of the maximum** · no visa needed for **171 of 198** destinations.
 
-> Visa needed: the US, Australia, Myanmar — #25 Japan: only an eTA for the US
+> Visa needed: the US, Australia, Myanmar · 需签证：美国、澳大利亚、缅甸
+
+> GCC: travel on a national ID · 海合会国家间凭身份证通行
+
+> Mutual visa exemption with China · 与中国互免签证
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

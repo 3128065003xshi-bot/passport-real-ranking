@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #166 of 199** · score 2972.08 · **39.4% of the maximum** · no visa needed for **55 of 198** destinations.
 
-> Visa-free: Singapore, Hong Kong, Morocco — On arrival: Macao, Iran · e-visa: Thailand, Malaysia
+> Visa-free: Singapore, Hong Kong, Morocco · 免签：新加坡、中国香港、摩洛哥
+
+> Entry banned: the US · 禁止入境：美国
+
+> On arrival / e-visa: Thailand, Malaysia, UAE · 落地签/电子签可去：泰国、马来西亚、阿联酋
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

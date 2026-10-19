@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #113 of 199** · score 3839.17 · **50.9% of the maximum** · no visa needed for **68 of 198** destinations.
 
-> Visa-free: China, Japan, Russia — On arrival: Egypt, Macao · e-visa: Türkiye, India
+> Visa-free: China, Japan, Russia · 免签：中国、日本、俄罗斯
+
+> Mutual visa exemption with China · 与中国互免签证
+
+> On arrival / e-visa: Türkiye, India, Thailand · 落地签/电子签可去：土耳其、印度、泰国
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

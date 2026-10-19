@@ -6,7 +6,9 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #123 of 199** · score 3583.28 · **47.5% of the maximum** · no visa needed for **70 of 198** destinations.
 
-> Visa-free: the UK, Canada, Singapore — On arrival: Indonesia, Egypt · e-visa: India, Russia
+> Visa-free: the UK, Canada, Singapore · 免签：英国、加拿大、新加坡
+
+> On arrival / e-visa: India, Russia, Thailand · 落地签/电子签可去：印度、俄罗斯、泰国
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

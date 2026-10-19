@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #195 of 199** · score 2408.15 · **31.9% of the maximum** · no visa needed for **30 of 198** destinations.
 
-> Visa-free: Malaysia, Palestine, Rwanda — On arrival: Macao, Sri Lanka · e-visa: Singapore, Thailand
+> Visa-free: Malaysia, Palestine, Rwanda · 免签：马来西亚、巴勒斯坦、卢旺达
+
+> Entry banned: the US, Canada, Australia · 禁止入境：美国、加拿大、澳大利亚
+
+> On arrival / e-visa: Singapore, Thailand, UAE · 落地签/电子签可去：新加坡、泰国、阿联酋
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

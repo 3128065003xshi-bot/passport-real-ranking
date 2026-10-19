@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #196 of 199** · score 2363.58 · **31.4% of the maximum** · no visa needed for **42 of 198** destinations.
 
-> Visa-free: Malaysia, Pakistan, Tanzania — On arrival: Egypt, Macao · e-visa: UAE, Vietnam
+> Visa-free: Malaysia, Pakistan, Tanzania · 免签：马来西亚、巴基斯坦、坦桑尼亚
+
+> Entry banned: the US · 禁止入境：美国
+
+> On arrival / e-visa: Egypt, UAE, Vietnam · 落地签/电子签可去：埃及、阿联酋、越南
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #72 of 199** · score 5766.11 · **76.5% of the maximum** · no visa needed for **125 of 198** destinations.
 
-> Visa needed: the US, Canada, Ireland — Beats #71 Seychelles: visa-free to Japan
+> Visa needed: the US, Canada, Ireland · 需签证：美国、加拿大、爱尔兰
+
+> Mutual visa exemption with China · 与中国互免签证
+
+> e-visa: Türkiye, India, Vietnam · 电子签：土耳其、印度、越南
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

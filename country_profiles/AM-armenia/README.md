@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #122 of 199** · score 3595.2 · **47.7% of the maximum** · no visa needed for **66 of 198** destinations.
 
-> Visa-free: China, Russia, Hong Kong — On arrival: Indonesia, Egypt · e-visa: Türkiye, India
+> Visa-free: China, Russia, Hong Kong · 免签：中国、俄罗斯、中国香港
+
+> Entry banned: Azerbaijan · 禁止入境：阿塞拜疆
+
+> Mutual visa exemption with China · 与中国互免签证
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

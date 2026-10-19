@@ -6,7 +6,9 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #128 of 199** · score 3394.54 · **45.0% of the maximum** · no visa needed for **66 of 198** destinations.
 
-> Visa-free: Russia, Singapore, Hong Kong — On arrival: Sri Lanka, Cambodia · e-visa: Türkiye, India
+> Visa-free: Russia, Singapore, Hong Kong · 免签：俄罗斯、新加坡、中国香港
+
+> On arrival / e-visa: Türkiye, India, Thailand · 落地签/电子签可去：土耳其、印度、泰国
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

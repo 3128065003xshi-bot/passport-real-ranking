@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #71 of 199** · score 5776.35 · **76.6% of the maximum** · no visa needed for **136 of 198** destinations.
 
-> Visa needed: the US, Japan, Canada — Beats #70 Dominica: visa-free to Türkiye
+> Visa needed: the US, Japan, Canada · 需签证：美国、日本、加拿大
+
+> Mutual visa exemption with China · 与中国互免签证
+
+> e-visa: India, Saudi, Vietnam · 电子签：印度、沙特、越南
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

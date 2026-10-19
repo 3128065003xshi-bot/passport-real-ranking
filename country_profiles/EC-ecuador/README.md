@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #101 of 199** · score 4249.84 · **56.4% of the maximum** · no visa needed for **86 of 198** destinations.
 
-> Visa-free: China, Türkiye, Russia — On arrival: Indonesia, Egypt · e-visa: India, Thailand
+> Visa-free: China, Türkiye, Russia · 免签：中国、土耳其、俄罗斯
+
+> Mercosur: travel on a national ID · 南共市国家间凭身份证通行
+
+> Mutual visa exemption with China · 与中国互免签证
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

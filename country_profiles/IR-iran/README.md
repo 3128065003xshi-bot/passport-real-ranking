@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #184 of 199** · score 2769.6 · **36.7% of the maximum** · no visa needed for **37 of 198** destinations.
 
-> Visa-free: Türkiye, Malaysia, Kazakhstan — On arrival: Macao, Qatar · e-visa: Russia, Thailand
+> Visa-free: Türkiye, Malaysia, Kazakhstan · 免签：土耳其、马来西亚、哈萨克斯坦
+
+> Entry banned: the US, Libya · 禁止入境：美国、利比亚
+
+> On arrival / e-visa: Russia, Thailand, Indonesia · 落地签/电子签可去：俄罗斯、泰国、印度尼西亚
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

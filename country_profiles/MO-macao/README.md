@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #62 of 199** · score 6006.5 · **79.7% of the maximum** · no visa needed for **134 of 198** destinations.
 
-> Visa needed: the US, India, Canada — Beats #61 Panama: visa-free to China
+> Visa needed: the US, India, Canada · 需签证：美国、印度、加拿大
+
+> Korea K-ETA waived to end-2026 · 韩国 K-ETA 豁免至2026年底
+
+> e-visa: Vietnam, Colombia, Ethiopia · 电子签：越南、哥伦比亚、埃塞俄比亚
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

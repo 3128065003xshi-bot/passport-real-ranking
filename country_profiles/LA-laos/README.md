@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #158 of 199** · score 3030.8 · **40.2% of the maximum** · no visa needed for **45 of 198** destinations.
 
-> Visa-free: Russia, Singapore, Thailand — On arrival: Macao, Sri Lanka · e-visa: India, UAE
+> Visa-free: Russia, Singapore, Thailand · 免签：俄罗斯、新加坡、泰国
+
+> Entry banned: the US · 禁止入境：美国
+
+> On arrival / e-visa: India, UAE, Macao · 落地签/电子签可去：印度、阿联酋、中国澳门
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

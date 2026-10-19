@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #191 of 199** · score 2569.91 · **34.1% of the maximum** · no visa needed for **33 of 198** destinations.
 
-> Visa-free: Bahamas, Fiji, Rwanda — On arrival: Sri Lanka, Cambodia · e-visa: Singapore, Thailand
+> Visa-free: Bahamas, Fiji, Rwanda · 免签：巴哈马、斐济、卢旺达
+
+> Entry banned: Libya · 禁止入境：利比亚
+
+> On arrival / e-visa: Singapore, Thailand, Indonesia · 落地签/电子签可去：新加坡、泰国、印度尼西亚
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

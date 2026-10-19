@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #187 of 199** · score 2658.71 · **35.3% of the maximum** · no visa needed for **36 of 198** destinations.
 
-> Visa-free: Guyana, Kyrgyzstan, Palestine — On arrival: Egypt, Macao · e-visa: Russia, Thailand
+> Visa-free: Guyana, Kyrgyzstan, Palestine · 免签：圭亚那、吉尔吉斯斯坦、巴勒斯坦
+
+> Entry banned: Japan, Sri Lanka · 禁止入境：日本、斯里兰卡
+
+> On arrival / e-visa: Russia, Thailand, Egypt · 落地签/电子签可去：俄罗斯、泰国、埃及
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

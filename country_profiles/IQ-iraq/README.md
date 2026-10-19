@@ -6,7 +6,9 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #197 of 199** · score 2361.27 · **31.3% of the maximum** · no visa needed for **30 of 198** destinations.
 
-> Visa-free: Malaysia, Iran, Pakistan — On arrival: Macao, Sri Lanka · e-visa: Thailand, Egypt
+> Visa-free: Malaysia, Iran, Pakistan · 免签：马来西亚、伊朗、巴基斯坦
+
+> On arrival / e-visa: Thailand, Egypt, UAE · 落地签/电子签可去：泰国、埃及、阿联酋
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

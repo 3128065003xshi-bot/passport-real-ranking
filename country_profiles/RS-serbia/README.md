@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #66 of 199** · score 5877.99 · **78.0% of the maximum** · no visa needed for **124 of 198** destinations.
 
-> Visa needed: the US, the UK, Canada — Beats #65 St Vincent: visa-free to China
+> Visa needed: the US, the UK, Canada · 需签证：美国、英国、加拿大
+
+> Mutual visa exemption with China · 与中国互免签证
+
+> e-visa: India, Malaysia, Vietnam · 电子签：印度、马来西亚、越南
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

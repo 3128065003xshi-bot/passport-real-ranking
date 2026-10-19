@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #69 of 199** · score 5803.94 · **77.0% of the maximum** · no visa needed for **116 of 198** destinations.
 
-> Visa needed: the US, China, Japan — #68 Montenegro: visa-free to China
+> Visa needed: the US, China, Japan · 需签证：美国、中国、日本
+
+> Mercosur: travel on a national ID · 南共市国家间凭身份证通行
+
+> e-visa: India, Thailand, Malaysia · 电子签：印度、泰国、马来西亚
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #45 of 199** · score 6652.67 · **88.2% of the maximum** · no visa needed for **143 of 198** destinations.
 
-> Visa needed: Myanmar, Brunei, Guyana — #44 Andorra: visa-free to Paraguay
+> Visa needed: Myanmar, Brunei, Guyana · 需签证：缅甸、文莱、圭亚那
+
+> EU/EEA free movement on a national ID · 欧盟/申根自由流动，凭身份证通行
+
+> Mutual visa exemption with China · 与中国互免签证
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

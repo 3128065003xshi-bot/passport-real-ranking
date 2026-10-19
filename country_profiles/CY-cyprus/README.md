@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #36 of 199** · score 6799.31 · **90.2% of the maximum** · no visa needed for **154 of 198** destinations.
 
-> Visa needed: the US — Beats #35 Czechia: visa-free to China
+> Visa needed: the US · 需签证：美国
+
+> EU/EEA free movement on a national ID · 欧盟/申根自由流动，凭身份证通行
+
+> China visa-free 30 days (unilateral, to end-2026) · 中国单方面免签30天，至2026年底
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

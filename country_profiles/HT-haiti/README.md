@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #147 of 199** · score 3130.04 · **41.5% of the maximum** · no visa needed for **46 of 198** destinations.
 
-> Visa-free: S. Korea, Singapore, Hong Kong — On arrival: Egypt, Macao · e-visa: India, Thailand
+> Visa-free: S. Korea, Singapore, Hong Kong · 免签：韩国、新加坡、中国香港
+
+> Entry banned: the US, Suriname · 禁止入境：美国、苏里南
+
+> On arrival / e-visa: India, Thailand, Egypt · 落地签/电子签可去：印度、泰国、埃及
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

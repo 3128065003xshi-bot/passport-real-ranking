@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #1 of 199** · score 6923.91 · **91.8% of the maximum** · no visa needed for **164 of 198** destinations.
 
-> Visa only for Algeria, Yemen & a few more — Beats #2 Denmark: visa-free to Iran
+> Visa only for Algeria, Yemen & a few more · 仅阿尔及利亚、也门等少数国家需签证
+
+> Mutual visa exemption with China · 与中国互免签证
+
+> Korea K-ETA waived to end-2026 · 韩国 K-ETA 豁免至2026年底
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

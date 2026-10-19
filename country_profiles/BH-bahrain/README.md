@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #104 of 199** · score 4131.74 · **54.8% of the maximum** · no visa needed for **81 of 198** destinations.
 
-> Visa-free: China, the UK, Türkiye — On arrival: Indonesia, Macao · e-visa: India, Russia
+> Visa-free: China, the UK, Türkiye · 免签：中国、英国、土耳其
+
+> GCC: travel on a national ID · 海合会国家间凭身份证通行
+
+> China visa-free 30 days (unilateral, to end-2026) · 中国单方面免签30天，至2026年底
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

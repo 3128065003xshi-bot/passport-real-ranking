@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #41 of 199** · score 6757.42 · **89.6% of the maximum** · no visa needed for **158 of 198** destinations.
 
-> Visa needed: Russia, Iran, Honduras — #40 Monaco: only an e-visa for Russia
+> Visa needed: Russia, Iran, Honduras · 需签证：俄罗斯、伊朗、洪都拉斯
+
+> UK–Ireland Common Travel Area · 英爱共同旅行区
+
+> China visa-free 30 days (unilateral, to end-2026) · 中国单方面免签30天，至2026年底
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

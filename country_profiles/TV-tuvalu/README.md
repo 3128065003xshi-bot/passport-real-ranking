@@ -6,7 +6,9 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #85 of 199** · score 5462.22 · **72.5% of the maximum** · no visa needed for **113 of 198** destinations.
 
-> Visa needed: the US, China, Türkiye — #84 Bosnia: visa-free to China
+> Visa needed: the US, China, Türkiye · 需签证：美国、中国、土耳其
+
+> e-visa: Japan, India, Thailand · 电子签：日本、印度、泰国
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

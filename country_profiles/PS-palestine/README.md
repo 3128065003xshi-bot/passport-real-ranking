@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #155 of 199** · score 3045.37 · **40.4% of the maximum** · no visa needed for **38 of 198** destinations.
 
-> Visa-free: Malaysia, South Africa, Jordan — On arrival: Indonesia, Macao · e-visa: Türkiye, India
+> Visa-free: Malaysia, South Africa, Jordan · 免签：马来西亚、南非、约旦
+
+> Entry banned: the US, Madagascar · 禁止入境：美国、马达加斯加
+
+> On arrival / e-visa: Türkiye, India, Singapore · 落地签/电子签可去：土耳其、印度、新加坡
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

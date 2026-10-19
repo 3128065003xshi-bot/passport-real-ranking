@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #35 of 199** · score 6811.06 · **90.3% of the maximum** · no visa needed for **158 of 198** destinations.
 
-> Visa needed: China, Guyana — #34 Lithuania: only an e-visa for Guyana
+> Visa needed: China, Guyana · 需签证：中国、圭亚那
+
+> EU/EEA free movement on a national ID · 欧盟/申根自由流动，凭身份证通行
+
+> China's visa-free list excludes Czechia and Lithuania · 中国免签名单不含捷克、立陶宛
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

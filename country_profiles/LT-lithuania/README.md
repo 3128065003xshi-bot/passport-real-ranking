@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #34 of 199** · score 6813.33 · **90.4% of the maximum** · no visa needed for **155 of 198** destinations.
 
-> Visa needed: China — #33 Malaysia: visa-free to China
+> Visa needed: China · 需签证：中国
+
+> EU/EEA free movement on a national ID · 欧盟/申根自由流动，凭身份证通行
+
+> China's visa-free list excludes Czechia and Lithuania · 中国免签名单不含捷克、立陶宛
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

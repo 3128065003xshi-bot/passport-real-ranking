@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #64 of 199** · score 5913.51 · **78.4% of the maximum** · no visa needed for **132 of 198** destinations.
 
-> Visa needed: the US (banned), Japan, Canada — #62 Macao: visa-free to Japan
+> Visa needed: the US, Japan, Canada · 需签证：美国、日本、加拿大
+
+> Entry banned: the US · 禁止入境：美国
+
+> Mutual visa exemption with China · 与中国互免签证
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

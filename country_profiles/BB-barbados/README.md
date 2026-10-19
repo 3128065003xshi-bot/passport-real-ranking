@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #50 of 199** · score 6268.65 · **83.2% of the maximum** · no visa needed for **140 of 198** destinations.
 
-> Visa needed: the US, Australia, Indonesia — #49 Brunei: only an eTA for the US
+> Visa needed: the US, Australia, Indonesia · 需签证：美国、澳大利亚、印度尼西亚
+
+> Mutual visa exemption with China · 与中国互免签证
+
+> e-visa: Türkiye, India, Russia · 电子签：土耳其、印度、俄罗斯
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

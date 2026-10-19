@@ -6,7 +6,9 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #96 of 199** · score 4680.43 · **62.1% of the maximum** · no visa needed for **111 of 198** destinations.
 
-> Visa needed: the US, China, France — #95 Russia: visa-free to China
+> Visa needed: the US, China, France · 需签证：美国、中国、法国
+
+> e-visa: Russia, UAE, Vietnam · 电子签：俄罗斯、阿联酋、越南
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

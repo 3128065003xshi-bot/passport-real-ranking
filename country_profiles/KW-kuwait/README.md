@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #98 of 199** · score 4394.5 · **58.3% of the maximum** · no visa needed for **96 of 198** destinations.
 
-> Visa needed: the US, France, Japan — Beats #97 Kosovo: visa-free to China
+> Visa needed: the US, France, Japan · 需签证：美国、法国、日本
+
+> GCC: travel on a national ID · 海合会国家间凭身份证通行
+
+> China visa-free 30 days (unilateral, to end-2026) · 中国单方面免签30天，至2026年底
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

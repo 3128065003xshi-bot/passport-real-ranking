@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #99 of 199** · score 4355.75 · **57.8% of the maximum** · no visa needed for **87 of 198** destinations.
 
-> Visa needed: the US, France, Spain — Beats #98 Kuwait: only an e-visa for Japan
+> Visa needed: the US, France, Spain · 需签证：美国、法国、西班牙
+
+> GCC: travel on a national ID · 海合会国家间凭身份证通行
+
+> China visa-free 30 days (unilateral, to end-2026) · 中国单方面免签30天，至2026年底
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

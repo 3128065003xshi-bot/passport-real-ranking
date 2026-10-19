@@ -6,7 +6,9 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #93 of 199** · score 4804.32 · **63.7% of the maximum** · no visa needed for **89 of 198** destinations.
 
-> Visa needed: the US, China, Japan — #92 Venezuela: visa-free to Russia
+> Visa needed: the US, China, Japan · 需签证：美国、中国、日本
+
+> e-visa: Türkiye, India, UAE · 电子签：土耳其、印度、阿联酋
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

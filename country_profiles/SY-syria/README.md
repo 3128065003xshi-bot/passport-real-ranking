@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #198 of 199** · score 2263.59 · **30.0% of the maximum** · no visa needed for **26 of 198** destinations.
 
-> Visa-free: Malaysia, Iran, Palestine — On arrival: Macao, Cambodia · e-visa: Singapore, Thailand
+> Visa-free: Malaysia, Iran, Palestine · 免签：马来西亚、伊朗、巴勒斯坦
+
+> Entry banned: the US, Libya · 禁止入境：美国、利比亚
+
+> On arrival / e-visa: Singapore, Thailand, UAE · 落地签/电子签可去：新加坡、泰国、阿联酋
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

@@ -18,7 +18,7 @@ from make_video import BG, CODE_COLOURS, CODE_NAMES, GITHUB, GOLD, INK, MEDALS, 
 W, H, FPS = 1080, 1920, 60
 INTRO, SCROLL, HOLD, DECEL = 8.0, 165.0, 6.0, 5.0  # 179 s in all: under the 3-minute Shorts limit
 X_ARTICLE = "x.com/i/article/2111989228271775744"  # public link of the X Article; check once it is published
-ROW_W, ROW_H, GAP, LEFT = 1000, 362, 22, 40
+ROW_W, ROW_H, GAP, LEFT = 1000, 414, 22, 40
 STRIDE = ROW_H + GAP
 TOP, BOTTOM = 300, 1740  # the band the rows scroll through
 
@@ -48,29 +48,34 @@ def make_row(r, codes, note):
     row.alpha_composite(emblem, (ex, ey))
 
     x = 210
-    d.text((x, 26), r["name_zh"], font=fit(d, r["name_zh"], lambda s: cjk(s, True), 470, 52), fill=INK)
-    d.text((x, 94), r["name_en"], font=fit(d, r["name_en"], latin, 470, 30), fill=QUIET)
+    d.text((x, 20), r["name_zh"], font=fit(d, r["name_zh"], lambda s: cjk(s, True), 470, 50), fill=INK)
+    d.text((x, 84), r["name_en"], font=fit(d, r["name_en"], latin, 470, 28), fill=QUIET)
     pct = f"{mv.one_dp(r['pct_of_max'])}%"
-    pf = latin(72, mv.BOLD)
-    d.text((ROW_W - 30 - d.textlength(pct, font=pf), 22), pct, font=pf, fill=medal or INK)
+    pf = latin(70, mv.BOLD)
+    d.text((ROW_W - 30 - d.textlength(pct, font=pf), 18), pct, font=pf, fill=medal or INK)
     sub = "of max · 满分占比"
-    d.text((ROW_W - 30 - d.textlength(sub, font=cjk(20)), 104), sub, font=cjk(20), fill=QUIET)
+    d.text((ROW_W - 30 - d.textlength(sub, font=cjk(19)), 98), sub, font=cjk(19), fill=QUIET)
 
-    bar_x, bar_w, y = x, ROW_W - 30 - x, 150
+    bar_x, bar_w, y = x, ROW_W - 30 - x, 134
     total, cur = sum(codes.values()), bar_x
     for code, colour in CODE_COLOURS.items():
         w = bar_w * codes.get(code, 0) / total
         if w:
-            d.rectangle((cur, y, cur + w, y + 24), fill=colour)
+            d.rectangle((cur, y, cur + w, y + 20), fill=colour)
         cur += w
     no_visa = sum(codes.get(c, 0) for c in "SABC")
-    d.text((bar_x, y + 34), f"No visa · 无需签证  {no_visa} / 198", font=cjk(22), fill=QUIET)
+    d.text((bar_x, y + 28), f"No visa · 无需签证  {no_visa} / 198", font=cjk(20), fill=QUIET)
 
     if note:
-        for y, key, font, size, colour in ((226, "note_zh1", cjk, 28, GOLD), (260, "note_en1", latin, 23, INK),
-                                           (294, "note_zh2", cjk, 28, GOLD), (328, "note_en2", latin, 23, INK)):
-            if note[key]:
-                d.text((bar_x, y), note[key], font=fit(d, note[key], font, ROW_W - 30 - bar_x, size), fill=colour)
+        d.text((bar_x, 192), note["headline_zh"], font=fit(d, note["headline_zh"], lambda s: cjk(s, True), bar_w, 26), fill=GOLD)
+        d.text((bar_x, 226), note["headline_en"], font=fit(d, note["headline_en"], latin, bar_w, 19), fill=INK)
+        mv.draw_pills(d, bar_x, 258, bar_w, 32, note["regions"], 17)
+        mv.draw_chips(d, bar_x, 300, bar_w, 34, note["chips"], 6, 17)
+        y = 346
+        for k in ("special1", "special2"):
+            if note[k + "_zh"]:
+                d.text((bar_x, y), note[k + "_zh"], font=fit(d, note[k + "_zh"], cjk, bar_w, 22), fill=GOLD)
+                y += 30
     return row
 
 

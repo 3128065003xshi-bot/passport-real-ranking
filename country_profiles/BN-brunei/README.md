@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #49 of 199** · score 6359.78 · **84.4% of the maximum** · no visa needed for **139 of 198** destinations.
 
-> Visa needed: Mexico, Brazil, Argentina — Beats #48 Argentina: only an eTA for the US
+> Visa needed: Mexico, Brazil, Argentina · 需签证：墨西哥、巴西、阿根廷
+
+> Mutual visa exemption with China · 与中国互免签证
+
+> e-visa: India, Kazakhstan, Serbia · 电子签：印度、哈萨克斯坦、塞尔维亚
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

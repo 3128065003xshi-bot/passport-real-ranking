@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #59 of 199** · score 6014.48 · **79.8% of the maximum** · no visa needed for **136 of 198** destinations.
 
-> Visa needed: the US, Russia, Australia — Beats #58 Ukraine: visa-free to China
+> Visa needed: the US, Russia, Australia · 需签证：美国、俄罗斯、澳大利亚
+
+> Mutual visa exemption with China · 与中国互免签证
+
+> e-visa: Türkiye, India, Indonesia · 电子签：土耳其、印度、印度尼西亚
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

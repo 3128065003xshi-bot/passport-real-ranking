@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #57 of 199** · score 6105.53 · **81.0% of the maximum** · no visa needed for **130 of 198** destinations.
 
-> Visa needed: the US, Canada, Ireland — Beats #56 Paraguay: visa-free to China
+> Visa needed: the US, Canada, Ireland · 需签证：美国、加拿大、爱尔兰
+
+> Mercosur: travel on a national ID · 南共市国家间凭身份证通行
+
+> China visa-free 30 days (unilateral, to end-2026) · 中国单方面免签30天，至2026年底
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

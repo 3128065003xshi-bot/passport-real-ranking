@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #179 of 199** · score 2809.76 · **37.3% of the maximum** · no visa needed for **43 of 198** destinations.
 
-> Visa-free: Singapore, Philippines, Tanzania — On arrival: Macao, Iran · e-visa: India, Thailand
+> Visa-free: Singapore, Philippines, Tanzania · 免签：新加坡、菲律宾、坦桑尼亚
+
+> Entry banned: the US · 禁止入境：美国
+
+> On arrival / e-visa: India, Thailand, Malaysia · 落地签/电子签可去：印度、泰国、马来西亚
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

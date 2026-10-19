@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #190 of 199** · score 2642.55 · **35.1% of the maximum** · no visa needed for **29 of 198** destinations.
 
-> Visa-free: Malaysia, Syria, Palestine — On arrival: Macao, Sri Lanka · e-visa: Türkiye, Singapore
+> Visa-free: Malaysia, Syria, Palestine · 免签：马来西亚、叙利亚、巴勒斯坦
+
+> Entry banned: the US, Libya · 禁止入境：美国、利比亚
+
+> On arrival / e-visa: Türkiye, Singapore, Thailand · 落地签/电子签可去：土耳其、新加坡、泰国
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

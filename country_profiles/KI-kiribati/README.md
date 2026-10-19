@@ -6,7 +6,9 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #90 of 199** · score 5370.57 · **71.2% of the maximum** · no visa needed for **110 of 198** destinations.
 
-> Visa needed: the US, China, Japan — #89 Palau: visa-free to the US
+> Visa needed: the US, China, Japan · 需签证：美国、中国、日本
+
+> e-visa: India, Thailand, Vietnam · 电子签：印度、泰国、越南
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

@@ -6,7 +6,9 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #119 of 199** · score 3679.52 · **48.8% of the maximum** · no visa needed for **70 of 198** destinations.
 
-> Visa-free: Russia, S. Korea, Singapore — On arrival: Egypt, Macao · e-visa: India, Thailand
+> Visa-free: Russia, S. Korea, Singapore · 免签：俄罗斯、韩国、新加坡
+
+> On arrival / e-visa: India, Thailand, Egypt · 落地签/电子签可去：印度、泰国、埃及
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

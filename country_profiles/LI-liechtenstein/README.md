@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #29 of 199** · score 6832.16 · **90.6% of the maximum** · no visa needed for **155 of 198** destinations.
 
-> Visa needed: Guyana, Eswatini — Beats #28 Estonia: visa-free to Nicaragua
+> Visa needed: Guyana, Eswatini · 需签证：圭亚那、斯威士兰
+
+> EU/EEA free movement on a national ID · 欧盟/申根自由流动，凭身份证通行
+
+> China visa-free 30 days (unilateral, to end-2026) · 中国单方面免签30天，至2026年底
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

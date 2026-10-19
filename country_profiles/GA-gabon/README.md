@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #169 of 199** · score 2930.38 · **38.9% of the maximum** · no visa needed for **59 of 198** destinations.
 
-> Visa-free: Singapore, Hong Kong, Malaysia — On arrival: Macao, Sri Lanka · e-visa: India, UAE
+> Visa-free: Singapore, Hong Kong, Malaysia · 免签：新加坡、中国香港、马来西亚
+
+> Entry banned: the US · 禁止入境：美国
+
+> On arrival / e-visa: India, UAE, Vietnam · 落地签/电子签可去：印度、阿联酋、越南
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

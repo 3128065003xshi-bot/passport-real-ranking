@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #17 of 199** · score 6898.26 · **91.5% of the maximum** · no visa needed for **157 of 198** destinations.
 
-> Visa only for Algeria, Yemen & a few more — Beats #18 Italy: only an e-visa for Liberia
+> Visa only for Algeria, Yemen & a few more · 仅阿尔及利亚、也门等少数国家需签证
+
+> EU/EEA free movement on a national ID · 欧盟/申根自由流动，凭身份证通行
+
+> UK–Ireland Common Travel Area · 英爱共同旅行区
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

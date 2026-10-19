@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #95 of 199** · score 4750.08 · **63.0% of the maximum** · no visa needed for **113 of 198** destinations.
 
-> Visa needed: the US, France, Japan — #94 Qatar: only an eTA for the US
+> Visa needed: the US, France, Japan · 需签证：美国、法国、日本
+
+> Entry banned: Poland, Czechia, Finland and more · 禁止入境：波兰、捷克、芬兰等
+
+> China visa-free for Russians, trial to end-2027 · 中国对俄罗斯免签，试行至2027年底
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

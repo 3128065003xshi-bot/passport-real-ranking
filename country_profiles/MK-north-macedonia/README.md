@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #75 of 199** · score 5669.49 · **75.2% of the maximum** · no visa needed for **110 of 198** destinations.
 
-> Visa needed: the US, the UK, Canada — Beats #74 Grenada: visa-free to Japan
+> Visa needed: the US, the UK, Canada · 需签证：美国、英国、加拿大
+
+> China visa-free 30 days (unilateral, to end-2026) · 中国单方面免签30天，至2026年底
+
+> e-visa: India, Russia, Thailand · 电子签：印度、俄罗斯、泰国
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

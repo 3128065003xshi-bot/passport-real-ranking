@@ -6,7 +6,9 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #159 of 199** · score 3030.55 · **40.2% of the maximum** · no visa needed for **45 of 198** destinations.
 
-> Visa-free: Malaysia, Philippines, Georgia — On arrival: Macao, Iran · e-visa: Russia, Singapore
+> Visa-free: Malaysia, Philippines, Georgia · 免签：马来西亚、菲律宾、格鲁吉亚
+
+> On arrival / e-visa: Russia, Singapore, Thailand · 落地签/电子签可去：俄罗斯、新加坡、泰国
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

@@ -6,7 +6,9 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #132 of 199** · score 3350.02 · **44.4% of the maximum** · no visa needed for **52 of 198** destinations.
 
-> Visa-free: Russia, Singapore, Thailand — On arrival: Egypt, Jordan · e-visa: Türkiye, India
+> Visa-free: Russia, Singapore, Thailand · 免签：俄罗斯、新加坡、泰国
+
+> On arrival / e-visa: Türkiye, India, Egypt · 落地签/电子签可去：土耳其、印度、埃及
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

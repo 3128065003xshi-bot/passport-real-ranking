@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #68 of 199** · score 5806.02 · **77.0% of the maximum** · no visa needed for **115 of 198** destinations.
 
-> Visa needed: the US, the UK, Canada — Beats #67 Trinidad: visa-free to China
+> Visa needed: the US, the UK, Canada · 需签证：美国、英国、加拿大
+
+> China visa-free 30 days (unilateral, to end-2026) · 中国单方面免签30天，至2026年底
+
+> e-visa: India, Thailand, Malaysia · 电子签：印度、泰国、马来西亚
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

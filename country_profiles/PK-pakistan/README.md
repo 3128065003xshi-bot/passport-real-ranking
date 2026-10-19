@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #193 of 199** · score 2495.69 · **33.1% of the maximum** · no visa needed for **29 of 198** destinations.
 
-> Visa-free: Rwanda, Barbados, Trinidad — On arrival: Sri Lanka, Cambodia · e-visa: Thailand, Indonesia
+> Visa-free: Rwanda, Barbados, Trinidad · 免签：卢旺达、巴巴多斯、特立尼达
+
+> Entry banned: Libya · 禁止入境：利比亚
+
+> On arrival / e-visa: Thailand, Indonesia, Malaysia · 落地签/电子签可去：泰国、印度尼西亚、马来西亚
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

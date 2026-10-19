@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #94 of 199** · score 4798.1 · **63.6% of the maximum** · no visa needed for **106 of 198** destinations.
 
-> Visa needed: France, Spain, Italy — Beats #93 Timor-Leste: visa-free to China
+> Visa needed: France, Spain, Italy · 需签证：法国、西班牙、意大利
+
+> GCC: travel on a national ID · 海合会国家间凭身份证通行
+
+> Mutual visa exemption with China · 与中国互免签证
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

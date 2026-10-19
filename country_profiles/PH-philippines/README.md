@@ -6,7 +6,9 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #121 of 199** · score 3602.9 · **47.8% of the maximum** · no visa needed for **64 of 198** destinations.
 
-> Visa-free: Singapore, Thailand, Indonesia — On arrival: Sri Lanka, Nepal · e-visa: India, Russia
+> Visa-free: Singapore, Thailand, Indonesia · 免签：新加坡、泰国、印度尼西亚
+
+> On arrival / e-visa: India, Russia, UAE · 落地签/电子签可去：印度、俄罗斯、阿联酋
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #97 of 199** · score 4465.43 · **59.2% of the maximum** · no visa needed for **80 of 198** destinations.
 
-> Visa-free: France, Spain, Italy — On arrival: Saudi, Macao · e-visa: Singapore, Thailand
+> Visa-free: France, Spain, Italy · 免签：法国、西班牙、意大利
+
+> Entry banned: Cuba · 禁止入境：古巴
+
+> On arrival / e-visa: Singapore, Thailand, Saudi · 落地签/电子签可去：新加坡、泰国、沙特
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

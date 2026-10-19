@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #82 of 199** · score 5556.0 · **73.7% of the maximum** · no visa needed for **110 of 198** destinations.
 
-> Visa needed: the US, China, Japan — #81 Guatemala: visa-free to Japan
+> Visa needed: the US, China, Japan · 需签证：美国、中国、日本
+
+> Central America-4 free movement · 中美洲四国自由通行
+
+> e-visa: India, Thailand, Indonesia · 电子签：印度、泰国、印度尼西亚
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

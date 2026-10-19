@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #77 of 199** · score 5643.88 · **74.9% of the maximum** · no visa needed for **114 of 198** destinations.
 
-> Visa needed: the US, Japan, Türkiye — #76 Georgia: visa-free to Türkiye
+> Visa needed: the US, Japan, Türkiye · 需签证：美国、日本、土耳其
+
+> Mutual visa exemption with China · 与中国互免签证
+
+> e-visa: India, Thailand, UAE · 电子签：印度、泰国、阿联酋
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #53 of 199** · score 6171.57 · **81.9% of the maximum** · no visa needed for **134 of 198** destinations.
 
-> Visa needed: the US, China, Japan — #52 Mexico: visa-free to Japan
+> Visa needed: the US, China, Japan · 需签证：美国、中国、日本
+
+> EU/EEA free movement on a national ID · 欧盟/申根自由流动，凭身份证通行
+
+> e-visa: India, Russia, Thailand · 电子签：印度、俄罗斯、泰国
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

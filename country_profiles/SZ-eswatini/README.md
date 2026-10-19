@@ -6,7 +6,9 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #130 of 199** · score 3365.05 · **44.6% of the maximum** · no visa needed for **65 of 198** destinations.
 
-> Visa-free: S. Korea, Singapore, Malaysia — On arrival: Macao, Iran · e-visa: India, Russia
+> Visa-free: S. Korea, Singapore, Malaysia · 免签：韩国、新加坡、马来西亚
+
+> On arrival / e-visa: India, Russia, Thailand · 落地签/电子签可去：印度、俄罗斯、泰国
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

@@ -6,7 +6,9 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #183 of 199** · score 2775.56 · **36.8% of the maximum** · no visa needed for **37 of 198** destinations.
 
-> Visa-free: Singapore, Maldives, Bahamas — On arrival: Cambodia, Nepal · e-visa: India, Thailand
+> Visa-free: Singapore, Maldives, Bahamas · 免签：新加坡、马尔代夫、巴哈马
+
+> On arrival / e-visa: India, Thailand, Indonesia · 落地签/电子签可去：印度、泰国、印度尼西亚
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

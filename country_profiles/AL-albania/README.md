@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #79 of 199** · score 5606.2 · **74.4% of the maximum** · no visa needed for **109 of 198** destinations.
 
-> Visa needed: the US, Japan, the UK — Beats #78 Saint Lucia: visa-free to China
+> Visa needed: the US, Japan, the UK · 需签证：美国、日本、英国
+
+> Mutual visa exemption with China · 与中国互免签证
+
+> e-visa: India, Thailand, Vietnam · 电子签：印度、泰国、越南
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

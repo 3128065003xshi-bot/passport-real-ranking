@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #40 of 199** · score 6763.48 · **89.7% of the maximum** · no visa needed for **148 of 198** destinations.
 
-> Visa needed: Brunei, Guyana, Namibia — Beats #39 Australia: only an e-visa for Russia
+> Visa needed: Brunei, Guyana, Namibia · 需签证：文莱、圭亚那、纳米比亚
+
+> EU/EEA free movement on a national ID · 欧盟/申根自由流动，凭身份证通行
+
+> China visa-free 30 days (unilateral, to end-2026) · 中国单方面免签30天，至2026年底
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

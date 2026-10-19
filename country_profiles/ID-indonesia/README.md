@@ -6,7 +6,9 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #116 of 199** · score 3782.98 · **50.2% of the maximum** · no visa needed for **75 of 198** destinations.
 
-> Visa-free: Japan, Türkiye, Singapore — On arrival: Jordan, Sri Lanka · e-visa: India, Russia
+> Visa-free: Japan, Türkiye, Singapore · 免签：日本、土耳其、新加坡
+
+> On arrival / e-visa: India, Russia, UAE · 落地签/电子签可去：印度、俄罗斯、阿联酋
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

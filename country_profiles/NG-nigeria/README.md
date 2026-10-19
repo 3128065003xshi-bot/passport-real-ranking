@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #194 of 199** · score 2445.39 · **32.4% of the maximum** · no visa needed for **42 of 198** destinations.
 
-> Visa-free: Fiji, Senegal, Barbados — On arrival: Iran, Cambodia · e-visa: Thailand, Malaysia
+> Visa-free: Fiji, Senegal, Barbados · 免签：斐济、塞内加尔、巴巴多斯
+
+> Entry banned: the US · 禁止入境：美国
+
+> On arrival / e-visa: Thailand, Malaysia, UAE · 落地签/电子签可去：泰国、马来西亚、阿联酋
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

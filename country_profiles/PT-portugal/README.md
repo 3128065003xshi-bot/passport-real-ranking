@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #20 of 199** · score 6894.81 · **91.5% of the maximum** · no visa needed for **157 of 198** destinations.
 
-> Visa only for Algeria, Yemen & a few more — #19 Greece: visa on arrival in Syria
+> Visa only for Algeria, Yemen & a few more · 仅阿尔及利亚、也门等少数国家需签证
+
+> EU/EEA free movement on a national ID · 欧盟/申根自由流动，凭身份证通行
+
+> China visa-free 30 days (unilateral, to end-2026) · 中国单方面免签30天，至2026年底
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #84 of 199** · score 5472.56 · **72.6% of the maximum** · no visa needed for **107 of 198** destinations.
 
-> Visa needed: the US, Japan, the UK — #83 Marshall Is.: visa-free to the US
+> Visa needed: the US, Japan, the UK · 需签证：美国、日本、英国
+
+> Mutual visa exemption with China · 与中国互免签证
+
+> e-visa: India, Thailand, Egypt · 电子签：印度、泰国、埃及
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

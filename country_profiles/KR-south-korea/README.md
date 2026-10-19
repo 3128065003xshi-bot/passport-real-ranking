@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #24 of 199** · score 6863.18 · **91.0% of the maximum** · no visa needed for **163 of 198** destinations.
 
-> Visa needed: Afghanistan, Gambia — Beats #23 Slovakia: visa-free to Guyana
+> Visa needed: Afghanistan, Gambia · 需签证：阿富汗、冈比亚
+
+> China visa-free 30 days (unilateral, to end-2026) · 中国单方面免签30天，至2026年底
+
+> e-visa: Pakistan, Bhutan, Syria · 电子签：巴基斯坦、不丹、叙利亚
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

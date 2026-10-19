@@ -6,7 +6,9 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #87 of 199** · score 5435.74 · **72.1% of the maximum** · no visa needed for **110 of 198** destinations.
 
-> Visa needed: the US, China, Japan — #86 Honduras: visa-free to Japan
+> Visa needed: the US, China, Japan · 需签证：美国、中国、日本
+
+> e-visa: India, Singapore, Thailand · 电子签：印度、新加坡、泰国
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

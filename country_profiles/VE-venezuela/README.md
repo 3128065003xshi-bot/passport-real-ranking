@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #92 of 199** · score 5314.35 · **70.5% of the maximum** · no visa needed for **108 of 198** destinations.
 
-> Visa needed: the US (banned), China, Japan — #91 Micronesia: visa-free to the US
+> Visa needed: the US, China, Japan · 需签证：美国、中国、日本
+
+> Entry banned: the US · 禁止入境：美国
+
+> e-visa: India, Thailand, UAE · 电子签：印度、泰国、阿联酋
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

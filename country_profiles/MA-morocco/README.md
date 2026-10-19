@@ -6,7 +6,9 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #120 of 199** · score 3672.72 · **48.7% of the maximum** · no visa needed for **69 of 198** destinations.
 
-> Visa-free: Türkiye, S. Korea, Hong Kong — On arrival: Indonesia, Jordan · e-visa: India, Singapore
+> Visa-free: Türkiye, S. Korea, Hong Kong · 免签：土耳其、韩国、中国香港
+
+> On arrival / e-visa: India, Singapore, Thailand · 落地签/电子签可去：印度、新加坡、泰国
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

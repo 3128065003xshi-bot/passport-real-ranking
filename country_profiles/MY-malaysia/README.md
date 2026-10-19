@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #33 of 199** · score 6816.13 · **90.4% of the maximum** · no visa needed for **161 of 198** destinations.
 
-> Visa needed: the US, Canada, Israel — #32 Latvia: only an eTA for the US
+> Visa needed: the US, Canada, Israel · 需签证：美国、加拿大、以色列
+
+> Mutual visa exemption with China · 与中国互免签证
+
+> e-visa: India, Russia, Pakistan · 电子签：印度、俄罗斯、巴基斯坦
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

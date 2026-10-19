@@ -6,7 +6,9 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #58 of 199** · score 6031.9 · **80.0% of the maximum** · no visa needed for **130 of 198** destinations.
 
-> Visa needed: the US, China, Japan — #57 Peru: visa-free to China
+> Visa needed: the US, China, Japan · 需签证：美国、中国、日本
+
+> e-visa: India, Singapore, Vietnam · 电子签：印度、新加坡、越南
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

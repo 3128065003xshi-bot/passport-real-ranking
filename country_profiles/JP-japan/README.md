@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #25 of 199** · score 6862.0 · **91.0% of the maximum** · no visa needed for **163 of 198** destinations.
 
-> Visa needed: Gambia, Liberia — Beats #24 S. Korea: only an e-visa for Afghanistan
+> Visa needed: Gambia, Liberia · 需签证：冈比亚、利比里亚
+
+> China visa-free 30 days (unilateral, to end-2026) · 中国单方面免签30天，至2026年底
+
+> Korea K-ETA waived to end-2026 · 韩国 K-ETA 豁免至2026年底
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

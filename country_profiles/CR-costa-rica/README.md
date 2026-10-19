@@ -6,7 +6,9 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #55 of 199** · score 6126.95 · **81.3% of the maximum** · no visa needed for **132 of 198** destinations.
 
-> Visa needed: the US, China, Canada — #54 Israel: only an eTA for the US
+> Visa needed: the US, China, Canada · 需签证：美国、中国、加拿大
+
+> e-visa: India, Thailand, Vietnam · 电子签：印度、泰国、越南
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

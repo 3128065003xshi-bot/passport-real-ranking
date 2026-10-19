@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #56 of 199** · score 6121.78 · **81.2% of the maximum** · no visa needed for **128 of 198** destinations.
 
-> Visa needed: the US, China, Canada — Beats #55 Costa Rica: visa-free to Oman
+> Visa needed: the US, China, Canada · 需签证：美国、中国、加拿大
+
+> Mercosur: travel on a national ID · 南共市国家间凭身份证通行
+
+> e-visa: India, Thailand, Indonesia · 电子签：印度、泰国、印度尼西亚
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

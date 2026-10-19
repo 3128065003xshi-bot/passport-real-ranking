@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #70 of 199** · score 5781.28 · **76.7% of the maximum** · no visa needed for **125 of 198** destinations.
 
-> Visa needed: the US (banned), Japan, the UK — Beats #69 Colombia: visa-free to China
+> Visa needed: the US, Japan, the UK · 需签证：美国、日本、英国
+
+> Entry banned: the US · 禁止入境：美国
+
+> Mutual visa exemption with China · 与中国互免签证
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

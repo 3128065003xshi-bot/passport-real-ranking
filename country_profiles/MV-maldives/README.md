@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #106 of 199** · score 4090.68 · **54.3% of the maximum** · no visa needed for **84 of 198** destinations.
 
-> Visa needed: the US, France, Japan — Beats #105 Oman: visa-free to Ireland
+> Visa needed: the US, France, Japan · 需签证：美国、法国、日本
+
+> Mutual visa exemption with China · 与中国互免签证
+
+> e-visa: Türkiye, Vietnam, Iran · 电子签：土耳其、越南、伊朗
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

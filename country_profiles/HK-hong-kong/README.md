@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #37 of 199** · score 6797.2 · **90.2% of the maximum** · no visa needed for **161 of 198** destinations.
 
-> Visa needed: the US, India, Guatemala — #36 Cyprus: only an e-visa for India
+> Visa needed: the US, India, Guatemala · 需签证：美国、印度、危地马拉
+
+> Korea K-ETA waived to end-2026 · 韩国 K-ETA 豁免至2026年底
+
+> e-visa: Vietnam, Pakistan, Iraq · 电子签：越南、巴基斯坦、伊拉克
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

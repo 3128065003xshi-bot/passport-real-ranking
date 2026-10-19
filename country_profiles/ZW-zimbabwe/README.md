@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #143 of 199** · score 3193.97 · **42.4% of the maximum** · no visa needed for **59 of 198** destinations.
 
-> Visa-free: Singapore, Hong Kong, Malaysia — On arrival: Macao, Jordan · e-visa: India, Russia
+> Visa-free: Singapore, Hong Kong, Malaysia · 免签：新加坡、中国香港、马来西亚
+
+> Entry banned: the US · 禁止入境：美国
+
+> On arrival / e-visa: India, Russia, Thailand · 落地签/电子签可去：印度、俄罗斯、泰国
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

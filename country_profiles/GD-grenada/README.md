@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #74 of 199** · score 5743.45 · **76.2% of the maximum** · no visa needed for **124 of 198** destinations.
 
-> Visa needed: the US, Japan, Canada — Beats #73 El Salvador: visa-free to China
+> Visa needed: the US, Japan, Canada · 需签证：美国、日本、加拿大
+
+> Mutual visa exemption with China · 与中国互免签证
+
+> e-visa: Türkiye, India, Thailand · 电子签：土耳其、印度、泰国
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

@@ -6,7 +6,9 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #111 of 199** · score 3879.93 · **51.5% of the maximum** · no visa needed for **79 of 198** destinations.
 
-> Visa-free: Türkiye, Russia, Singapore — On arrival: Saudi, Indonesia · e-visa: Vietnam, Pakistan
+> Visa-free: Türkiye, Russia, Singapore · 免签：土耳其、俄罗斯、新加坡
+
+> On arrival / e-visa: Saudi, Indonesia, Egypt · 落地签/电子签可去：沙特、印度尼西亚、埃及
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

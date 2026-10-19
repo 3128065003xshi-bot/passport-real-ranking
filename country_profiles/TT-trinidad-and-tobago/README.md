@@ -6,7 +6,9 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #67 of 199** · score 5854.44 · **77.7% of the maximum** · no visa needed for **127 of 198** destinations.
 
-> Visa needed: the US, China, Japan — #66 Serbia: visa-free to China
+> Visa needed: the US, China, Japan · 需签证：美国、中国、日本
+
+> e-visa: India, Russia, Thailand · 电子签：印度、俄罗斯、泰国
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

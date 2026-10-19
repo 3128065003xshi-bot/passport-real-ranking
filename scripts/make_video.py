@@ -5,7 +5,8 @@
 
 Needs Pillow, imageio-ffmpeg (bundles ffmpeg) and macOS's Helvetica Neue + Hiragino Sans GB.
 Passports listed in SKIP are left out of the video (ranks are kept as in the data, so their slot is a gap).
-The note under each passport comes from data/processed/video_notes.csv (scripts/build_video_notes.py).
+The notes under each passport (headline, share of each region reachable without a visa, popular destinations,
+special cases) come from data/processed/video_notes.csv (scripts/build_video_notes.py).
 Flags come from assets/flags/ (flagcdn.com, w320). Passport covers are stylised, not real cover art:
 each cover takes the flag's dominant colour, darkened.
 """
@@ -58,11 +59,11 @@ def centred(d, cx, y, text, f, fill):
     d.text((cx - w / 2, y), text, font=f, fill=fill)
 
 
-def fit(d, text, f_for_size, max_w, start):
-    """Largest font size <= start at which text fits max_w."""
+def fit(d, text, f_for_size, max_w, start, smallest=14):
+    """Largest font size <= start (and >= smallest) at which text fits max_w."""
     size = start
-    while size > 14 and d.textlength(text, font=f_for_size(size)) > max_w:
-        size -= 2
+    while size > smallest and d.textlength(text, font=f_for_size(size)) > max_w:
+        size -= 1
     return f_for_size(size)
 
 
@@ -77,6 +78,49 @@ def cover_colour(flag):
     return 30, 40, 70
 
 
+def mix(c1, c2, k):
+    """Blend colour c2 into c1 by k (0..1)."""
+    return tuple(round(a + (b - a) * k) for a, b in zip(c1, c2))
+
+
+def share_colour(pct):
+    """Colour for 'share of a region reachable without a visa'."""
+    code = "A" if pct >= 80 else "C" if pct >= 50 else "D" if pct >= 25 else "E"
+    return CODE_COLOURS[code]
+
+
+def draw_pills(d, x, y, w, h, regions, size, short=False):
+    """Regions '欧洲:96;亚洲:80;...' as equal pills: label + percentage, tinted by the share.
+    short=True uses one-character labels (欧 亚 美 非, 大洋) for narrow cards."""
+    items = [r.split(":") for r in regions.split(";") if r]
+    if short:
+        items = [(label if label == "大洋" else label[0], pct) for label, pct in items]
+    gap = 5
+    pw = (w - gap * (len(items) - 1)) / len(items)
+    for i, (label, pct) in enumerate(items):
+        px = x + i * (pw + gap)
+        col = share_colour(int(pct))
+        d.rounded_rectangle((px, y, px + pw, y + h), radius=h // 2, fill=mix(PANEL, col, 0.30), outline=col, width=1)
+        text = f"{label} {pct}%"
+        f = fit(d, text, cjk, pw - 8, size, 11)
+        centred(d, px + pw / 2, y + (h - f.size) / 2 - 1, text, f, INK)
+
+
+def draw_chips(d, x, y, w, h, chips, cols, size, row_gap=6):
+    """Chips 'label|text|code;...' in a grid of cols columns, tinted by entry code ('-' = home)."""
+    items = [c.split("|") for c in chips.split(";") if c]
+    gap = 6
+    cw = (w - gap * (cols - 1)) / cols
+    for i, (label, text, code) in enumerate(items):
+        cx0 = x + (i % cols) * (cw + gap)
+        cy0 = y + (i // cols) * (h + row_gap)
+        col = CODE_COLOURS.get(code, (110, 120, 135))
+        d.rounded_rectangle((cx0, cy0, cx0 + cw, cy0 + h), radius=7, fill=mix(PANEL, col, 0.32), outline=col, width=2)
+        t = f"{label} {text}"
+        f = fit(d, t, lambda s: cjk(s, True), cw - 10, size, 11)
+        centred(d, cx0 + cw / 2, cy0 + (h - f.size) / 2 - 1, t, f, INK)
+
+
 def make_card(r, codes, note):
     card = Image.new("RGBA", (CARD_W, CARD_H), (0, 0, 0, 0))
     d = ImageDraw.Draw(card)
@@ -86,53 +130,55 @@ def make_card(r, codes, note):
                         outline=medal or (40, 54, 76), width=4 if medal else 2)
     cx = CARD_W / 2
 
-    centred(d, cx, 22, f"#{rank}", latin(64, BOLD), medal or INK)
+    centred(d, cx, 12, f"#{rank}", latin(58, BOLD), medal or INK)
 
     # Stylised passport cover.
     flag = Image.open(FLAGS / f"{r['iso2'].lower()}.png").convert("RGBA")
-    bw, bh, bx, by = 200, 260, (CARD_W - 200) // 2, 108
+    bw, bh, bx, by = 160, 196, (CARD_W - 160) // 2, 84
     shadow = Image.new("RGBA", (CARD_W, CARD_H), (0, 0, 0, 0))
-    ImageDraw.Draw(shadow).rounded_rectangle((bx + 8, by + 10, bx + bw + 8, by + bh + 10), radius=14, fill=(0, 0, 0, 120))
-    card.alpha_composite(shadow.filter(ImageFilter.GaussianBlur(8)))
-    d.rounded_rectangle((bx, by, bx + bw, by + bh), radius=14, fill=cover_colour(flag))
-    d.line((bx + 18, by + 6, bx + 18, by + bh - 6), fill=(0, 0, 0), width=2)  # spine
-    centred(d, bx + bw / 2 + 8, by + 22, "PASSPORT", latin(22, BOLD), GOLD)
-    fw = 116
+    ImageDraw.Draw(shadow).rounded_rectangle((bx + 6, by + 8, bx + bw + 6, by + bh + 8), radius=12, fill=(0, 0, 0, 120))
+    card.alpha_composite(shadow.filter(ImageFilter.GaussianBlur(7)))
+    d.rounded_rectangle((bx, by, bx + bw, by + bh), radius=12, fill=cover_colour(flag))
+    d.line((bx + 14, by + 5, bx + 14, by + bh - 5), fill=(0, 0, 0), width=2)  # spine
+    centred(d, bx + bw / 2 + 6, by + 16, "PASSPORT", latin(18, BOLD), GOLD)
+    fw = 92
     emblem = flag.resize((fw, round(flag.height * fw / flag.width)), Image.LANCZOS)
-    ex, ey = int(bx + bw / 2 + 8 - fw / 2), int(by + bh / 2 - emblem.height / 2)
-    d.rectangle((ex - 3, ey - 3, ex + fw + 2, ey + emblem.height + 2), fill=GOLD)
+    ex, ey = int(bx + bw / 2 + 6 - fw / 2), int(by + bh / 2 - emblem.height / 2 + 4)
+    d.rectangle((ex - 2, ey - 2, ex + fw + 1, ey + emblem.height + 1), fill=GOLD)
     card.alpha_composite(emblem, (ex, ey))
     name_up = r["name_en"].upper()
-    centred(d, bx + bw / 2 + 8, by + bh - 46, name_up, fit(d, name_up, lambda s: latin(s, MEDIUM), bw - 40, 18), GOLD)
+    centred(d, bx + bw / 2 + 6, by + bh - 34, name_up, fit(d, name_up, lambda s: latin(s, MEDIUM), bw - 30, 15), GOLD)
 
     # Names, score.
-    centred(d, cx, 390, r["name_zh"], fit(d, r["name_zh"], lambda s: cjk(s, True), CARD_W - 30, 44), INK)
-    centred(d, cx, 446, r["name_en"], fit(d, r["name_en"], latin, CARD_W - 30, 28), QUIET)
-    centred(d, cx, 488, f"{one_dp(r['pct_of_max'])}%", latin(66, BOLD), medal or INK)
-    centred(d, cx, 562, "of max score · 满分占比", cjk(20), QUIET)
+    centred(d, cx, 292, r["name_zh"], fit(d, r["name_zh"], lambda s: cjk(s, True), CARD_W - 30, 38), INK)
+    centred(d, cx, 340, r["name_en"], fit(d, r["name_en"], latin, CARD_W - 30, 24), QUIET)
+    centred(d, cx, 372, f"{one_dp(r['pct_of_max'])}%", latin(56, BOLD), medal or INK)
+    centred(d, cx, 434, "of max score · 满分占比", cjk(17), QUIET)
 
-    # Entry-type mix across 199 destinations.
-    x0, bar_w, y = 22, CARD_W - 44, 604
+    # Entry-type mix across all destinations.
+    x0, bar_w, y = 22, CARD_W - 44, 466
     total = sum(codes.values())
     x = x0
     for code, colour in CODE_COLOURS.items():
         w = bar_w * codes.get(code, 0) / total
         if w:
-            d.rectangle((x, y, x + w, y + 26), fill=colour)
+            d.rectangle((x, y, x + w, y + 20), fill=colour)
         x += w
     no_visa = sum(codes.get(c, 0) for c in "SABC")
-    centred(d, cx, y + 40, f"No visa · 无需签证  {no_visa} / 198", cjk(20), QUIET)
+    centred(d, cx, y + 28, f"No visa · 无需签证  {no_visa} / 198", cjk(18), QUIET)
 
     if note:
-        d.line((40, 680, CARD_W - 40, 680), fill=(52, 68, 92), width=2)
-        for y, key, font, colour in ((694, "note_zh1", cjk, GOLD), (726, "note_en1", latin, INK),
-                                     (758, "note_zh2", cjk, GOLD), (790, "note_en2", latin, INK)):
-            text = note[key]
-            size = 22 if font is cjk else 18
-            if key in ("note_zh2", "note_en2") and d.textlength(text, font=font(15)) > CARD_W - 28:
-                text = note[key + "_short"]  # two destinations per type do not fit: one each
-            if text:
-                centred(d, cx, y, text, fit(d, text, font, CARD_W - 28, size), colour)
+        d.line((30, 526, CARD_W - 30, 526), fill=(52, 68, 92), width=2)
+        centred(d, cx, 536, note["headline_zh"], fit(d, note["headline_zh"], lambda s: cjk(s, True), CARD_W - 24, 20), GOLD)
+        centred(d, cx, 563, note["headline_en"], fit(d, note["headline_en"], latin, CARD_W - 24, 15, 11), INK)
+        draw_pills(d, 14, 589, CARD_W - 28, 28, note["regions"], 15, short=True)
+        draw_chips(d, 14, 626, CARD_W - 28, 28, note["chips"], 3, 15)
+        y = 700
+        for k in ("special1", "special2"):
+            if note[k + "_zh"]:
+                centred(d, cx, y, note[k + "_zh"], fit(d, note[k + "_zh"], cjk, CARD_W - 24, 17, 11), GOLD)
+                centred(d, cx, y + 24, note[k + "_en"], fit(d, note[k + "_en"], latin, CARD_W - 24, 14, 10), QUIET)
+                y += 56
     return card
 
 

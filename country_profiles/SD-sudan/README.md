@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #189 of 199** · score 2655.13 · **35.2% of the maximum** · no visa needed for **37 of 198** destinations.
 
-> Visa-free: Malaysia, Syria, Rwanda — On arrival: Macao, Iran · e-visa: Thailand, Indonesia
+> Visa-free: Malaysia, Syria, Rwanda · 免签：马来西亚、叙利亚、卢旺达
+
+> Entry banned: the US, Libya · 禁止入境：美国、利比亚
+
+> On arrival / e-visa: Thailand, Indonesia, UAE · 落地签/电子签可去：泰国、印度尼西亚、阿联酋
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

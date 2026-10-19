@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #48 of 199** · score 6473.89 · **85.9% of the maximum** · no visa needed for **146 of 198** destinations.
 
-> Visa needed: the US, Canada, Australia — Beats #47 Brazil: visa on arrival in Bangladesh
+> Visa needed: the US, Canada, Australia · 需签证：美国、加拿大、澳大利亚
+
+> Mercosur: travel on a national ID · 南共市国家间凭身份证通行
+
+> China visa-free 30 days (unilateral, to end-2026) · 中国单方面免签30天，至2026年底
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

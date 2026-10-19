@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #73 of 199** · score 5744.54 · **76.2% of the maximum** · no visa needed for **117 of 198** destinations.
 
-> Visa needed: the US, China, the UK — #72 Mauritius: visa-free to China
+> Visa needed: the US, China, the UK · 需签证：美国、中国、英国
+
+> Central America-4 free movement · 中美洲四国自由通行
+
+> e-visa: India, Thailand, Vietnam · 电子签：印度、泰国、越南
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

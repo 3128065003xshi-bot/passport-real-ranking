@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #21 of 199** · score 6891.42 · **91.4% of the maximum** · no visa needed for **158 of 198** destinations.
 
-> Visa only for Algeria, Yemen & a few more — Beats #22 Slovenia: only an e-visa for Guyana
+> Visa only for Algeria, Yemen & a few more · 仅阿尔及利亚、也门等少数国家需签证
+
+> EU/EEA free movement on a national ID · 欧盟/申根自由流动，凭身份证通行
+
+> China visa-free 30 days (unilateral, to end-2026) · 中国单方面免签30天，至2026年底
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

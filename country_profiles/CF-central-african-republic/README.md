@@ -6,7 +6,9 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #176 of 199** · score 2847.92 · **37.8% of the maximum** · no visa needed for **50 of 198** destinations.
 
-> Visa-free: Singapore, Philippines, Ecuador — On arrival: Macao, Iran · e-visa: Thailand, Malaysia
+> Visa-free: Singapore, Philippines, Ecuador · 免签：新加坡、菲律宾、厄瓜多尔
+
+> On arrival / e-visa: Thailand, Malaysia, UAE · 落地签/电子签可去：泰国、马来西亚、阿联酋
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

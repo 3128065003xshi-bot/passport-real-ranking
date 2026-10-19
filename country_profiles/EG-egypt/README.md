@@ -6,7 +6,9 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #164 of 199** · score 2988.93 · **39.7% of the maximum** · no visa needed for **48 of 198** destinations.
 
-> Visa-free: Hong Kong, Malaysia, Macao — On arrival: Indonesia, Sri Lanka · e-visa: Thailand, UAE
+> Visa-free: Hong Kong, Malaysia, Macao · 免签：中国香港、马来西亚、中国澳门
+
+> On arrival / e-visa: Thailand, Indonesia, UAE · 落地签/电子签可去：泰国、印度尼西亚、阿联酋
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

@@ -6,7 +6,9 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #102 of 199** · score 4222.96 · **56.0% of the maximum** · no visa needed for **88 of 198** destinations.
 
-> Visa needed: the US, China, France — #101 Ecuador: visa-free to China
+> Visa needed: the US, China, France · 需签证：美国、中国、法国
+
+> e-visa: India, Thailand, Indonesia · 电子签：印度、泰国、印度尼西亚
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

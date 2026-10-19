@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #46 of 199** · score 6599.09 · **87.5% of the maximum** · no visa needed for **146 of 198** destinations.
 
-> Visa needed: Australia, Saudi, Brunei — #45 San Marino: only an eTA for Australia
+> Visa needed: Australia, Saudi, Brunei · 需签证：澳大利亚、沙特、文莱
+
+> Mercosur: travel on a national ID · 南共市国家间凭身份证通行
+
+> China visa-free 30 days (unilateral, to end-2026) · 中国单方面免签30天，至2026年底
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

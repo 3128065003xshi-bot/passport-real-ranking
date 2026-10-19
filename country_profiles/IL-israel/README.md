@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #54 of 199** · score 6150.39 · **81.6% of the maximum** · no visa needed for **144 of 198** destinations.
 
-> Visa needed: China, Australia, Saudi (banned) — Beats #53 Vatican: only an eTA for the US
+> Visa needed: China, Australia, Saudi · 需签证：中国、澳大利亚、沙特
+
+> Entry banned: Saudi, Malaysia, Iran and more · 禁止入境：沙特、马来西亚、伊朗等
+
+> e-visa: India, Vietnam, Morocco · 电子签：印度、越南、摩洛哥
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

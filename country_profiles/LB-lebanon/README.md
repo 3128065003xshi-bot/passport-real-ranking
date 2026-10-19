@@ -6,7 +6,9 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #168 of 199** · score 2964.17 · **39.3% of the maximum** · no visa needed for **41 of 198** destinations.
 
-> Visa-free: Türkiye, Malaysia, Macao — On arrival: Sri Lanka, Cambodia · e-visa: Singapore, Thailand
+> Visa-free: Türkiye, Malaysia, Macao · 免签：土耳其、马来西亚、中国澳门
+
+> On arrival / e-visa: Singapore, Thailand, Indonesia · 落地签/电子签可去：新加坡、泰国、印度尼西亚
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

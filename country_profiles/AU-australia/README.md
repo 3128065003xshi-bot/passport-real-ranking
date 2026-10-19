@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #39 of 199** · score 6784.12 · **90.0% of the maximum** · no visa needed for **154 of 198** destinations.
 
-> Visa needed: Russia — #40 Monaco: only an e-visa for Russia
+> Visa needed: Russia · 需签证：俄罗斯
+
+> China visa-free 30 days (unilateral, to end-2026) · 中国单方面免签30天，至2026年底
+
+> Korea K-ETA waived to end-2026 · 韩国 K-ETA 豁免至2026年底
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

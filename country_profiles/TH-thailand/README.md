@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #108 of 199** · score 4070.37 · **54.0% of the maximum** · no visa needed for **75 of 198** destinations.
 
-> Visa-free: China, Japan, Türkiye — On arrival: Saudi, Jordan · e-visa: India, UAE
+> Visa-free: China, Japan, Türkiye · 免签：中国、日本、土耳其
+
+> Mutual visa exemption with China · 与中国互免签证
+
+> On arrival / e-visa: India, Saudi, UAE · 落地签/电子签可去：印度、沙特、阿联酋
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

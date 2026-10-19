@@ -160,8 +160,11 @@ def readme(p, out_rows, in_rows):
              "## Passport", "",
              f"**Rank #{r['rank']} of {len(countries)}** · score {r['passport_score']} · "
              f"**{one_dp(r['pct_of_max'])}% of the maximum** · no visa needed for **{no_visa} of {len(out_rows)}** destinations.", ""]
-    if n and n.get("note_en1"):
-        lines += [f"> {n['note_en1']}" + (f" — {n['note_en2']}" if n.get("note_en2") else ""), ""]
+    if n:
+        lines += [f"> {n['headline_en']} · {n['headline_zh']}", ""]
+        for k in ("special1", "special2"):
+            if n.get(k + "_en"):
+                lines += [f"> {n[k + '_en']} · {n[k + '_zh']}", ""]
     lines += [table(["Entry type", "Destinations", "Share of passport score"],
                     [[f"{TYPES[k]} · {TYPES_ZH[k]}", counts[k], f"{100 * value[k] / total_value:.1f}%" if total_value else "–"]
                      for k in ORDER if counts[k]]), ""]

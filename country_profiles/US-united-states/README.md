@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #43 of 199** · score 6665.83 · **88.4% of the maximum** · no visa needed for **155 of 198** destinations.
 
-> Visa needed: China, Russia, Iran — #42 Canada: visa-free to China
+> Visa needed: China, Russia, Iran · 需签证：中国、俄罗斯、伊朗
+
+> Korea K-ETA waived to end-2026 · 韩国 K-ETA 豁免至2026年底
+
+> e-visa: India, Brazil, Vietnam · 电子签：印度、巴西、越南
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

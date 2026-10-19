@@ -6,7 +6,9 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #144 of 199** · score 3183.64 · **42.2% of the maximum** · no visa needed for **64 of 198** destinations.
 
-> Visa-free: Russia, Singapore, Hong Kong — On arrival: Iran, Jordan · e-visa: India, Thailand
+> Visa-free: Russia, Singapore, Hong Kong · 免签：俄罗斯、新加坡、中国香港
+
+> On arrival / e-visa: India, Thailand, UAE · 落地签/电子签可去：印度、泰国、阿联酋
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

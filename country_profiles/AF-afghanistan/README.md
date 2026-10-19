@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #199 of 199** · score 2241.24 · **29.7% of the maximum** · no visa needed for **22 of 198** destinations.
 
-> Visa-free only to a few small states — On arrival: Macao, Sri Lanka · e-visa: Thailand, Malaysia
+> Visa-free only to a few small states · 仅少数小国免签
+
+> Entry banned: the US · 禁止入境：美国
+
+> On arrival / e-visa: Thailand, Malaysia, UAE · 落地签/电子签可去：泰国、马来西亚、阿联酋
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

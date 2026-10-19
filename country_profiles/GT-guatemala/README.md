@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #81 of 199** · score 5572.01 · **73.9% of the maximum** · no visa needed for **119 of 198** destinations.
 
-> Visa needed: the US, China, Canada — #80 Solomon Is.: visa-free to China
+> Visa needed: the US, China, Canada · 需签证：美国、中国、加拿大
+
+> Central America-4 free movement · 中美洲四国自由通行
+
+> e-visa: India, Thailand, UAE · 电子签：印度、泰国、阿联酋
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

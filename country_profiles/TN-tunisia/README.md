@@ -6,7 +6,9 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #129 of 199** · score 3373.95 · **44.8% of the maximum** · no visa needed for **64 of 198** destinations.
 
-> Visa-free: Japan, Türkiye, S. Korea — On arrival: Indonesia, Macao · e-visa: Thailand, UAE
+> Visa-free: Japan, Türkiye, S. Korea · 免签：日本、土耳其、韩国
+
+> On arrival / e-visa: Thailand, Indonesia, UAE · 落地签/电子签可去：泰国、印度尼西亚、阿联酋
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

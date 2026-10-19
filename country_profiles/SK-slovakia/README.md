@@ -6,7 +6,11 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #23 of 199** · score 6872.78 · **91.2% of the maximum** · no visa needed for **157 of 198** destinations.
 
-> Visa needed: Guyana — #24 S. Korea: visa-free to Guyana
+> Visa needed: Guyana · 需签证：圭亚那
+
+> EU/EEA free movement on a national ID · 欧盟/申根自由流动，凭身份证通行
+
+> China visa-free 30 days (unilateral, to end-2026) · 中国单方面免签30天，至2026年底
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|
