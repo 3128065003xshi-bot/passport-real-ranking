@@ -1,0 +1,495 @@
+passport,destination,current,wikipedia,wiki_status,wiki_stay,current_source
+CN,AF,E,D,eVisa,30 days,passport_index_2025-01-12
+CN,AD,E,A,Visa not required,,passport_index_2025-01-12
+CN,KH,C,A,Visa not required,14 days,passport_index_2025-01-12
+CN,JP,D,?,eVisa (conditional),,passport_index_2025-01-12
+CN,KP,F,E,Visa required,* Chinese tourists may visit [[Tongnim County]] without a visa for 2 days. They may also visit [[Sinuiju]] for a day trip without a visa.,override:row16
+CN,SM,E,A,Visa not required,90 days,passport_index_2025-01-12
+CN,ZA,D,B,Electronic Travel Authorization / eVisa,90 days,passport_index_2025-01-12
+US,AF,E,D,eVisa,30 days,passport_index_2025-01-12
+US,BY,E,D,eVisa,30 days,passport_index_2025-01-12
+US,BO,C,A,Visa not required,,passport_index_2025-01-12
+US,BR,A,D,eVisa,,passport_index_2025-01-12
+US,CI,B,D,eVisa,,passport_index_2025-01-12
+US,DJ,C,D,eVisa,,passport_index_2025-01-12
+US,GH,C,D,eVisa,,passport_index_2025-01-12
+US,IQ,C,D,eVisa,30 days,passport_index_2025-01-12
+US,IL,A,B,Electronic Travel Authorization,,passport_index_2025-01-12
+US,MW,A,C,eVisa / Visa on arrival,,passport_index_2025-01-12
+US,MR,C,D,eVisa,,passport_index_2025-01-12
+US,MZ,A,B,Electronic Travel Authorization,,passport_index_2025-01-12
+US,NA,A,C,eVisa / Visa on arrival,,passport_index_2025-01-12
+US,OM,C,A,Visa not required / eVisa,"* Visa exemption valid for 14 days, e-Visa for 30 days.",passport_index_2025-01-12
+US,PK,B,D,eVisa,3 months,passport_index_2025-01-12
+US,PG,B,D,eVisa,* Extendable for 30 days,passport_index_2025-01-12
+US,KN,A,B,Electronic Travel Authorisation,,passport_index_2025-01-12
+US,SC,A,?,Electronic Border System,,passport_index_2025-01-12
+US,SO,C,D,eVisa,30 days,passport_index_2025-01-12
+US,LK,C,B,ETA / Visa on arrival,,passport_index_2025-01-12
+US,SR,E,A,Visa not required,,passport_index_2025-01-12
+US,SY,D,C,eVisa / Visa on arrival,30 days,passport_index_2025-01-12
+US,UZ,D,A,Visa not required,,passport_index_2025-01-12
+US,VE,E,D,eVisa,,passport_index_2025-01-12
+US,CN,E,A,Visa not required,30 days,override:row17
+GB,AF,E,D,eVisa,30 days,passport_index_2025-01-12
+GB,AU,B,A,{{sort|Visa not required|eVisitor,90 days,passport_index_2025-01-12
+GB,BF,C,D,eVisa,,passport_index_2025-01-12
+GB,CA,B,A,{{sort|Visa not required|Electronic Travel Authorization,6 months,passport_index_2025-01-12
+GB,TD,E,D,eVisa,,passport_index_2025-01-12
+GB,CI,B,D,eVisa,3 months,passport_index_2025-01-12
+GB,DJ,C,D,eVisa,90 days,passport_index_2025-01-12
+GB,GH,C,D,eVisa,,passport_index_2025-01-12
+GB,IQ,C,D,eVisa,30 days,passport_index_2025-01-12
+GB,KE,B,A,{{sort|Visa not required|Electronic Travel Authorisation,90 days,passport_index_2025-01-12
+GB,KP,F,E,Visa required,,override:row16
+GB,LR,E,D,eVisa,,passport_index_2025-01-12
+GB,MW,A,C,eVisa / Visa on arrival,90 days,passport_index_2025-01-12
+GB,MR,C,D,eVisa,30 days,passport_index_2025-01-12
+GB,NA,A,C,eVisa / Visa on arrival,3 months / 90 days,passport_index_2025-01-12
+GB,NZ,B,A,{{sort|Visa not required|Electronic Travel Authority,6 months,passport_index_2025-01-12
+GB,OM,C,A,Visa not required / eVisa,14 days / 30 days,passport_index_2025-01-12
+GB,PK,B,D,eVisa,3 months,passport_index_2025-01-12
+GB,PG,B,C,eVisa / Visa on arrival,60 days,passport_index_2025-01-12
+GB,QA,C,A,Visa not required,30 days,passport_index_2025-01-12
+GB,SA,C,A,{{sort|Visa not required|Electronic Travel Authorization,6 months,passport_index_2025-01-12
+GB,SO,C,D,eVisa,30 days,passport_index_2025-01-12
+GB,LK,C,B,ETA,30 days,passport_index_2025-01-12
+GB,SR,E,A,Visa not required,90 days,passport_index_2025-01-12
+GB,SY,D,C,eVisa / Visa on arrival,30 days,passport_index_2025-01-12
+GB,TJ,C,D,eVisa,60 days,passport_index_2025-01-12
+GB,US,B,A,{{sort|Visa not required|Visa Waiver Program,90 days,passport_index_2025-01-12
+JP,AF,E,D,eVisa,30 days,passport_index_2025-01-12
+JP,TD,E,D,eVisa,,passport_index_2025-01-12
+JP,CI,B,D,eVisa,3 months,passport_index_2025-01-12
+JP,GH,C,E,Visa required,,passport_index_2025-01-12
+JP,IQ,C,D,eVisa,30 days,passport_index_2025-01-12
+JP,IL,A,B,Electronic Travel Authorization,90 days,passport_index_2025-01-12
+JP,KP,F,E,Visa required,,override:row16
+JP,MR,C,D,eVisa,30 days,passport_index_2025-01-12
+JP,MZ,A,B,Electronic Travel Authorization,30 days,passport_index_2025-01-12
+JP,MM,D,C,eVisa / Visa on arrival,28 days / 30 days,passport_index_2025-01-12
+JP,NA,A,C,eVisa / Visa on arrival,3 months / 90 days,passport_index_2025-01-12
+JP,OM,C,A,Visa not required / eVisa,14 days / 30 days,passport_index_2025-01-12
+JP,PK,B,D,eVisa,3 months,passport_index_2025-01-12
+JP,PG,B,C,eVisa / Visa on arrival,60 days,passport_index_2025-01-12
+JP,QA,C,A,Visa not required,30 days,passport_index_2025-01-12
+JP,KN,A,B,Electronic Travel Authorisation,3 months,passport_index_2025-01-12
+JP,SC,A,?,Electronic Border System,3 months,passport_index_2025-01-12
+JP,LK,C,B,Free ETA / Visa on arrival,30 days,passport_index_2025-01-12
+JP,SR,E,A,Visa not required,90 days,passport_index_2025-01-12
+JP,US,B,A,{{sort|Visa not required|Visa Waiver Program,90 days,passport_index_2025-01-12
+DE,AF,E,D,eVisa,30 days,passport_index_2025-01-12
+DE,AD,S,A,Visa not required,,group:EU_EEA_CH
+DE,AU,B,A,{{sort|Visa not required|eVisitor,,passport_index_2025-01-12
+DE,BF,C,D,eVisa,,passport_index_2025-01-12
+DE,CA,B,A,{{sort|Visa not required|eTA / Visa not required,,passport_index_2025-01-12
+DE,TD,E,D,eVisa,* Must apply at least 7 days before arrival but maximum 90 days before arrival.,passport_index_2025-01-12
+DE,CI,B,D,eVisa,,passport_index_2025-01-12
+DE,GH,C,D,eVisa,,passport_index_2025-01-12
+DE,IR,C,D,eVisa,"* Passengers who have already made an application, at least 2 days before arrival, at the Iranian Ministry of Foreign Affair's e-Visa website and present the submission notification at the airport's visa desk may obtain a visa on arrival.",passport_index_2025-01-12
+DE,IQ,C,D,eVisa,* Visa on arrival or e-Visa for up to 30 days for travel to [[Iraqi Kurdistan]].,passport_index_2025-01-12
+DE,KE,B,A,{{sort|Visa not required|Electronic Travel Authorisation,,passport_index_2025-01-12
+DE,KP,F,E,Visa required,,override:row16
+DE,MW,A,C,eVisa / Visa on arrival,,passport_index_2025-01-12
+DE,MR,C,D,eVisa,,passport_index_2025-01-12
+DE,MC,S,A,Visa not required,,group:EU_EEA_CH
+DE,NA,A,C,eVisa / Visa on arrival,,passport_index_2025-01-12
+DE,NZ,B,A,{{sort|Visa not required|NZeTA,,passport_index_2025-01-12
+DE,OM,C,A,{{sort|Visa not required|Visa not required / eVisa,* An e-Visa is also available for stays up to 30 days.,passport_index_2025-01-12
+DE,PK,B,D,eVisa,,passport_index_2025-01-12
+DE,PG,B,D,eVisa,,passport_index_2025-01-12
+DE,QA,C,A,Visa not required,,passport_index_2025-01-12
+DE,SM,S,A,Visa not required,,group:EU_EEA_CH
+DE,SO,C,D,eVisa,30 days,passport_index_2025-01-12
+DE,LK,C,A,{{sort|Visa not required|Electronic Travel Authorization,,passport_index_2025-01-12
+DE,SR,E,A,Visa not required,,passport_index_2025-01-12
+DE,SY,D,C,eVisa / Visa on arrival,30 days,passport_index_2025-01-12
+DE,GB,B,A,{{sort|Visa not required|Electronic Travel Authorisation,,override:row2
+DE,US,B,A,{{sort|Visa not required|Visa Waiver Program,,passport_index_2025-01-12
+DE,VA,S,A,Visa not required,,group:EU_EEA_CH
+FR,AF,E,D,eVisa,,passport_index_2025-01-12
+FR,AD,S,A,Visa not required,,group:EU_EEA_CH
+FR,BF,C,D,eVisa,,passport_index_2025-01-12
+FR,CA,B,A,{{sort|Visa  not required|eTA / Visa not required,,passport_index_2025-01-12
+FR,CV,A,D,{{sort|eVisa|EASE,* Must register online at least five days prior to arrival.,passport_index_2025-01-12
+FR,TD,E,D,eVisa,* Must apply at least 7 days before arrival but maximum 90 days before arrival.,passport_index_2025-01-12
+FR,CI,B,D,eVisa,,passport_index_2025-01-12
+FR,DJ,C,D,eVisa,90 days,passport_index_2025-01-12
+FR,GH,C,D,eVisa,,passport_index_2025-01-12
+FR,IR,C,D,eVisa,"* Passengers who have already made an application, at least two days before arrival, at the Iranian Ministry of Foreign Affair's e-Visa website and present the submission notification at the airport's visa desk may obtain a visa on arrival.",passport_index_2025-01-12
+FR,IQ,C,D,eVisa,,passport_index_2025-01-12
+FR,KP,F,E,Visa required,,override:row16
+FR,KR,A,B,{{sort|eVisa|Electronic Travel Authorization,* The validity period of a K-ETA is 3 years from the date of approval.,passport_index_2025-01-12
+FR,MW,A,C,eVisa / Visa on arrival,30 days,passport_index_2025-01-12
+FR,MR,C,D,eVisa,,passport_index_2025-01-12
+FR,MC,S,A,Visa not required,,group:EU_EEA_CH
+FR,NA,A,C,eVisa / Visa on arrival,,passport_index_2025-01-12
+FR,OM,C,A,{{sort|Visa not required|Visa not required / eVisa,,passport_index_2025-01-12
+FR,PK,B,D,eVisa,,passport_index_2025-01-12
+FR,PG,B,?,Easy Visitor Permit,,passport_index_2025-01-12
+FR,QA,C,A,Visa not required,,passport_index_2025-01-12
+FR,KN,A,B,ETA,,passport_index_2025-01-12
+FR,SM,S,A,Visa not required,,group:EU_EEA_CH
+FR,SO,C,D,eVisa,30 days,passport_index_2025-01-12
+FR,LK,C,A,Visa not required,,passport_index_2025-01-12
+FR,SR,E,A,Visa not required,,passport_index_2025-01-12
+FR,TM,E,?,✓,,passport_index_2025-01-12
+FR,US,B,D,{{sort|eVisa|Visa Waiver Program,,passport_index_2025-01-12
+FR,VA,S,A,Visa not required,,group:EU_EEA_CH
+IT,AF,E,D,eVisa,30 days,passport_index_2025-01-12
+IT,DZ,E,C,Visa required / Visa on arrival,,passport_index_2025-01-12
+IT,AD,S,A,Visa not required,90 days,group:EU_EEA_CH
+IT,BF,C,D,eVisa,30 days,passport_index_2025-01-12
+IT,CA,B,A,eTA / Visa not required,180 days,passport_index_2025-01-12
+IT,TD,E,D,eVisa,* Must apply at least 7 days before arrival but maximum 90 days before arrival.,passport_index_2025-01-12
+IT,CI,B,D,eVisa,90 days,passport_index_2025-01-12
+IT,DJ,C,D,eVisa,90 days,passport_index_2025-01-12
+IT,GH,C,E,Visa required,,passport_index_2025-01-12
+IT,IR,C,D,eVisa,30 days,passport_index_2025-01-12
+IT,IQ,C,D,eVisa,60 days,passport_index_2025-01-12
+IT,IL,A,B,ETA-IL,90 days,passport_index_2025-01-12
+IT,KP,F,E,Visa required,,override:row16
+IT,MW,A,C,eVisa / Visa on arrival,30 days,passport_index_2025-01-12
+IT,MR,C,D,eVisa,720 days,passport_index_2025-01-12
+IT,MC,S,A,Visa not required,,group:EU_EEA_CH
+IT,NA,A,C,eVisa / Visa on arrival,* 90 days within a calendar year.,passport_index_2025-01-12
+IT,OM,C,A,Visa not required / eVisa,14 days / 30 days,passport_index_2025-01-12
+IT,PK,B,D,eVisa,90 days,passport_index_2025-01-12
+IT,PG,B,D,eVisa,60 days,passport_index_2025-01-12
+IT,KN,A,B,Electronic Travel Authorisation,180 days,passport_index_2025-01-12
+IT,SM,S,A,Visa not required,,group:EU_EEA_CH
+IT,SC,A,B,eTA,30 days,passport_index_2025-01-12
+IT,SO,C,D,eVisa,30 days,passport_index_2025-01-12
+IT,LK,C,B,ETA / Visa on arrival,60 days / 30 days,passport_index_2025-01-12
+IT,SR,E,A,Visa not required,90 days,passport_index_2025-01-12
+IT,US,B,A,{{sort|Visa not required|Visa Waiver Program,90 days,passport_index_2025-01-12
+IT,VA,S,A,Visa not required,,group:EU_EEA_CH
+IT,GR,S,E,Special permit required,,group:EU_EEA_CH
+IT,DK,S,A,Visa not required,* 90 days,group:EU_EEA_CH
+IT,NL,S,A,Visa not required,3 months,group:EU_EEA_CH
+IT,FR,S,A,Visa not required,,group:EU_EEA_CH
+CA,AF,E,D,eVisa,30 days,passport_index_2025-01-12
+CA,BR,A,D,eVisa,,passport_index_2025-01-12
+CA,BF,C,D,eVisa,,passport_index_2025-01-12
+CA,TD,E,D,eVisa,,passport_index_2025-01-12
+CA,CI,B,D,eVisa,,passport_index_2025-01-12
+CA,DJ,C,D,eVisa,,passport_index_2025-01-12
+CA,GH,C,D,eVisa,,passport_index_2025-01-12
+CA,IQ,C,D,eVisa,,passport_index_2025-01-12
+CA,IL,A,B,Electronic Travel Authorization,,passport_index_2025-01-12
+CA,KP,F,E,Visa required,,override:row16
+CA,KR,A,B,Electronic Travel Authorization,,passport_index_2025-01-12
+CA,LR,E,C,e-VOA,3 months,passport_index_2025-01-12
+CA,MW,A,C,eVisa / Visa on arrival,30 days,passport_index_2025-01-12
+CA,MR,C,D,eVisa,,passport_index_2025-01-12
+CA,MZ,A,B,Electronic Travel Authorization,,passport_index_2025-01-12
+CA,NA,A,C,eVisa / Visa on arrival,,passport_index_2025-01-12
+CA,OM,C,A,Visa not required / eVisa,"* Visa exemption valid for 14 days, evisa for 30 days",passport_index_2025-01-12
+CA,PK,B,D,eVisa,3 months,passport_index_2025-01-12
+CA,PG,B,C,eVisa / Visa on arrival,,passport_index_2025-01-12
+CA,QA,C,A,Visa not required,,passport_index_2025-01-12
+CA,KN,A,B,Electronic Travel Authorisation,,passport_index_2025-01-12
+CA,SC,A,?,Electronic Border System,,passport_index_2025-01-12
+CA,SO,C,D,eVisa,30 days,passport_index_2025-01-12
+CA,LK,C,B,{{sort|Electronic Travel Authorization|Electronic Travel Authorization,30 days,passport_index_2025-01-12
+CA,SR,E,A,Visa not required,,passport_index_2025-01-12
+CA,SY,D,E,Visa required,,passport_index_2025-01-12
+CA,TM,E,D,eVisa,,passport_index_2025-01-12
+CA,VE,E,D,eVisa,,passport_index_2025-01-12
+AU,AF,E,D,eVisa,30 days,passport_index_2025-01-12
+AU,BR,A,D,eVisa,90 days,passport_index_2025-01-12
+AU,BF,C,D,eVisa,,passport_index_2025-01-12
+AU,TD,E,D,eVisa,,passport_index_2025-01-12
+AU,CL,D,A,Visa not required,90 days,passport_index_2025-01-12
+AU,CI,B,D,eVisa,3 months,passport_index_2025-01-12
+AU,DJ,C,D,eVisa,90 days,passport_index_2025-01-12
+AU,GH,C,D,eVisa,,passport_index_2025-01-12
+AU,IR,C,D,eVisa,30 days,passport_index_2025-01-12
+AU,IQ,C,D,eVisa,30 days,passport_index_2025-01-12
+AU,IL,A,B,Electronic Travel Authorization,90 days,passport_index_2025-01-12
+AU,KP,F,E,Visa required,,override:row16
+AU,KR,A,B,Electronical Travel Authorization,90 days,passport_index_2025-01-12
+AU,LR,E,C,e-VOA,3 months,passport_index_2025-01-12
+AU,MW,A,C,eVisa / Visa on arrival,30 days,passport_index_2025-01-12
+AU,MR,C,D,eVisa,30 days,passport_index_2025-01-12
+AU,NA,A,C,eVisa / Visa on arrival,3 months / 90 days,passport_index_2025-01-12
+AU,OM,C,A,Visa not required / eVisa,14 days / 30 days,passport_index_2025-01-12
+AU,PK,B,D,eVisa,3 months,passport_index_2025-01-12
+AU,PG,B,D,eVisa,30 days,passport_index_2025-01-12
+AU,QA,C,A,Visa not required,30 days,passport_index_2025-01-12
+AU,KN,A,B,Electronic Travel Authorisation,3 months,passport_index_2025-01-12
+AU,SC,A,?,Electronic Border System,3 months,passport_index_2025-01-12
+AU,LK,C,B,ETA / Visa on arrival,30 days,passport_index_2025-01-12
+AU,SR,E,A,Visa not required,90 days,passport_index_2025-01-12
+AU,TT,C,D,eVisa,90 days,passport_index_2025-01-12
+AU,TR,C,A,Visa not required,90 days,passport_index_2025-01-12
+AU,US,B,?,Visa Waiver Program,90 days,passport_index_2025-01-12
+KR,AZ,C,A,Visa not required,30 days,passport_index_2025-01-12
+KR,BO,C,A,Visa not required,90 days,passport_index_2025-01-12
+KR,TD,E,D,eVisa,30 days,passport_index_2025-01-12
+KR,CI,B,D,eVisa,3 months,passport_index_2025-01-12
+KR,DJ,C,D,eVisa,90 days,passport_index_2025-01-12
+KR,GM,A,E,Visa required,,passport_index_2025-01-12
+KR,GH,C,D,eVisa,90 days,passport_index_2025-01-12
+KR,IL,A,B,Electronic Travel Authorization,90 days,passport_index_2025-01-12
+KR,KP,F,?,Particular visit regime,,override:row16
+KR,LR,E,C,e-VOA,3 months,passport_index_2025-01-12
+KR,MR,C,D,eVisa,30 days,passport_index_2025-01-12
+KR,MZ,A,B,Electronic Travel Authorization,30 days,passport_index_2025-01-12
+KR,MM,D,C,eVisa / Visa on arrival,28 days / 30 days,passport_index_2025-01-12
+KR,OM,C,A,Visa not required / eVisa,14 days / 30 days,passport_index_2025-01-12
+KR,PK,B,D,eVisa,3 months,passport_index_2025-01-12
+KR,PG,B,D,eVisa,60 days,passport_index_2025-01-12
+KR,QA,C,A,Visa not required,90 days,passport_index_2025-01-12
+KR,KN,A,B,Electronic Travel Authorisation,3 months,passport_index_2025-01-12
+KR,SC,A,?,Electronic Border System,3 months,passport_index_2025-01-12
+KR,LK,C,B,ETA / Visa on arrival,30 days,passport_index_2025-01-12
+KR,SR,E,A,Visa not required,90 days,passport_index_2025-01-12
+KR,US,B,A,{{sort|Visa not required|Visa Waiver Program,90 days,passport_index_2025-01-12
+IN,AF,E,D,eVisa,30 days,passport_index_2025-01-12
+IN,BH,D,C,eVisa / Visa on arrival,14 days,passport_index_2025-01-12
+IN,BY,E,D,eVisa,,passport_index_2025-01-12
+IN,BO,C,E,Visa required,,passport_index_2025-01-12
+IN,TD,E,D,eVisa,,passport_index_2025-01-12
+IN,CI,B,D,eVisa,3 months,passport_index_2025-01-12
+IN,CU,E,D,eVisa,90 days,passport_index_2025-01-12
+IN,DJ,C,D,eVisa,90 days,passport_index_2025-01-12
+IN,SV,A,E,Visa required,,passport_index_2025-01-12
+IN,GH,C,E,Visa required,,passport_index_2025-01-12
+IN,IR,A,D,eVisa,30 days,passport_index_2025-01-12
+IN,IL,E,D,eVisa,90 days,passport_index_2025-01-12
+IN,KP,F,E,Visa required,,override:row16
+IN,LS,D,E,Visa required,,passport_index_2025-01-12
+IN,LR,E,C,e-VOA,3 months,passport_index_2025-01-12
+IN,MV,C,A,Visa not required,90 days,passport_index_2025-01-12
+IN,MR,C,D,eVisa,,passport_index_2025-01-12
+IN,MD,D,E,Visa required,"* National visa may be substituted with a valid ('C' or 'D') visa or a valid residence permit issued by the United Kingdom, Schengen Area or European Union member state for visits up to 90 days.",passport_index_2025-01-12
+IN,NA,E,D,eVisa,3 months,passport_index_2025-01-12
+IN,OM,D,E,Visa required,"* 14-days Visa on arrival for Indians holding a valid Australia, Canada, Japan, UK, US or Schengen visa or residence permit. Also for [[Gulf Cooperation Council]] residents.",passport_index_2025-01-12
+IN,PK,E,?,Admission restricted,,passport_index_2025-01-12
+IN,PG,B,D,eVisa,30 days,passport_index_2025-01-12
+IN,PH,E,A,Visa not required / eVisa,14 days / 59 days,passport_index_2025-01-12
+IN,QA,C,A,Visa not required,30 days,passport_index_2025-01-12
+IN,KN,A,B,Electronic Travel Authorisation,3 months,passport_index_2025-01-12
+IN,RS,E,D,eVisa,90 days,passport_index_2025-01-12
+IN,SC,A,?,Electronic Border System,3 months,passport_index_2025-01-12
+IN,SG,D,E,Visa required,,passport_index_2025-01-12
+IN,ZA,D,B,Electronic Travel Authorisation,90 days,passport_index_2025-01-12
+IN,LK,C,B,Free ETA / Visa on arrival,30 days,passport_index_2025-01-12
+IN,TN,E,?,Visa not required (conditional),,passport_index_2025-01-12
+IN,UA,E,D,eVisa,30 days,passport_index_2025-01-12
+IN,AE,D,E,Visa required,,passport_index_2025-01-12
+IN,GB,E,D,eVisa,,passport_index_2025-01-12
+IN,VE,E,D,eVisa,,passport_index_2025-01-12
+RU,AD,E,A,Visa not required,* 90 days within any 365-day period.,passport_index_2025-01-12
+RU,BZ,E,A,Visa not required,90 days,passport_index_2025-01-12
+RU,TD,E,D,eVisa,,passport_index_2025-01-12
+RU,CI,B,D,eVisa,,passport_index_2025-01-12
+RU,CZ,E,?,✓,,passport_index_2025-01-12
+RU,DJ,C,D,eVisa,,passport_index_2025-01-12
+RU,EE,E,?,✓,,passport_index_2025-01-12
+RU,FI,E,?,✓,,passport_index_2025-01-12
+RU,GM,A,E,Visa required,,passport_index_2025-01-12
+RU,GH,C,D,eVisa,,passport_index_2025-01-12
+RU,IR,C,D,Visa not required (conditional) / eVisa,* Visa not required for 15 days for travelling as part of an accredited tour group (5 ~ 50 people).,passport_index_2025-01-12
+RU,IQ,C,D,eVisa,,passport_index_2025-01-12
+RU,IL,A,B,Electronic Travel Authorization,,passport_index_2025-01-12
+RU,JO,C,A,Visa not required,90 days,passport_index_2025-01-12
+RU,LV,E,?,✓,,passport_index_2025-01-12
+RU,LS,D,E,Visa required,,passport_index_2025-01-12
+RU,LR,E,C,e-VOA,3 months,passport_index_2025-01-12
+RU,LT,E,?,✓,,passport_index_2025-01-12
+RU,MW,A,D,eVisa,,passport_index_2025-01-12
+RU,MR,C,D,eVisa,30 days,passport_index_2025-01-12
+RU,MX,B,?,Electronic Authorization,,passport_index_2025-01-12
+RU,MZ,A,B,Electronic Travel Authorization,,passport_index_2025-01-12
+RU,NO,E,?,✓,,passport_index_2025-01-12
+RU,OM,C,A,Visa not required,,passport_index_2025-01-12
+RU,PK,B,D,eVisa,,passport_index_2025-01-12
+RU,PG,B,D,eVisa,,passport_index_2025-01-12
+RU,PL,E,?,✓,,passport_index_2025-01-12
+RU,QA,C,A,Visa not required,,passport_index_2025-01-12
+RU,KN,A,B,Electronic Travel Authorisation,,passport_index_2025-01-12
+RU,SA,C,A,Visa not required,* Visa-free for 90 days within one calendar year period.,passport_index_2025-01-12
+RU,SC,A,?,Electronic Border System,,passport_index_2025-01-12
+RU,SB,E,D,eVisa,,passport_index_2025-01-12
+RU,SO,C,D,eVisa,,passport_index_2025-01-12
+RU,LK,C,B,ETA / Visa on arrival,,passport_index_2025-01-12
+RU,SR,E,A,Visa not required,,passport_index_2025-01-12
+RU,SY,D,C,Visa on arrival,15 days,passport_index_2025-01-12
+RU,TW,E,D,eVisa,,passport_index_2025-01-12
+BR,AF,E,D,eVisa,30 days,passport_index_2025-01-12
+BR,BF,C,D,eVisa,,passport_index_2025-01-12
+BR,TD,E,D,eVisa,,passport_index_2025-01-12
+BR,CI,B,D,eVisa,3 months,passport_index_2025-01-12
+BR,DJ,C,D,eVisa,90 days,passport_index_2025-01-12
+BR,GH,C,D,eVisa,,passport_index_2025-01-12
+BR,ID,C,A,Visa not required / e-VOA,30 days,passport_index_2025-01-12
+BR,IL,A,B,Electronic Travel Authorization,90 days,passport_index_2025-01-12
+BR,KP,F,E,Visa required,,override:row16
+BR,LR,E,C,e-VOA,3 months,passport_index_2025-01-12
+BR,MR,C,D,eVisa,30 days,passport_index_2025-01-12
+BR,MX,E,D,eVisa,180 days,passport_index_2025-01-12
+BR,OM,C,A,Visa not required / eVisa,14 days / 30 days,passport_index_2025-01-12
+BR,PG,B,D,eVisa,60 days,passport_index_2025-01-12
+BR,QA,C,A,Visa not required,90 days,passport_index_2025-01-12
+BR,KN,A,B,Electronic Travel Authorisation,3 months,passport_index_2025-01-12
+BR,SO,C,D,eVisa,30 days,passport_index_2025-01-12
+BR,LK,C,B,ETA / Visa on arrival,30 days,passport_index_2025-01-12
+MX,AF,E,D,eVisa,30 days,passport_index_2025-01-12
+MX,CV,C,E,Visa required,,passport_index_2025-01-12
+MX,TD,E,D,eVisa,,passport_index_2025-01-12
+MX,CI,B,D,eVisa,3 months,passport_index_2025-01-12
+MX,DJ,C,D,eVisa,31 days,passport_index_2025-01-12
+MX,GH,C,E,Visa required,,passport_index_2025-01-12
+MX,GY,E,D,eVisa,,passport_index_2025-01-12
+MX,IL,A,B,Electronic Travel Authorization,90 days,passport_index_2025-01-12
+MX,KP,F,E,Visa required,,override:row16
+MX,LR,E,C,e-VOA,3 months,passport_index_2025-01-12
+MX,MR,C,D,eVisa,30 days,passport_index_2025-01-12
+MX,NI,A,E,Visa required,,passport_index_2025-01-12
+MX,OM,D,E,Visa required,"* Eligible for 30 days e-Visa if holding a valid Schengen visa, or a valid visa or residence permit from Australia, Canada, UK or USA.",passport_index_2025-01-12
+MX,PG,B,?,Easy Visitor Permit,60 days,passport_index_2025-01-12
+MX,QA,C,A,Visa not required,30 days,passport_index_2025-01-12
+MX,SC,A,?,Electronic Border System,3 months,passport_index_2025-01-12
+MX,ZA,D,B,Electronic Travel Authorization / eVisa,90 days,passport_index_2025-01-12
+MX,LK,C,B,ETA / Visa on arrival,30 days,passport_index_2025-01-12
+MX,SR,E,A,Visa not required,90 days,passport_index_2025-01-12
+MX,TH,D,A,Visa not required,60 days,override:row9
+MX,UA,E,D,eVisa,30 days,passport_index_2025-01-12
+ID,AF,E,?,eVisa (conditional),30 days,passport_index_2025-01-12
+ID,AL,A,D,eVisa,"* Nationals of Indonesia holding a valid, multiple-entry Schengen, UK, or US visa; A residence permit from a Schengen member state; or a 10-year residence permit of the UAE are permitted to enter Albania without a visa for 90 days.",passport_index_2025-01-12
+ID,AG,D,A,Visa not required,,passport_index_2025-01-12
+ID,BH,D,C,eVisa / Visa on arrival,,passport_index_2025-01-12
+ID,BO,C,E,Visa required,,passport_index_2025-01-12
+ID,CV,C,E,Visa required,,passport_index_2025-01-12
+ID,TD,E,D,eVisa,,passport_index_2025-01-12
+ID,CI,B,D,eVisa,,passport_index_2025-01-12
+ID,DJ,C,D,eVisa,,passport_index_2025-01-12
+ID,SV,D,E,Visa required,,passport_index_2025-01-12
+ID,GM,A,E,Visa required,,passport_index_2025-01-12
+ID,GH,C,E,Visa required,,passport_index_2025-01-12
+ID,GY,A,D,eVisa,,passport_index_2025-01-12
+ID,JP,A,?,Visa not required (conditional),,passport_index_2025-01-12
+ID,KP,F,E,Visa required,,override:row16
+ID,LS,D,E,Visa required,,passport_index_2025-01-12
+ID,LR,E,C,e-VOA,3 months,passport_index_2025-01-12
+ID,MR,C,D,eVisa,30 days,passport_index_2025-01-12
+ID,MD,D,E,Visa required,,passport_index_2025-01-12
+ID,MZ,C,B,Electronic Travel Authorization,30 days,passport_index_2025-01-12
+ID,NI,C,E,Visa required,,passport_index_2025-01-12
+ID,OM,C,A,Visa not required / eVisa,14 days / 30 days,passport_index_2025-01-12
+ID,PK,B,D,eVisa,3 months,passport_index_2025-01-12
+ID,PG,B,C,Easy Visitor Permit / Visa on arrival,60 days,passport_index_2025-01-12
+ID,PY,E,C,Visa on arrival,30 days,passport_index_2025-01-12
+ID,QA,C,A,Visa not required,30 days,passport_index_2025-01-12
+ID,KN,A,B,Electronic Travel Authorisation,90 days,passport_index_2025-01-12
+ID,SC,A,?,Electronic Border System,,passport_index_2025-01-12
+ID,ZA,D,B,Electronic Travel Authorisation,90 days,passport_index_2025-01-12
+ID,LK,C,B,Free ETA/Free Visa on arrival,30 days,passport_index_2025-01-12
+ID,SR,E,A,Visa not required,90 days,passport_index_2025-01-12
+ID,TT,E,D,eVisa,,passport_index_2025-01-12
+ID,UA,E,D,eVisa,30 days,passport_index_2025-01-12
+ID,AE,D,E,Visa required,,passport_index_2025-01-12
+ID,VU,E,D,eVisa,120 days,passport_index_2025-01-12
+SA,AF,E,D,eVisa,30 days,passport_index_2025-01-12
+SA,AM,D,A,Visa not required,180 days,passport_index_2025-01-12
+SA,AZ,C,A,Visa not required,30 days,passport_index_2025-01-12
+SA,BO,C,D,Online Visa,,passport_index_2025-01-12
+SA,BA,E,A,Visa not required,"* Valid multiple entry visa holders and residents of the European Union, Schengen Area member states and United States of America can enter Bosnia and Herzegovina without a visa for a maximum stay of 30 days.",passport_index_2025-01-12
+SA,TD,E,D,eVisa,,passport_index_2025-01-12
+SA,CI,B,D,eVisa,3 months,passport_index_2025-01-12
+SA,DJ,C,D,eVisa,90 days,passport_index_2025-01-12
+SA,FJ,E,D,Online Visa,,passport_index_2025-01-12
+SA,GM,A,E,Visa required,,passport_index_2025-01-12
+SA,GH,C,E,Visa required,,passport_index_2025-01-12
+SA,GY,E,D,eVisa,,passport_index_2025-01-12
+SA,IQ,C,D,eVisa,30 days,passport_index_2025-01-12
+SA,KP,F,E,Visa required,,override:row16
+SA,LS,D,E,Visa required,,passport_index_2025-01-12
+SA,MR,C,D,eVisa,30 days,passport_index_2025-01-12
+SA,ME,E,A,Visa not required,90 days,passport_index_2025-01-12
+SA,NA,E,D,eVisa,3 months,passport_index_2025-01-12
+SA,RU,D,A,Visa not required,90 days,passport_index_2025-01-12
+SA,KN,A,B,Electronic Travel Authorisation,90 days,passport_index_2025-01-12
+SA,RS,E,D,eVisa,90 days,passport_index_2025-01-12
+SA,SC,A,?,Electronic Border System,90 days,passport_index_2025-01-12
+SA,SO,C,D,eVisa,30 days,passport_index_2025-01-12
+SA,LK,C,B,ETA / Visa on arrival,30 days,passport_index_2025-01-12
+SA,SR,E,A,Visa not required,90 days,passport_index_2025-01-12
+SA,SY,A,C,eVisa / Visa on arrival,,passport_index_2025-01-12
+SA,TT,E,D,eVisa,,passport_index_2025-01-12
+SA,VE,E,D,eVisa,,passport_index_2025-01-12
+TR,BH,D,C,eVisa / Visa on arrival,14 days,passport_index_2025-01-12
+TR,BF,C,D,eVisa,,passport_index_2025-01-12
+TR,CV,C,E,Visa required,,passport_index_2025-01-12
+TR,TD,E,D,eVisa,,passport_index_2025-01-12
+TR,CI,B,D,eVisa,3 months,passport_index_2025-01-12
+TR,DJ,C,D,eVisa,90 days,passport_index_2025-01-12
+TR,GH,C,E,Visa required,,passport_index_2025-01-12
+TR,GY,E,D,eVisa,,passport_index_2025-01-12
+TR,ID,C,A,Visa not required / e-VOA,30 days,passport_index_2025-01-12
+TR,KP,F,E,Visa required,,override:row16
+TR,KR,B,A,{{sort|Visa not required|Electronic Travel Authorization,90 days,passport_index_2025-01-12
+TR,LS,D,E,Visa required,,passport_index_2025-01-12
+TR,LR,E,C,e-VOA,3 months,passport_index_2025-01-12
+TR,MR,C,D,eVisa,30 days,passport_index_2025-01-12
+TR,MX,B,?,Electronic Authorization System,180 days,passport_index_2025-01-12
+TR,OM,C,A,Visa not required,30 days,passport_index_2025-01-12
+TR,PK,B,D,eVisa,3 months,passport_index_2025-01-12
+TR,QA,C,A,Visa not required,90 days,passport_index_2025-01-12
+TR,KN,A,B,Electronic Travel Authorisation,3 months,passport_index_2025-01-12
+TR,SC,A,?,Electronic Border System,3 months,passport_index_2025-01-12
+TR,SO,C,D,eVisa,30 days,passport_index_2025-01-12
+TR,LK,C,B,ETA / Visa on arrival,30 days,passport_index_2025-01-12
+TR,SR,E,A,Visa not required,90 days,passport_index_2025-01-12
+TR,TJ,D,E,Visa required,,passport_index_2025-01-12
+TR,AE,D,E,Visa required,,passport_index_2025-01-12
+TR,ZM,C,A,Visa not required,90 days,passport_index_2025-01-12
+ZA,AF,E,D,eVisa,30 days,passport_index_2025-01-12
+ZA,BH,D,C,eVisa / Visa on arrival,14 days,passport_index_2025-01-12
+ZA,BO,C,A,Visa not required,90 days,passport_index_2025-01-12
+ZA,TD,E,D,eVisa,,passport_index_2025-01-12
+ZA,CI,B,D,eVisa,3 months,passport_index_2025-01-12
+ZA,DJ,C,D,eVisa,90 days,passport_index_2025-01-12
+ZA,IR,C,D,eVisa,30 days,passport_index_2025-01-12
+ZA,IL,A,B,Electronic Travel Authorization,90 days,passport_index_2025-01-12
+ZA,KZ,D,A,Visa not required,,passport_index_2025-01-12
+ZA,KE,B,A,Visa not required,90 days,passport_index_2025-01-12
+ZA,KP,F,E,Visa required,,override:row16
+ZA,MR,C,D,eVisa,30 days,passport_index_2025-01-12
+ZA,MD,D,E,Visa required,,passport_index_2025-01-12
+ZA,NG,C,D,eVisa,30 days,passport_index_2025-01-12
+ZA,OM,C,A,Visa not required / eVisa,14 days / 30 days,passport_index_2025-01-12
+ZA,PK,B,D,eVisa,3 months,passport_index_2025-01-12
+ZA,PG,B,D,eVisa,30 days,passport_index_2025-01-12
+ZA,QA,C,A,Visa not required,30 days,passport_index_2025-01-12
+ZA,KN,A,B,Electronic Travel Authorisation,3 months,passport_index_2025-01-12
+ZA,RS,E,D,eVisa,90 days,passport_index_2025-01-12
+ZA,SC,A,?,Electronic Border System,3 months,passport_index_2025-01-12
+ZA,SO,C,D,eVisa,30 days,passport_index_2025-01-12
+ZA,LK,C,B,ETA / Visa on arrival,30 days,passport_index_2025-01-12
+ZA,UA,E,D,eVisa,30 days,passport_index_2025-01-12
+ZA,AE,D,E,Visa required,,passport_index_2025-01-12
+ZA,XK,E,A,Visa not required,90 days,passport_index_2025-01-12
+AR,AF,E,D,eVisa,30 days,passport_index_2025-01-12
+AR,BF,C,D,eVisa,,passport_index_2025-01-12
+AR,TD,E,D,eVisa,,passport_index_2025-01-12
+AR,CI,B,D,eVisa,3 months,passport_index_2025-01-12
+AR,DJ,C,D,eVisa,90 days,passport_index_2025-01-12
+AR,GH,C,E,Visa required,,passport_index_2025-01-12
+AR,IR,C,D,eVisa,30 days,passport_index_2025-01-12
+AR,KE,B,A,{{sort|Visa not required|Electronic Travel Authorisation,90 days,passport_index_2025-01-12
+AR,KP,F,E,Visa required,,override:row16
+AR,KR,B,A,{{sort|Visa not required|Electronic Travel Authorization,90 days,passport_index_2025-01-12
+AR,LS,D,E,Visa required,,passport_index_2025-01-12
+AR,LR,E,C,e-VOA,3 months,passport_index_2025-01-12
+AR,MR,C,D,eVisa,30 days,passport_index_2025-01-12
+AR,NZ,B,A,{{sort|Visa not required|NZeTA,3 months,passport_index_2025-01-12
+AR,OM,C,A,Visa not required / eVisa,14 days / 30 days,passport_index_2025-01-12
+AR,PK,B,D,eVisa,3 months,passport_index_2025-01-12
+AR,PG,B,D,eVisa,60 days,passport_index_2025-01-12
+AR,QA,C,A,Visa not required,90 days,passport_index_2025-01-12
+AR,LK,C,B,{{sort|eVisa / Visa on arrival|ETA / Visa on arrival,30 days,passport_index_2025-01-12
+AR,GB,B,A,{{sort|Visa not required|ETA UK,6 months,passport_index_2025-01-12
+AR,ZM,C,A,Visa not required,30 days,passport_index_2025-01-12

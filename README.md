@@ -16,16 +16,16 @@ The home country counts at full weight. `pct_of_max` is the score as a share of 
 
 | Rank | Passport | % of max |
 |---|---|---|
-| 1 | Sweden | 91.2 |
-| 2 | Spain | 91.1 |
-| 3 | Denmark | 91.1 |
-| 17 | South Korea | 90.3 |
-| 19 | Singapore | 90.1 |
-| 20 | Japan | 90.1 |
-| 35 | United Kingdom | 88.9 |
-| 42 | United States | 87.3 |
-| 109 | China | 51.9 |
-| 199 | Afghanistan | 29.4 |
+| 1 | Spain | 91.5 |
+| 2 | Denmark | 91.3 |
+| 2 | Sweden | 91.3 |
+| 17 | South Korea | 90.7 |
+| 22 | Japan | 90.4 |
+| 25 | Singapore | 90.0 |
+| 32 | United Kingdom | 89.5 |
+| 41 | United States | 88.1 |
+| 110 | China | 51.5 |
+| 199 | Afghanistan | 29.3 |
 
 Full table: [`data/processed/passport_ranking.csv`](data/processed/passport_ranking.csv).
 
