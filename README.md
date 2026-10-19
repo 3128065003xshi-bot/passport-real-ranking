@@ -34,6 +34,23 @@ data/processed/visa_matrix_wide.csv     生成结果（宽表，199×199，方�
 
 修改规则或政策后重新生成：`python3 scripts/build_visa_matrix.py`。生成结果不要手改，改 `visa_overrides.csv`。
 
+## 目的地价值表
+
+`data/processed/country_indicators.csv`（由 `python3 scripts/build_country_indicators.py` 生成），每个国家/地区一行：
+
+| 字段 | 含义 | 来源 |
+|---|---|---|
+| gdp_usd_bn / gdp_per_capita_usd | 总 GDP（十亿美元）/ 人均 GDP | 世界银行，最新年份 |
+| cities_1m_plus / 5m / 10m | 100 万 / 500 万 / 1000 万人口以上城市（都市区）数量 | 联合国《世界城镇化展望 2018》，2020 年值 |
+| tourist_arrivals_m | 年入境游客（百万人次） | 世界银行 ST.INT.ARVL，取 2019 年（疫情前） |
+| price_level_us100 | 物价水平，美国 = 100 | 世界银行：居民消费 PPP 换算系数 ÷ 市场汇率 |
+| crime_index | 犯罪指数 0–100，越高越不安全 | 由联合国毒罪办凶杀率换算：100·ln(1+率)/ln(41)，封顶 100 |
+| nature_score / culture_score | 自然风光 / 人文景点推荐指数 0–100 | 人工打分（`data/raw/manual_scores.csv`），参考世界遗产数 |
+| whs_cultural / natural / mixed | 世界遗产数量 | UNESCO 2024 名录 |
+| estimated | 该行哪些字段是人工估算 | `data/raw/manual_estimates.csv` |
+
+各指标权重草案在 `data/raw/indicator_weights.csv`。
+
 ## 目录
 
 ```
