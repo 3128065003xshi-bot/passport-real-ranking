@@ -1,7 +1,7 @@
 """Build data/processed/country_indicators.csv from the source snapshots in data/raw/sources/
 plus hand-entered values in data/raw/manual_estimates.csv and data/raw/manual_scores.csv.
 
-Manual estimates only fill gaps; they never override a source value.
+Manual estimates fill gaps; a row with override = 1 also replaces a distorted source value.
 """
 import csv
 import math
@@ -65,7 +65,8 @@ for c in countries:
     iso2, est = c["iso2"], []
     vals = {}
     for field, ind in FIELDS.items():
-        if (iso2, ind) in wb:
+        forced = manual.get((iso2, field), {}).get("override") == "1"
+        if (iso2, ind) in wb and not forced:
             vals[field] = wb[iso2, ind]
         elif (iso2, field) in manual:
             m = manual[iso2, field]
@@ -73,7 +74,8 @@ for c in countries:
             est.append(field)
         else:
             vals[field] = (None, None)
-    if iso2 in price:
+    forced = manual.get((iso2, "price_level_us100"), {}).get("override") == "1"
+    if iso2 in price and not forced:
         vals["price_level_us100"] = price[iso2]
     elif (iso2, "price_level_us100") in manual:
         m = manual[iso2, "price_level_us100"]
