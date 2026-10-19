@@ -1,6 +1,6 @@
 field,weight,direction,transform,note
 gdp_usd_bn,35,higher,log,总 GDP
-tourist_arrivals_m,15,higher,log,每年入境游客（2019 年，疫情前）
+tourist_arrivals_m,15,higher,log,每年入境过夜游客（联合国旅游组织）
 crime_index,5,lower,linear,犯罪指数，越低越好
 nature_score,10,higher,linear,自然风光推荐指数
 culture_score,10,higher,linear,人文景点推荐指数

@@ -49,6 +49,22 @@ whs = defaultdict(Counter)
 for r in read(SRC / "unesco_whs_2024.csv"):
     whs[r["iso2"]][r["category"]] += 1
 
+# UN Tourism overnight arrivals (via Our World in Data). Prefer 2023+, then pre-COVID 2017-2019,
+# then 2022 (still COVID-depressed); anything else falls back to World Bank 2019 / manual.
+untourism = defaultdict(dict)
+for r in read(SRC / "untourism_overnight_arrivals_1995-2024.csv"):
+    untourism[r["iso2"]][int(r["year"])] = float(r["overnight_arrivals"])
+
+
+def pick_arrivals(iso2):
+    years = untourism.get(iso2, {})
+    for pool in ([y for y in years if y >= 2023], [y for y in years if 2017 <= y <= 2019],
+                 [y for y in years if y == 2022]):
+        if pool:
+            return max(pool), years[max(pool)]
+    return None
+
+
 manual = {(r["iso2"], r["field"]): r for r in read(RAW / "manual_estimates.csv")}
 scores = {r["iso2"]: r for r in read(RAW / "manual_scores.csv")}
 
@@ -75,6 +91,15 @@ for c in countries:
         else:
             vals[field] = (None, None)
     forced = manual.get((iso2, "price_level_us100"), {}).get("override") == "1"
+    arrivals_source = "UN Tourism"
+    if pick_arrivals(iso2):
+        vals["tourist_arrivals"] = pick_arrivals(iso2)
+        est = [f for f in est if f != "tourist_arrivals"]
+    elif "tourist_arrivals" not in est and vals["tourist_arrivals"][1] is not None:
+        arrivals_source = "World Bank"
+    else:
+        arrivals_source = "estimate"
+
     if iso2 in price and not forced:
         vals["price_level_us100"] = price[iso2]
     elif (iso2, "price_level_us100") in manual:
@@ -100,6 +125,7 @@ for c in countries:
         "cities_10m_plus": sum(p >= 10000 for p in pops),
         "tourist_arrivals_m": fmt(scaled("tourist_arrivals", 1e6), 3),
         "arrivals_year": vals["tourist_arrivals"][0] or "",
+        "arrivals_source": arrivals_source,
         "price_level_us100": fmt(vals["price_level_us100"][1], 0),
         "price_year": vals["price_level_us100"][0] or "",
         "homicide_per_100k": fmt(h, 2),
