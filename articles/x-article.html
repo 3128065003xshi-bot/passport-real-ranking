@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Passport Real Ranking — X Article</title>
+<style>
+  body { max-width: 680px; margin: 40px auto; padding: 0 16px; font: 17px/1.55 -apple-system, Helvetica, Arial, sans-serif; color: #111; background: #fff; }
+  .howto { background: #fff7d6; border: 1px solid #e8d48a; padding: 12px 16px; font-size: 14px; }
+  .img { background: #e8f0ff; border: 1px dashed #2f6fe4; padding: 10px 14px; font-weight: bold; color: #2f6fe4; }
+</style>
+</head>
+<body>
+
+<div class="howto">
+<b>How to use (this box is not part of the article):</b>
+1. In X, start a new Article. Paste the title below into the title field and upload <b>assets/header.png</b> as the header image.
+2. Select from "Popular passport rankings…" down to the end, copy, and paste into the body.
+3. Replace each blue box with the image it names, from <b>assets/x/</b> (click the box's line in X, delete it, insert the image).
+</div>
+
+<h1>What Is Your Passport Really Worth?</h1>
+
+<p><b>Once each destination is weighted by its travel value, Sweden's passport ranks first at 91.2% of the maximum, and the top 16 are all European. The US passport ranks 43rd; China's ranks 116th.</b></p>
+
+<p>Popular passport rankings, such as the Henley Passport Index and Passport Index, count one thing: how many destinations you can enter visa-free or with a visa on arrival. Visa-free France scores 1 point. Visa-free Tuvalu also scores 1 point.</p>
+
+<p>For anyone who actually travels, those two points are not worth the same. Passport Real Ranking asks a different question: <b>how much are the places your passport lets you reach easily actually worth?</b></p>
+
+<p>The data, scripts and full tables are open on GitHub: <a href="https://github.com/3128065003xshi-bot/passport-real-ranking">github.com/3128065003xshi-bot/passport-real-ranking</a></p>
+
+<h2>The idea</h2>
+
+<p>A passport's value = where it lets you go × whether those places are worth going to. The model has three parts:</p>
+
+<ol>
+<li><b>Visa matrix.</b> 199 passports × 199 destinations, 39,601 pairs. Each pair gets an entry code from S to F, and each code a 0–100 ease-of-entry weight.</li>
+<li><b>Destination tourism score.</b> Every country and territory gets a 0–100 score from 10 indicators, including GDP, inbound tourists, safety, prices, nature, culture and large cities.</li>
+<li><b>Passport score.</b> For each destination, multiply the passport's ease of entry by the destination's tourism score, then add it all up.</li>
+</ol>
+
+<p>So visa-free access to France (tourism score 72.3) is worth about six times visa-free access to Tuvalu (12.1).</p>
+
+<h2>Model 1: entry codes</h2>
+
+<p>Entry types fall into 7 tiers. The key judgement behind the weights: <b>having to apply at an embassy is the real barrier to travel.</b> So S to D span only 22 points, while D to E drops 70.</p>
+
+<p class="img">[ INSERT IMAGE: assets/x/02-entry-codes.png ]</p>
+
+<p>The base data is the Passport Index open dataset (January 2025). On top of it sit the major policy changes of 2025–2026:</p>
+
+<ul>
+<li>The UK fully enforced its ETA from February 2026</li>
+<li>China's unilateral visa-free list grew to 50 countries</li>
+<li>The US travel ban under Proclamation 10998</li>
+<li>Thailand cut its visa-free list from 93 to 60 countries in September 2026</li>
+<li>Several new mutual visa-exemption agreements</li>
+</ul>
+
+<h2>Model 2: destination tourism score</h2>
+
+<p>Each destination's tourism score is a weighted sum of 10 indicators, out of 100. GDP per capita carries the most weight (22.5): it stands in for infrastructure, services and the overall travel experience.</p>
+
+<p class="img">[ INSERT IMAGE: assets/x/03-indicators.png ]</p>
+
+<p>Each indicator is transformed, then scaled to 0–100 across all 199 countries and territories: the lowest scores 0, the highest 100. Indicators where lower is better are flipped. The transform takes one of three forms:</p>
+
+<ul>
+<li><b>Log</b>, ln(1 + x): compresses giant economies like the US and China so they don't flatten everyone else.</li>
+<li><b>Square root</b>: between log and linear. GDP per capita uses it, capped at $100k. Without the cap, Monaco's $288k would stretch the scale and push almost every country into the bottom third.</li>
+<li><b>Linear</b>: the raw value, for indicators that are already 0–100 indices.</li>
+</ul>
+
+<p>Tourism score = the sum over all 10 indicators of (weight ÷ 100 × the indicator's 0–100 score).</p>
+
+<h2>Model 3: passport score</h2>
+
+<p>Passport score = the sum over all 199 destinations of (entry weight ÷ 100 × destination tourism score). The home country counts at full weight.</p>
+
+<p>"% of max" compares a passport with an imaginary one that scores 100 everywhere. The home country is included, so a high-scoring home country is itself an advantage.</p>
+
+<h2>Results</h2>
+
+<p>Sweden's passport reaches 91.2% of the maximum and ranks first; Syria's reaches 31.2% and ranks last. The top 16 are all European, while the US and China, the world's top two destinations, hold only the 43rd and 116th passports.</p>
+
+<p class="img">[ INSERT IMAGE: assets/x/01-ranking-chart.png ]</p>
+
+<p>Breaking down four passports shows where the gaps come from: how many destinations need a visa, and how valuable those destinations are.</p>
+
+<p class="img">[ INSERT IMAGE: assets/x/04-four-passports.png ]</p>
+
+<h2>Findings</h2>
+
+<ul>
+<li><b>Europe leads, but not because of EU free movement.</b> Free movement is only 2 points above visa-free. The real edge is that European passports need no visa for the highest-scoring destinations: the US, China, Japan and the UK. China has offered most European countries unilateral visa-free entry since 2024–2026.</li>
+<li><b>The US passport ranks 43rd because of China and Russia.</b> Americans need visas for both, and they rank 2nd and in the top 15 as destinations. A visa for one or two high-value destinations costs more than dozens of small visa-free countries add.</li>
+<li><b>A great destination is not a great passport.</b> As destinations, the US is 1st and China 2nd; as passports, they rank 43rd and 116th.</li>
+<li><b>Asia's strongest passports sit right behind Europe.</b> South Korea is 17th, Singapore 19th, Japan 20th and the UAE 23rd, each within 1.3 points of first place.</li>
+<li><b>The spread is far wider than in count-based rankings.</b> The strongest passport reaches 91% of the maximum and the weakest 31%, and almost all of the gap sits on one line: whether you need a visa for the US, Europe, Japan and China.</li>
+</ul>
+
+<h2>Limitations</h2>
+
+<p>This is a model with adjustable weights, not an absolute truth.</p>
+
+<ul>
+<li><b>Nature and culture scores are subjective.</b> UNESCO site counts are only a reference.</li>
+<li><b>The crime index uses homicide rates only.</b> It misses theft and scams, which tourists meet more often.</li>
+<li><b>Tourist-arrival years differ.</b> The US, Japan and Spain use 2024; China, France and Thailand only have 2019. China's UN figure includes visitors from Hong Kong, Macao and Taiwan.</li>
+<li><b>The visa base is from January 2025.</b> Only major 2025–2026 changes are layered on; smaller bilateral changes may be missing.</li>
+<li><b>Length of stay is not scored.</b> 14 days visa-free counts the same as 90.</li>
+</ul>
+
+<h2>Data and code</h2>
+
+<p>Everything is open under the MIT License, and every weight can be changed: <a href="https://github.com/3128065003xshi-bot/passport-real-ranking">github.com/3128065003xshi-bot/passport-real-ranking</a></p>
+
+<p>Sources: Passport Index open dataset (MIT), World Bank Open Data, UN Tourism (via Our World in Data), UN World Urbanization Prospects 2018, UNESCO World Heritage List 2024, plus official and legal sources for each 2025–2026 visa policy change (listed in the repository).</p>
+
+</body>
+</html>
