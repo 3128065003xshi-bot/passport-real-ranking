@@ -137,7 +137,7 @@ for i, r in enumerate(ranking):
         else:
             few_closed = top(p, VISA, 2)
             z1, e1 = listing(few_closed)
-            z1, e1 = f"仅{z1}等少数国家需签证", f"Visa needed only for {e1} and a few others"
+            z1, e1 = f"仅{z1}等少数国家需签证", f"Visa only for {e1} & a few more"
         z2, e2 = comparison(i)
         if not z2:  # identical visa needs to both neighbours: say so
             q = ranking[i - 1] if i else ranking[i + 1]

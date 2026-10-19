@@ -6,7 +6,7 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #10 of 199** · score 6904.39 · **91.6% of the maximum** · no visa needed for **159 of 198** destinations.
 
-> Visa needed only for Algeria, Yemen and a few others — Beats #11 Belgium: only an e-visa for Liberia
+> Visa only for Algeria, Yemen & a few more — Beats #11 Belgium: only an e-visa for Liberia
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

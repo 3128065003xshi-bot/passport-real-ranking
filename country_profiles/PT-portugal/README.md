@@ -6,7 +6,7 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #20 of 199** · score 6894.81 · **91.5% of the maximum** · no visa needed for **157 of 198** destinations.
 
-> Visa needed only for Algeria, Yemen and a few others — #19 Greece: visa on arrival in Syria
+> Visa only for Algeria, Yemen & a few more — #19 Greece: visa on arrival in Syria
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|

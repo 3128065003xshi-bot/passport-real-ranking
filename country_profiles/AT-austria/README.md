@@ -6,7 +6,7 @@ Passport and destination profile from [Passport Real Ranking](https://github.com
 
 **Rank #16 of 199** · score 6898.32 · **91.5% of the maximum** · no visa needed for **158 of 198** destinations.
 
-> Visa needed only for Algeria, Yemen and a few others — Beats #15 Germany: only an e-visa for Liberia
+> Visa only for Algeria, Yemen & a few more — Beats #15 Germany: only an e-visa for Liberia
 
 | Entry type | Destinations | Share of passport score |
 |---|---|---|
