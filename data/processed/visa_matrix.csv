@@ -38442,7 +38442,7 @@ WS,CH,A,98,90,passport_index_2025-01-12,
 WS,CI,D,78,,override:row446,"Côte d'Ivoire e-visa (online pre-enrolment) for all nationalities; confirmed for all 18 G20 passports checked, applied to every passport that had B"
 WS,CL,E,8,,passport_index_2025-01-12,
 WS,CM,D,78,,passport_index_2025-01-12,
-WS,CN,E,8,,passport_index_2025-01-12,
+WS,CN,A,98,30,override:row460,"China–Samoa mutual visa exemption for ordinary passports, 30 days"
 WS,CO,A,98,90,passport_index_2025-01-12,
 WS,CR,A,98,30,passport_index_2025-01-12,
 WS,CU,D,78,,passport_index_2025-01-12,
