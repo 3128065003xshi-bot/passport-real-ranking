@@ -1,9 +1,11 @@
-"""Render the countdown video: 199 passports scroll past from last place to first.
+"""Render the countdown video: the passports scroll past from last place to first.
 
-    python scripts/make_video.py                 # -> video/passport-real-ranking-2026.mp4 (1920x1080, 30 fps)
+    python scripts/make_video.py                 # -> video/passport-real-ranking-2026.mp4 (1920x1080, 60 fps)
     python scripts/make_video.py --stills 0 60 250 268   # write PNG frames at those seconds instead
 
 Needs Pillow, imageio-ffmpeg (bundles ffmpeg) and macOS's Helvetica Neue + Hiragino Sans GB.
+Passports listed in SKIP are left out of the video (ranks are kept as in the data, so their slot is a gap).
+Short notes under major passports come from data/raw/video_notes.csv.
 Flags come from assets/flags/ (flagcdn.com, w320). Passport covers are stylised, not real cover art:
 each cover takes the flag's dominant colour, darkened.
 """
@@ -17,8 +19,10 @@ from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
 ROOT = Path(__file__).resolve().parent.parent
 PROC, FLAGS, OUT = ROOT / "data/processed", ROOT / "assets/flags", ROOT / "video"
+NOTES = ROOT / "data/raw/video_notes.csv"
+SKIP = {"TW"}
 
-W, H, FPS = 1920, 1080, 30
+W, H, FPS = 1920, 1080, 60
 INTRO, SCROLL, HOLD = 7.0, 240.0, 8.0  # seconds
 DECEL = 6.0  # the scroll slows to a stop over its last DECEL seconds
 CARD_W, GAP, CARD_Y, CARD_H = 344, 24, 168, 800
@@ -73,7 +77,7 @@ def cover_colour(flag):
     return 30, 40, 70
 
 
-def make_card(r, codes):
+def make_card(r, codes, note):
     card = Image.new("RGBA", (CARD_W, CARD_H), (0, 0, 0, 0))
     d = ImageDraw.Draw(card)
     rank = int(r["rank"])
@@ -86,29 +90,29 @@ def make_card(r, codes):
 
     # Stylised passport cover.
     flag = Image.open(FLAGS / f"{r['iso2'].lower()}.png").convert("RGBA")
-    bw, bh, bx, by = 220, 300, (CARD_W - 220) // 2, 112
+    bw, bh, bx, by = 200, 260, (CARD_W - 200) // 2, 108
     shadow = Image.new("RGBA", (CARD_W, CARD_H), (0, 0, 0, 0))
     ImageDraw.Draw(shadow).rounded_rectangle((bx + 8, by + 10, bx + bw + 8, by + bh + 10), radius=14, fill=(0, 0, 0, 120))
     card.alpha_composite(shadow.filter(ImageFilter.GaussianBlur(8)))
     d.rounded_rectangle((bx, by, bx + bw, by + bh), radius=14, fill=cover_colour(flag))
     d.line((bx + 18, by + 6, bx + 18, by + bh - 6), fill=(0, 0, 0), width=2)  # spine
-    centred(d, bx + bw / 2 + 8, by + 26, "PASSPORT", latin(24, BOLD), GOLD)
-    fw = 128
+    centred(d, bx + bw / 2 + 8, by + 22, "PASSPORT", latin(22, BOLD), GOLD)
+    fw = 116
     emblem = flag.resize((fw, round(flag.height * fw / flag.width)), Image.LANCZOS)
     ex, ey = int(bx + bw / 2 + 8 - fw / 2), int(by + bh / 2 - emblem.height / 2)
     d.rectangle((ex - 3, ey - 3, ex + fw + 2, ey + emblem.height + 2), fill=GOLD)
     card.alpha_composite(emblem, (ex, ey))
     name_up = r["name_en"].upper()
-    centred(d, bx + bw / 2 + 8, by + bh - 52, name_up, fit(d, name_up, lambda s: latin(s, MEDIUM), bw - 40, 18), GOLD)
+    centred(d, bx + bw / 2 + 8, by + bh - 46, name_up, fit(d, name_up, lambda s: latin(s, MEDIUM), bw - 40, 18), GOLD)
 
     # Names, score.
-    centred(d, cx, 440, r["name_zh"], fit(d, r["name_zh"], lambda s: cjk(s, True), CARD_W - 30, 44), INK)
-    centred(d, cx, 498, r["name_en"], fit(d, r["name_en"], latin, CARD_W - 30, 28), QUIET)
-    centred(d, cx, 552, f"{one_dp(r['pct_of_max'])}%", latin(66, BOLD), medal or INK)
-    centred(d, cx, 628, "of max score · 满分占比", cjk(20), QUIET)
+    centred(d, cx, 390, r["name_zh"], fit(d, r["name_zh"], lambda s: cjk(s, True), CARD_W - 30, 44), INK)
+    centred(d, cx, 446, r["name_en"], fit(d, r["name_en"], latin, CARD_W - 30, 28), QUIET)
+    centred(d, cx, 488, f"{one_dp(r['pct_of_max'])}%", latin(66, BOLD), medal or INK)
+    centred(d, cx, 562, "of max score · 满分占比", cjk(20), QUIET)
 
     # Entry-type mix across 199 destinations.
-    x0, bar_w, y = 22, CARD_W - 44, 680
+    x0, bar_w, y = 22, CARD_W - 44, 604
     total = sum(codes.values())
     x = x0
     for code, colour in CODE_COLOURS.items():
@@ -117,7 +121,12 @@ def make_card(r, codes):
             d.rectangle((x, y, x + w, y + 26), fill=colour)
         x += w
     no_visa = sum(codes.get(c, 0) for c in "SABC")
-    centred(d, cx, y + 44, f"No visa · 无需签证  {no_visa} / 199", cjk(20), QUIET)
+    centred(d, cx, y + 40, f"No visa · 无需签证  {no_visa} / 199", cjk(20), QUIET)
+
+    if note:
+        d.line((40, 700, CARD_W - 40, 700), fill=(52, 68, 92), width=2)
+        centred(d, cx, 718, note["note_zh"], fit(d, note["note_zh"], cjk, CARD_W - 36, 24), GOLD)
+        centred(d, cx, 756, note["note_en"], fit(d, note["note_en"], latin, CARD_W - 36, 21), INK)
     return card
 
 
@@ -127,7 +136,7 @@ def make_frame_base():
     d.text((48, 34), "PASSPORT REAL RANKING 2026", font=latin(46, BOLD), fill=INK)
     d.text((48 + d.textlength("PASSPORT REAL RANKING 2026", font=latin(46, BOLD)) + 28, 38),
            "护照真实含金量排行榜", font=cjk(40, True), fill=GOLD)
-    d.text((50, 100), "199 passports, weighted by how much each destination is worth · 按目的地价值加权的护照排名",
+    d.text((50, 100), "Passports weighted by how much each destination is worth · 按目的地价值加权的护照排名",
            font=cjk(24), fill=QUIET)
     # Legend.
     x, y = 48, 1010
@@ -147,7 +156,7 @@ def make_intro():
     centred(d, W / 2, 520, "Not how many countries you can enter, but how much they are worth.", latin(40), INK)
     centred(d, W / 2, 580, "不只看能去多少国家，更看那些地方值多少。", cjk(38), INK)
     centred(d, W / 2, 690, "Passport score = Σ  ease of entry × destination tourism score", latin(34), QUIET)
-    centred(d, W / 2, 740, "护照得分 = Σ 入境便利度 × 目的地旅游分数   ·   199 passports × 199 destinations", cjk(30), QUIET)
+    centred(d, W / 2, 740, "护照得分 = Σ 入境便利度 × 目的地旅游分数   ·   199 destinations 个目的地", cjk(30), QUIET)
     centred(d, W / 2, 900, GITHUB, latin(28), QUIET)
     return img
 
@@ -168,13 +177,15 @@ def main():
     args = ap.parse_args()
 
     with open(PROC / "passport_ranking.csv", encoding="utf-8-sig") as f:
-        ranking = sorted(csv.DictReader(f), key=lambda r: -int(r["rank"]))  # #199 first
+        ranking = sorted((r for r in csv.DictReader(f) if r["iso2"] not in SKIP), key=lambda r: -int(r["rank"]))
+    with open(NOTES, encoding="utf-8-sig") as f:
+        notes = {r["iso2"]: r for r in csv.DictReader(f)}
     with open(PROC / "visa_matrix.csv", encoding="utf-8") as f:
         mix = {}
         for r in csv.DictReader(f):
             mix.setdefault(r["passport"], Counter())[r["code"]] += 1
 
-    cards = [make_card(r, mix[r["iso2"]]) for r in ranking]
+    cards = [make_card(r, mix[r["iso2"]], notes.get(r["iso2"])) for r in ranking]
     base, intro = make_frame_base(), make_intro()
 
     # Card i sits at x = W + i * STRIDE - offset; the scroll ends with #1 (the last card) centred.
