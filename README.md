@@ -1,5 +1,7 @@
 # Passport Real Ranking
 
+![Passport Real Ranking](assets/header.png)
+
 A passport ranking that weighs **where** a passport takes you, not just how many places.
 
 Mainstream rankings (Henley Passport Index, Passport Index) count visa-free destinations: visa-free France and visa-free Tuvalu are each worth 1 point. This project scores every destination on its travel value and weights each passport's access by that value.
@@ -73,6 +75,8 @@ python3 scripts/build_country_indicators.py # -> data/processed/country_indicato
 python3 scripts/build_tourism_score.py      # -> data/processed/tourism_scores.csv
 python3 scripts/build_passport_ranking.py   # -> data/processed/passport_ranking.csv
 ```
+
+`scripts/make_header.py` redraws `assets/header.png` (3000×1200) from the ranking; it needs Pillow and macOS's Helvetica Neue.
 
 Python 3 standard library only. Don't edit `data/processed/` by hand; change the inputs in `data/raw/` and rebuild.
 
