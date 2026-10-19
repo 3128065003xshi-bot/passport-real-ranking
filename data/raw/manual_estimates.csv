@@ -1,61 +1,61 @@
 iso2,field,value,year,note,override
-TW,gdp_usd,880000000000,2025,估算：台湾主计总处，世界银行不收录,0
-TW,gdp_per_capita_usd,37600,2025,估算,0
-TW,population,23300000,2025,估算,0
-KP,gdp_usd,30000000000,2024,估算：韩国央行推算,0
-KP,gdp_per_capita_usd,1150,2024,估算,0
-VA,population,800,2025,估算；梵蒂冈无 GDP 统计,0
-TW,tourist_arrivals,11860000,2019,台湾观光署 2019,0
-KP,tourist_arrivals,300000,2019,估算，主要为中国游客,0
-XK,tourist_arrivals,300000,2019,估算,0
-AF,tourist_arrivals,20000,2019,估算,0
-GA,tourist_arrivals,300000,2019,估算,0
-GQ,tourist_arrivals,50000,2019,估算,0
-LR,tourist_arrivals,50000,2019,估算,0
-LY,tourist_arrivals,100000,2019,估算,0
-MR,tourist_arrivals,50000,2019,估算,0
-NR,tourist_arrivals,1000,2019,估算,0
-SO,tourist_arrivals,50000,2019,估算,0
-SS,tourist_arrivals,20000,2019,估算,0
-TM,tourist_arrivals,10000,2019,估算，国家基本封闭,0
-VA,tourist_arrivals,0,2019,游客经意大利入境，不单独统计（梵蒂冈博物馆约 700 万人次/年）,0
-TW,homicide_per_100k,0.8,2023,估算,0
-KP,homicide_per_100k,4,2023,估算,0
-VA,homicide_per_100k,0,2023,估算,0
-MC,homicide_per_100k,0.5,2023,估算,0
-SM,homicide_per_100k,0.5,2023,估算,0
-LS,homicide_per_100k,40,2023,估算（历来全球最高之列）,0
-CD,homicide_per_100k,13,2023,估算,0
-CG,homicide_per_100k,10,2023,估算,0
-CI,homicide_per_100k,9,2023,估算,0
-DJ,homicide_per_100k,6,2023,估算,0
-GA,homicide_per_100k,8,2023,估算,0
-GM,homicide_per_100k,9,2023,估算,0
-GN,homicide_per_100k,8,2023,估算,0
-GQ,homicide_per_100k,8,2023,估算,0
-KM,homicide_per_100k,7,2023,估算,0
-LA,homicide_per_100k,6,2023,估算,0
-LY,homicide_per_100k,4,2023,估算,0
-MG,homicide_per_100k,7,2023,估算,0
-MH,homicide_per_100k,4,2023,估算,0
-ML,homicide_per_100k,10,2023,估算,0
-NR,homicide_per_100k,1,2023,估算,0
-SB,homicide_per_100k,4,2023,估算,0
-SD,homicide_per_100k,8,2023,估算,0
-SO,homicide_per_100k,6,2023,估算,0
-TD,homicide_per_100k,9,2023,估算,0
-TG,homicide_per_100k,9,2023,估算,0
-TW,price_level_us100,45,2024,估算,0
-KP,price_level_us100,30,2024,估算,0
-CU,price_level_us100,40,2024,估算；官方汇率失真,0
-VE,price_level_us100,50,2024,估算；汇率波动大,0
-YE,price_level_us100,40,2024,估算,0
-LI,price_level_us100,120,2024,估算，参照瑞士,0
-MC,price_level_us100,110,2024,估算，参照法国上浮,0
-VA,price_level_us100,80,2024,估算，参照意大利,0
-TM,price_level_us100,50,2024,估算；官方汇率远高于市场汇率,0
-PS,price_level_us100,75,2024,估算，参照以色列下浮,0
-IR,price_level_us100,35,2024,替换源数据 211：按官方汇率计算严重失真，按市场汇率约 35,1
-LR,price_level_us100,45,2024,替换源数据 0：PPP 与汇率货币口径不一致,1
-ZW,price_level_us100,55,2024,替换源数据 0：货币多次更换，口径不一致,1
-BG,price_level_us100,47,2025,替换源数据 24：2026 年入欧元区后汇率口径改为欧元（差 1.956 倍）,1
+TW,gdp_usd,880000000000,2025,Estimate: Taiwan DGBAS; not covered by the World Bank,0
+TW,gdp_per_capita_usd,37600,2025,Estimate,0
+TW,population,23300000,2025,Estimate,0
+KP,gdp_usd,30000000000,2024,Estimate: Bank of Korea,0
+KP,gdp_per_capita_usd,1150,2024,Estimate,0
+VA,population,800,2025,Estimate; Vatican publishes no GDP,0
+TW,tourist_arrivals,11860000,2019,"Taiwan Tourism Administration, 2019",0
+KP,tourist_arrivals,300000,2019,Estimate; mostly Chinese visitors,0
+XK,tourist_arrivals,300000,2019,Estimate,0
+AF,tourist_arrivals,20000,2019,Estimate,0
+GA,tourist_arrivals,300000,2019,Estimate,0
+GQ,tourist_arrivals,50000,2019,Estimate,0
+LR,tourist_arrivals,50000,2019,Estimate,0
+LY,tourist_arrivals,100000,2019,Estimate,0
+MR,tourist_arrivals,50000,2019,Estimate,0
+NR,tourist_arrivals,1000,2019,Estimate,0
+SO,tourist_arrivals,50000,2019,Estimate,0
+SS,tourist_arrivals,20000,2019,Estimate,0
+TM,tourist_arrivals,10000,2019,Estimate; country largely closed,0
+VA,tourist_arrivals,0,2019,Visitors enter via Italy and are not counted separately (Vatican Museums: about 7M visits a year),0
+TW,homicide_per_100k,0.8,2023,Estimate,0
+KP,homicide_per_100k,4,2023,Estimate,0
+VA,homicide_per_100k,0,2023,Estimate,0
+MC,homicide_per_100k,0.5,2023,Estimate,0
+SM,homicide_per_100k,0.5,2023,Estimate,0
+LS,homicide_per_100k,40,2023,Estimate (historically among the highest in the world),0
+CD,homicide_per_100k,13,2023,Estimate,0
+CG,homicide_per_100k,10,2023,Estimate,0
+CI,homicide_per_100k,9,2023,Estimate,0
+DJ,homicide_per_100k,6,2023,Estimate,0
+GA,homicide_per_100k,8,2023,Estimate,0
+GM,homicide_per_100k,9,2023,Estimate,0
+GN,homicide_per_100k,8,2023,Estimate,0
+GQ,homicide_per_100k,8,2023,Estimate,0
+KM,homicide_per_100k,7,2023,Estimate,0
+LA,homicide_per_100k,6,2023,Estimate,0
+LY,homicide_per_100k,4,2023,Estimate,0
+MG,homicide_per_100k,7,2023,Estimate,0
+MH,homicide_per_100k,4,2023,Estimate,0
+ML,homicide_per_100k,10,2023,Estimate,0
+NR,homicide_per_100k,1,2023,Estimate,0
+SB,homicide_per_100k,4,2023,Estimate,0
+SD,homicide_per_100k,8,2023,Estimate,0
+SO,homicide_per_100k,6,2023,Estimate,0
+TD,homicide_per_100k,9,2023,Estimate,0
+TG,homicide_per_100k,9,2023,Estimate,0
+TW,price_level_us100,45,2024,Estimate,0
+KP,price_level_us100,30,2024,Estimate,0
+CU,price_level_us100,40,2024,Estimate; official exchange rate distorted,0
+VE,price_level_us100,50,2024,Estimate; volatile exchange rate,0
+YE,price_level_us100,40,2024,Estimate,0
+LI,price_level_us100,120,2024,Estimate; based on Switzerland,0
+MC,price_level_us100,110,2024,Estimate; above France,0
+VA,price_level_us100,80,2024,Estimate; based on Italy,0
+TM,price_level_us100,50,2024,Estimate; official rate far above the market rate,0
+PS,price_level_us100,75,2024,Estimate; below Israel,0
+IR,price_level_us100,35,2024,Replaces source value 211: official exchange rate badly distorted; about 35 at the market rate,1
+LR,price_level_us100,45,2024,Replaces source value 0: PPP and exchange rate in different currencies,1
+ZW,price_level_us100,55,2024,"Replaces source value 0: repeated currency changes, inconsistent units",1
+BG,price_level_us100,47,2025,Replaces source value 24: exchange rate switched to euros after joining the euro area in 2026 (off by 1.956x),1
