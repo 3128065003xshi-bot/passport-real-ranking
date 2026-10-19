@@ -15,7 +15,7 @@ REGULAR, BOLD, LIGHT, MEDIUM = 0, 1, 7, 10
 
 W, H = 3000, 1200
 BG, INK, QUIET, BAR, ACCENT = "#0E1A2B", "#FFFFFF", "#8FA3BF", "#3A4B63", "#4C8DFF"
-SHOWN = [("SE", "Sweden"), ("JP", "Japan"), ("US", "United States"), ("CN", "China"), ("SY", "Syria")]
+SHOWN = [("SE", "Sweden"), ("JP", "Japan"), ("US", "United States"), ("CN", "China"), ("AF", "Afghanistan")]
 
 
 def font(size, face=REGULAR):

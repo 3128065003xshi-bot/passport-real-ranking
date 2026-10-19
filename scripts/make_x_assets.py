@@ -66,14 +66,14 @@ def table(name, title, subtitle, header, rows, widths, bold_first_col=True):
 
 def ranking_chart(ranking):
     shown = ["SE", "ES", "DE", "CH", "KR", "SG", "JP", "AE", "AU", "GB", "CA", "US",
-             "HK", "BR", "MX", "MO", "TW", "RU", "CN", "IN", "SY"]
+             "HK", "BR", "MX", "MO", "TW", "RU", "CN", "IN", "AF"]
     labels = {"AE": "UAE", "HK": "Hong Kong", "MO": "Macao"}
     focus = {"US", "CN"}
     step, bar_h, label_x, bar_x, bar_w = 62, 36, PAD, PAD + 420, 1300
     h = 230 + step * len(shown) + 50
     img = Image.new("RGB", (W, h), BG)
     d = ImageDraw.Draw(img)
-    y = title_block(d, "The top 16 passports are all European; the US is 43rd, China 116th",
+    y = title_block(d, "The top 16 passports are all European; the US is 42nd, China 116th",
                     "Passport score as % of the maximum (100 at all 199 destinations), 21 passports in rank order")
     y += 20
     for iso2 in shown:

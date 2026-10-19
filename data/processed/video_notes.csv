@@ -7,9 +7,9 @@ FR,5,many,需签证：苏里南,Visa needed: Suriname,签证要求与 #4 芬兰 
 DE,6,many,需签证：苏里南,Visa needed: Suriname,签证要求与 #5 法国 相同,Same visa needs as #5 France
 IT,6,many,需签证：苏里南,Visa needed: Suriname,签证要求与 #6 德国 相同,Same visa needs as #6 Germany
 NO,8,many,需签证：苏里南,Visa needed: Suriname,签证要求与 #6 意大利 相同,Same visa needs as #6 Italy
-LU,9,many,需签证：苏里南,Visa needed: Suriname,签证要求与 #8 挪威 相同,Same visa needs as #8 Norway
-NL,10,many,需签证：苏里南,Visa needed: Suriname,签证要求与 #9 卢森堡 相同,Same visa needs as #9 Luxembourg
-AT,11,many,需签证：苏里南,Visa needed: Suriname,签证要求与 #10 荷兰 相同,Same visa needs as #10 Netherlands
+NL,9,many,需签证：苏里南,Visa needed: Suriname,签证要求与 #8 挪威 相同,Same visa needs as #8 Norway
+LU,10,many,需签证：苏里南,Visa needed: Suriname,签证要求与 #9 荷兰 相同,Same visa needs as #9 Netherlands
+AT,11,many,需签证：苏里南,Visa needed: Suriname,签证要求与 #10 卢森堡 相同,Same visa needs as #10 Luxembourg
 BE,12,many,需签证：苏里南,Visa needed: Suriname,签证要求与 #11 奥地利 相同,Same visa needs as #11 Austria
 CH,13,many,需签证：苏里南,Visa needed: Suriname,签证要求与 #12 比利时 相同,Same visa needs as #12 Belgium
 IE,14,many,需签证：苏里南,Visa needed: Suriname,签证要求与 #13 瑞士 相同,Same visa needs as #13 Switzerland
@@ -20,14 +20,14 @@ PL,18,many,需签证：圭亚那、苏里南,"Visa needed: Guyana, Suriname",#17
 SG,19,many,需签证：乌克兰、委内瑞拉、苏里南,"Visa needed: Ukraine, Venezuela, Suriname",#18 波兰 去乌克兰免签,#18 Poland: visa-free to Ukraine
 JP,20,many,需签证：苏里南、冈比亚,"Visa needed: Suriname, Gambia",胜过 #19 新加坡：去乌克兰免签,Beats #19 Singapore: visa-free to Ukraine
 HU,21,many,需签证：圭亚那、苏里南,"Visa needed: Guyana, Suriname",#20 日本 去圭亚那免签,#20 Japan: visa-free to Guyana
-HR,22,many,需签证：圭亚那、苏里南,"Visa needed: Guyana, Suriname",胜过 #23 阿联酋：去美国只需电子授权,Beats #23 UAE: only an eTA for the US
-AE,23,many,需签证：美国、缅甸、委内瑞拉,"Visa needed: the US, Myanmar, Venezuela",#22 克罗地亚 去美国只需电子授权,#22 Croatia: only an eTA for the US
-SK,24,many,需签证：圭亚那、苏里南,"Visa needed: Guyana, Suriname",胜过 #23 阿联酋：去美国只需电子授权,Beats #23 UAE: only an eTA for the US
-MT,25,many,需签证：圭亚那、纳米比亚、苏里南,"Visa needed: Guyana, Namibia, Suriname",#24 斯洛伐克 去纳米比亚可落地签,#24 Slovakia: visa on arrival in Namibia
-EE,26,many,需签证：南非、圭亚那、苏里南,"Visa needed: South Africa, Guyana, Suriname",#25 马耳他 去南非免签,#25 Malta: visa-free to South Africa
-IS,27,many,需签证：圭亚那、苏里南、斯威士兰,"Visa needed: Guyana, Suriname, Eswatini",胜过 #26 爱沙尼亚：去南非免签,Beats #26 Estonia: visa-free to South Africa
-NZ,28,many,需签证：俄罗斯、苏里南,"Visa needed: Russia, Suriname",#27 冰岛 去俄罗斯只需电子签,#27 Iceland: only an e-visa for Russia
-LV,29,many,需签证：南非、圭亚那、苏里南,"Visa needed: South Africa, Guyana, Suriname",胜过 #28 新西兰：去俄罗斯只需电子签,Beats #28 New Zealand: only an e-visa for Russia
+HR,22,many,需签证：圭亚那、苏里南,"Visa needed: Guyana, Suriname",签证要求与 #21 匈牙利 相同,Same visa needs as #21 Hungary
+SK,23,many,需签证：圭亚那、苏里南,"Visa needed: Guyana, Suriname",胜过 #24 马耳他：去纳米比亚可落地签,Beats #24 Malta: visa on arrival in Namibia
+MT,24,many,需签证：圭亚那、纳米比亚、苏里南,"Visa needed: Guyana, Namibia, Suriname",#23 斯洛伐克 去纳米比亚可落地签,#23 Slovakia: visa on arrival in Namibia
+EE,25,many,需签证：南非、圭亚那、苏里南,"Visa needed: South Africa, Guyana, Suriname",#24 马耳他 去南非免签,#24 Malta: visa-free to South Africa
+IS,26,many,需签证：圭亚那、苏里南、斯威士兰,"Visa needed: Guyana, Suriname, Eswatini",胜过 #25 爱沙尼亚：去南非免签,Beats #25 Estonia: visa-free to South Africa
+NZ,27,many,需签证：俄罗斯、苏里南,"Visa needed: Russia, Suriname",#26 冰岛 去俄罗斯只需电子签,#26 Iceland: only an e-visa for Russia
+AE,28,many,需签证：美国、澳大利亚、缅甸,"Visa needed: the US, Australia, Myanmar",#27 新西兰 去美国只需电子授权,#27 New Zealand: only an eTA for the US
+LV,29,many,需签证：南非、圭亚那、苏里南,"Visa needed: South Africa, Guyana, Suriname",胜过 #28 阿联酋：去美国只需电子授权,Beats #28 UAE: only an eTA for the US
 LI,30,many,需签证：缅甸、圭亚那、安哥拉,"Visa needed: Myanmar, Guyana, Angola",胜过 #29 拉脱维亚：去南非免签,Beats #29 Latvia: visa-free to South Africa
 SI,31,many,需签证：南非、圭亚那、纳米比亚,"Visa needed: South Africa, Guyana, Namibia",#30 列支敦士登 去南非免签,#30 Liechtenstein: visa-free to South Africa
 CZ,32,many,需签证：中国、圭亚那、苏里南,"Visa needed: China, Guyana, Suriname",#31 斯洛文尼亚 去中国免签,#31 Slovenia: visa-free to China
@@ -40,48 +40,48 @@ CA,38,many,需签证：俄罗斯、伊朗、委内瑞拉,"Visa needed: Russia, I
 MC,39,many,需签证：文莱、圭亚那、纳米比亚,"Visa needed: Brunei, Guyana, Namibia",胜过 #38 加拿大：去俄罗斯只需电子签,Beats #38 Canada: only an e-visa for Russia
 CY,40,many,需签证：美国、突尼斯、圭亚那,"Visa needed: the US, Tunisia, Guyana",#39 摩纳哥 去美国只需电子授权,#39 Monaco: only an eTA for the US
 MY,41,many,需签证：美国、加拿大、以色列,"Visa needed: the US, Canada, Israel",#40 塞浦路斯 去加拿大只需电子授权,#40 Cyprus: only an eTA for Canada
-CL,42,many,需签证：沙特、文莱、科威特,"Visa needed: Saudi, Brunei, Kuwait",胜过 #41 马来西亚：去美国只需电子授权,Beats #41 Malaysia: only an eTA for the US
-US,43,many,需签证：中国、俄罗斯、伊朗,"Visa needed: China, Russia, Iran",#42 智利 去中国免签,#42 Chile: visa-free to China
-AD,44,many,需签证：缅甸、文莱、圭亚那,"Visa needed: Myanmar, Brunei, Guyana",胜过 #43 美国：去中国免签,Beats #43 the US: visa-free to China
+US,42,many,需签证：中国、俄罗斯、伊朗,"Visa needed: China, Russia, Iran",#41 马来西亚 去中国免签,#41 Malaysia: visa-free to China
+CL,43,many,需签证：澳大利亚、沙特、文莱,"Visa needed: Australia, Saudi, Brunei",胜过 #42 美国：去中国免签,Beats #42 the US: visa-free to China
+AD,44,many,需签证：缅甸、文莱、圭亚那,"Visa needed: Myanmar, Brunei, Guyana",胜过 #43 智利：去澳大利亚只需电子授权,Beats #43 Chile: only an eTA for Australia
 SM,45,many,需签证：缅甸、文莱、圭亚那,"Visa needed: Myanmar, Brunei, Guyana",#44 安道尔 去巴拉圭免签,#44 Andorra: visa-free to Paraguay
-AR,46,many,需签证：美国、加拿大、沙特,"Visa needed: the US, Canada, Saudi",#45 圣马力诺 去美国只需电子授权,#45 San Marino: only an eTA for the US
-HK,47,many,需签证：美国、印度、巴基斯坦,"Visa needed: the US, India, Pakistan",#46 阿根廷 去印度只需电子签,#46 Argentina: only an e-visa for India
-BR,48,many,需签证：美国、加拿大、墨西哥,"Visa needed: the US, Canada, Mexico",胜过 #47 中国香港：去印度只需电子签,Beats #47 Hong Kong: only an e-visa for India
-BB,49,many,需签证：美国、新西兰、摩洛哥,"Visa needed: the US, New Zealand, Morocco",胜过 #48 巴西：去加拿大只需电子授权,Beats #48 Brazil: only an eTA for Canada
-UY,50,many,需签证：美国、加拿大、沙特,"Visa needed: the US, Canada, Saudi",#49 巴巴多斯 去加拿大只需电子授权,#49 Barbados: only an eTA for Canada
+HK,46,many,需签证：美国、印度、巴基斯坦,"Visa needed: the US, India, Pakistan",#45 圣马力诺 去美国只需电子授权,#45 San Marino: only an eTA for the US
+AR,47,many,需签证：美国、加拿大、澳大利亚,"Visa needed: the US, Canada, Australia",胜过 #46 中国香港：去印度只需电子签,Beats #46 Hong Kong: only an e-visa for India
+BR,48,many,需签证：美国、加拿大、墨西哥,"Visa needed: the US, Canada, Mexico",#47 阿根廷 去墨西哥免签,#47 Argentina: visa-free to Mexico
+BB,49,many,需签证：美国、澳大利亚、新西兰,"Visa needed: the US, Australia, New Zealand",胜过 #48 巴西：去加拿大只需电子授权,Beats #48 Brazil: only an eTA for Canada
+UY,50,many,需签证：美国、加拿大、澳大利亚,"Visa needed: the US, Canada, Australia",#49 巴巴多斯 去加拿大只需电子授权,#49 Barbados: only an eTA for Canada
 BN,51,many,需签证：墨西哥、巴西、阿根廷,"Visa needed: Mexico, Brazil, Argentina",胜过 #50 乌拉圭：去美国只需电子授权,Beats #50 Uruguay: only an eTA for the US
-BS,52,many,需签证：美国、俄罗斯、阿根廷,"Visa needed: the US, Russia, Argentina",#51 文莱 去美国只需电子授权,#51 Brunei: only an eTA for the US
-IL,53,many,需签证：中国、沙特(禁)、埃及,"Visa needed: China, Saudi (banned), Egypt",胜过 #52 巴哈马：去美国只需电子授权,Beats #52 Bahamas: only an eTA for the US
-MX,54,many,需签证：美国、中国、加拿大,"Visa needed: the US, China, Canada",#53 以色列 去美国只需电子授权,#53 Israel: only an eTA for the US
-PE,55,many,需签证：美国、日本、加拿大,"Visa needed: the US, Japan, Canada",胜过 #54 墨西哥：去中国免签,Beats #54 Mexico: visa-free to China
-VA,56,many,需签证：美国、中国、日本,"Visa needed: the US, China, Japan",#55 秘鲁 去中国免签,#55 Peru: visa-free to China
-KN,57,many,需签证：美国、中国、日本,"Visa needed: the US, China, Japan",#56 梵蒂冈 去加拿大只需电子授权,#56 Vatican: only an eTA for Canada
+BS,52,many,需签证：美国、俄罗斯、澳大利亚,"Visa needed: the US, Russia, Australia",#51 文莱 去美国只需电子授权,#51 Brunei: only an eTA for the US
+MX,53,many,需签证：美国、中国、加拿大,"Visa needed: the US, China, Canada",#52 巴哈马 去中国免签,#52 Bahamas: visa-free to China
+IL,54,many,需签证：中国、澳大利亚、沙特(禁),"Visa needed: China, Australia, Saudi (banned)",胜过 #53 墨西哥：去美国只需电子授权,Beats #53 Mexico: only an eTA for the US
+VA,55,many,需签证：美国、中国、日本,"Visa needed: the US, China, Japan",#54 以色列 去美国只需电子授权,#54 Israel: only an eTA for the US
+PE,56,many,需签证：美国、日本、加拿大,"Visa needed: the US, Japan, Canada",胜过 #55 梵蒂冈：去中国免签,Beats #55 Vatican: visa-free to China
+KN,57,many,需签证：美国、中国、日本,"Visa needed: the US, China, Japan",#56 秘鲁 去中国免签,#56 Peru: visa-free to China
 CR,58,many,需签证：美国、中国、加拿大,"Visa needed: the US, China, Canada",胜过 #57 圣基茨：去日本免签,Beats #57 St Kitts: visa-free to Japan
 VC,59,many,需签证：美国、中国、日本,"Visa needed: the US, China, Japan",#58 哥斯达黎加 去日本免签,#58 Costa Rica: visa-free to Japan
 PA,60,many,需签证：美国、中国、加拿大,"Visa needed: the US, China, Canada",胜过 #59 圣文森特：去日本免签,Beats #59 St Vincent: visa-free to Japan
-UA,61,many,需签证：美国、中国、日本,"Visa needed: the US, China, Japan",#60 巴拿马 去日本免签,#60 Panama: visa-free to Japan
-MO,62,many,需签证：美国、印度、加拿大,"Visa needed: the US, India, Canada",胜过 #61 乌克兰：去中国免签,Beats #61 Ukraine: visa-free to China
-AG,63,many,需签证：美国(禁)、日本、加拿大,"Visa needed: the US (banned), Japan, Canada",#62 中国澳门 去日本免签,#62 Macao: visa-free to Japan
-SC,64,many,需签证：美国、日本、加拿大,"Visa needed: the US, Japan, Canada",胜过 #63 安提瓜：去沙特可落地签,Beats #63 Antigua: visa on arrival in Saudi
+MO,61,many,需签证：美国、印度、加拿大,"Visa needed: the US, India, Canada",胜过 #60 巴拿马：去中国免签,Beats #60 Panama: visa-free to China
+AG,62,many,需签证：美国(禁)、日本、加拿大,"Visa needed: the US (banned), Japan, Canada",#61 中国澳门 去日本免签,#61 Macao: visa-free to Japan
+UA,63,many,需签证：美国、中国、日本,"Visa needed: the US, China, Japan",#62 安提瓜 去中国免签,#62 Antigua: visa-free to China
+SC,64,many,需签证：美国、日本、加拿大,"Visa needed: the US, Japan, Canada",胜过 #63 乌克兰：去中国免签,Beats #63 Ukraine: visa-free to China
 TT,65,many,需签证：美国、中国、日本,"Visa needed: the US, China, Japan",#64 塞舌尔 去中国免签,#64 Seychelles: visa-free to China
 PY,66,many,需签证：美国、中国、日本,"Visa needed: the US, China, Japan",胜过 #65 特立尼达：去乌克兰免签,Beats #65 Trinidad: visa-free to Ukraine
 GD,67,many,需签证：美国、日本、加拿大,"Visa needed: the US, Japan, Canada",胜过 #66 巴拉圭：去中国免签,Beats #66 Paraguay: visa-free to China
 MU,68,many,需签证：美国、加拿大、爱尔兰,"Visa needed: the US, Canada, Ireland",胜过 #67 格林纳达：去日本免签,Beats #67 Grenada: visa-free to Japan
 LC,69,many,需签证：美国、中国、日本,"Visa needed: the US, China, Japan",#68 毛里求斯 去中国免签,#68 Mauritius: visa-free to China
 RS,70,many,需签证：美国、英国、加拿大,"Visa needed: the US, the UK, Canada",胜过 #69 圣卢西亚：去中国免签,Beats #69 Saint Lucia: visa-free to China
-GT,71,many,需签证：美国、中国、加拿大,"Visa needed: the US, China, Canada",#70 塞尔维亚 去中国免签,#70 Serbia: visa-free to China
-CO,72,many,需签证：美国、中国、日本,"Visa needed: the US, China, Japan",#71 危地马拉 去日本免签,#71 Guatemala: visa-free to Japan
-ME,74,many,需签证：美国、日本、英国,"Visa needed: the US, Japan, the UK",胜过 #72 哥伦比亚：去中国免签,Beats #72 Colombia: visa-free to China
+GT,72,many,需签证：美国、中国、加拿大,"Visa needed: the US, China, Canada",#70 塞尔维亚 去中国免签,#70 Serbia: visa-free to China
+CO,73,many,需签证：美国、中国、日本,"Visa needed: the US, China, Japan",#72 危地马拉 去日本免签,#72 Guatemala: visa-free to Japan
+ME,74,many,需签证：美国、日本、英国,"Visa needed: the US, Japan, the UK",胜过 #73 哥伦比亚：去中国免签,Beats #73 Colombia: visa-free to China
 DM,75,many,需签证：美国(禁)、日本、英国,"Visa needed: the US (banned), Japan, the UK",#74 黑山 去土耳其免签,#74 Montenegro: visa-free to Türkiye
 SV,76,many,需签证：美国、中国、英国,"Visa needed: the US, China, the UK",#75 多米尼克 去中国免签,#75 Dominica: visa-free to China
-SB,77,many,需签证：美国、日本、俄罗斯,"Visa needed: the US, Japan, Russia",胜过 #76 萨尔瓦多：去中国免签,Beats #76 El Salvador: visa-free to China
-MK,78,many,需签证：美国、英国、加拿大,"Visa needed: the US, the UK, Canada",胜过 #77 所罗门群岛：去日本免签,Beats #77 Solomon Is.: visa-free to Japan
-HN,79,many,需签证：美国、中国、英国,"Visa needed: the US, China, the UK",#78 北马其顿 去中国免签,#78 N. Macedonia: visa-free to China
-GE,80,many,需签证：美国、日本、英国,"Visa needed: the US, Japan, the UK",胜过 #79 洪都拉斯：去中国免签,Beats #79 Honduras: visa-free to China
-NI,81,many,需签证：美国、中国、日本,"Visa needed: the US, China, Japan",#80 格鲁吉亚 去中国免签,#80 Georgia: visa-free to China
-WS,82,many,需签证：美国、中国、日本,"Visa needed: the US, China, Japan",#81 尼加拉瓜 去土耳其免签,#81 Nicaragua: visa-free to Türkiye
-BA,83,many,需签证：美国、日本、英国,"Visa needed: the US, Japan, the UK",胜过 #82 萨摩亚：去中国免签,Beats #82 Samoa: visa-free to China
-TO,84,many,需签证：美国(禁)、日本、土耳其,"Visa needed: the US (banned), Japan, Türkiye",胜过 #83 波黑：去英国只需电子授权,Beats #83 Bosnia: only an eTA for the UK
+HN,77,many,需签证：美国、中国、英国,"Visa needed: the US, China, the UK",#76 萨尔瓦多 去爱尔兰免签,#76 El Salvador: visa-free to Ireland
+SB,78,many,需签证：美国、日本、俄罗斯,"Visa needed: the US, Japan, Russia",胜过 #77 洪都拉斯：去中国免签,Beats #77 Honduras: visa-free to China
+MK,79,many,需签证：美国、英国、加拿大,"Visa needed: the US, the UK, Canada",胜过 #78 所罗门群岛：去日本免签,Beats #78 Solomon Is.: visa-free to Japan
+GE,80,many,需签证：美国、日本、英国,"Visa needed: the US, Japan, the UK",#79 北马其顿 去日本免签,#79 N. Macedonia: visa-free to Japan
+WS,81,many,需签证：美国、中国、日本,"Visa needed: the US, China, Japan",#80 格鲁吉亚 去中国免签,#80 Georgia: visa-free to China
+BA,82,many,需签证：美国、日本、英国,"Visa needed: the US, Japan, the UK",胜过 #81 萨摩亚：去中国免签,Beats #81 Samoa: visa-free to China
+NI,83,many,需签证：美国、中国、日本,"Visa needed: the US, China, Japan",#82 波黑 去中国免签,#82 Bosnia: visa-free to China
+TO,84,many,需签证：美国(禁)、日本、土耳其,"Visa needed: the US (banned), Japan, Türkiye",胜过 #83 尼加拉瓜：去中国免签,Beats #83 Nicaragua: visa-free to China
 MH,85,many,需签证：中国、日本、土耳其,"Visa needed: China, Japan, Türkiye",胜过 #84 汤加：去美国免签,Beats #84 Tonga: visa-free to the US
 AL,86,many,需签证：美国、日本、英国,"Visa needed: the US, Japan, the UK",#85 马绍尔群岛 去美国免签,#85 Marshall Is.: visa-free to the US
 TV,87,many,需签证：美国、中国、日本,"Visa needed: the US, China, Japan",#86 阿尔巴尼亚 去中国免签,#86 Albania: visa-free to China
@@ -92,108 +92,108 @@ FM,91,many,需签证：中国、日本、土耳其,"Visa needed: China, Japan, T
 MD,92,many,需签证：美国、中国、日本,"Visa needed: the US, China, Japan",#91 密克罗尼西亚 去美国免签,#91 Micronesia: visa-free to the US
 RU,93,many,需签证：美国、法国、日本,"Visa needed: the US, France, Japan",胜过 #92 摩尔多瓦：去中国免签,Beats #92 Moldova: visa-free to China
 TR,94,many,需签证：美国、中国、法国,"Visa needed: the US, China, France",#93 俄罗斯 去中国免签,#93 Russia: visa-free to China
-TL,95,few,免签：法国、西班牙、意大利,"Visa-free: France, Spain, Italy",落地签/电子签：土耳其、澳大利亚,"On arrival / e-visa: Türkiye, Australia"
+TL,95,few,免签：法国、西班牙、意大利,"Visa-free: France, Spain, Italy",落地签：埃及、中国澳门 · 电子签：土耳其、阿联酋,"On arrival: Egypt, Macao · e-visa: Türkiye, UAE"
 QA,96,many,需签证：法国、西班牙、意大利,"Visa needed: France, Spain, Italy",胜过 #95 东帝汶：去美国只需电子授权,Beats #95 Timor-Leste: only an eTA for the US
-XK,97,few,免签：法国、西班牙、意大利,"Visa-free: France, Spain, Italy",落地签/电子签：澳大利亚、韩国,"On arrival / e-visa: Australia, S. Korea"
+XK,97,few,免签：法国、西班牙、意大利,"Visa-free: France, Spain, Italy",落地签：中国澳门、伊朗 · 电子签：新加坡、泰国,"On arrival: Macao, Iran · e-visa: Singapore, Thailand"
 ZA,98,many,需签证：美国、中国、法国,"Visa needed: the US, China, France",#97 科索沃 去法国免签,#97 Kosovo: visa-free to France
 KW,99,many,需签证：美国、法国、日本,"Visa needed: the US, France, Japan",胜过 #98 南非：去中国免签,Beats #98 South Africa: visa-free to China
-SA,100,few,免签：中国、英国、土耳其,"Visa-free: China, the UK, Türkiye",落地签/电子签：日本、印度,"On arrival / e-visa: Japan, India"
+SA,100,few,免签：中国、英国、土耳其,"Visa-free: China, the UK, Türkiye",落地签：印度尼西亚、中国澳门 · 电子签：日本、印度,"On arrival: Indonesia, Macao · e-visa: Japan, India"
 BZ,101,many,需签证：美国、中国、法国,"Visa needed: the US, China, France",#100 沙特 去中国免签,#100 Saudi: visa-free to China
-EC,102,few,免签：中国、土耳其、俄罗斯,"Visa-free: China, Türkiye, Russia",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-JM,103,few,免签：俄罗斯、墨西哥、韩国,"Visa-free: Russia, Mexico, S. Korea",落地签/电子签：土耳其、印度,"On arrival / e-visa: Türkiye, India"
-FJ,104,few,免签：中国、俄罗斯、爱尔兰,"Visa-free: China, Russia, Ireland",落地签/电子签：土耳其、印度,"On arrival / e-visa: Türkiye, India"
-MV,105,few,免签：中国、英国、印度,"Visa-free: China, the UK, India",落地签/电子签：土耳其、澳大利亚,"On arrival / e-visa: Türkiye, Australia"
-TH,106,few,免签：中国、日本、土耳其,"Visa-free: China, Japan, Türkiye",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-BH,107,few,免签：中国、英国、土耳其,"Visa-free: China, the UK, Türkiye",落地签/电子签：俄罗斯、澳大利亚,"On arrival / e-visa: Russia, Australia"
-OM,108,few,免签：中国、英国、土耳其,"Visa-free: China, the UK, Türkiye",落地签/电子签：印度、俄罗斯,"On arrival / e-visa: India, Russia"
-GY,109,few,免签：英国、俄罗斯、爱尔兰,"Visa-free: the UK, Russia, Ireland",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-BY,110,few,免签：中国、土耳其、俄罗斯,"Visa-free: China, Türkiye, Russia",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-ID,111,few,免签：日本、土耳其、新加坡,"Visa-free: Japan, Türkiye, Singapore",落地签/电子签：印度、俄罗斯,"On arrival / e-visa: India, Russia"
-VU,112,few,免签：俄罗斯、新加坡、中国香港,"Visa-free: Russia, Singapore, Hong Kong",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-KZ,113,few,免签：中国、土耳其、俄罗斯,"Visa-free: China, Türkiye, Russia",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-SR,114,few,免签：中国、日本、俄罗斯,"Visa-free: China, Japan, Russia",落地签/电子签：土耳其、印度,"On arrival / e-visa: Türkiye, India"
-BO,115,few,免签：土耳其、俄罗斯、墨西哥,"Visa-free: Türkiye, Russia, Mexico",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-CN,116,few,免签：俄罗斯、新加坡、泰国,"Visa-free: Russia, Singapore, Thailand",落地签/电子签：日本、土耳其,"On arrival / e-visa: Japan, Türkiye"
-MN,117,few,免签：中国、土耳其、俄罗斯,"Visa-free: China, Türkiye, Russia",落地签/电子签：日本、印度,"On arrival / e-visa: Japan, India"
-NR,118,few,免签：英国、俄罗斯、爱尔兰,"Visa-free: the UK, Russia, Ireland",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-DO,119,few,免签：日本、俄罗斯、韩国,"Visa-free: Japan, Russia, S. Korea",落地签/电子签：土耳其、印度,"On arrival / e-visa: Türkiye, India"
-AZ,120,few,免签：中国、土耳其、俄罗斯,"Visa-free: China, Türkiye, Russia",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-PG,121,few,免签：英国、加拿大、新加坡,"Visa-free: the UK, Canada, Singapore",落地签/电子签：印度、俄罗斯,"On arrival / e-visa: India, Russia"
-AM,122,few,免签：中国、俄罗斯、中国香港,"Visa-free: China, Russia, Hong Kong",落地签/电子签：土耳其、印度,"On arrival / e-visa: Türkiye, India"
-BW,123,few,免签：英国、俄罗斯、韩国,"Visa-free: the UK, Russia, S. Korea",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-PH,124,few,免签：新加坡、泰国、印度尼西亚,"Visa-free: Singapore, Thailand, Indonesia",落地签/电子签：印度、俄罗斯,"On arrival / e-visa: India, Russia"
-MA,125,few,免签：土耳其、韩国、中国香港,"Visa-free: Türkiye, S. Korea, Hong Kong",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-TN,126,few,免签：日本、土耳其、韩国,"Visa-free: Japan, Türkiye, S. Korea",落地签/电子签：澳大利亚、新加坡,"On arrival / e-visa: Australia, Singapore"
-KG,127,few,免签：土耳其、俄罗斯、泰国,"Visa-free: Türkiye, Russia, Thailand",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-LS,128,few,免签：日本、爱尔兰、韩国,"Visa-free: Japan, Ireland, S. Korea",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-SZ,129,few,免签：爱尔兰、韩国、新加坡,"Visa-free: Ireland, S. Korea, Singapore",落地签/电子签：印度、俄罗斯,"On arrival / e-visa: India, Russia"
-NA,130,few,免签：俄罗斯、新加坡、中国香港,"Visa-free: Russia, Singapore, Hong Kong",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-UZ,131,few,免签：中国、土耳其、俄罗斯,"Visa-free: China, Türkiye, Russia",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-IN,132,few,免签：泰国、马来西亚、中国澳门,"Visa-free: Thailand, Malaysia, Macao",落地签/电子签：日本、俄罗斯,"On arrival / e-visa: Japan, Russia"
-CU,133,few,免签：俄罗斯、新加坡、马来西亚,"Visa-free: Russia, Singapore, Malaysia",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-KH,134,few,免签：新加坡、泰国、印度尼西亚,"Visa-free: Singapore, Thailand, Indonesia",落地签/电子签：日本、印度,"On arrival / e-visa: Japan, India"
-MW,135,few,免签：新加坡、中国香港、马来西亚,"Visa-free: Singapore, Hong Kong, Malaysia",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-KE,136,few,免签：新加坡、中国香港、马来西亚,"Visa-free: Singapore, Hong Kong, Malaysia",落地签/电子签：印度、俄罗斯,"On arrival / e-visa: India, Russia"
-CV,137,few,免签：俄罗斯、新加坡、中国香港,"Visa-free: Russia, Singapore, Hong Kong",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-GH,138,few,免签：新加坡、巴基斯坦、菲律宾,"Visa-free: Singapore, Pakistan, Philippines",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-TJ,139,few,免签：俄罗斯、马来西亚、伊朗,"Visa-free: Russia, Malaysia, Iran",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-VN,140,few,免签：新加坡、泰国、印度尼西亚,"Visa-free: Singapore, Thailand, Indonesia",落地签/电子签：日本、印度,"On arrival / e-visa: Japan, India"
-GM,141,few,免签：新加坡、马来西亚、菲律宾,"Visa-free: Singapore, Malaysia, Philippines",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-TZ,142,few,免签：新加坡、中国香港、马来西亚,"Visa-free: Singapore, Hong Kong, Malaysia",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-ZM,143,few,免签：新加坡、中国香港、马来西亚,"Visa-free: Singapore, Hong Kong, Malaysia",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-ST,144,few,免签：新加坡、中国香港、马来西亚,"Visa-free: Singapore, Hong Kong, Malaysia",落地签/电子签：澳大利亚、韩国,"On arrival / e-visa: Australia, S. Korea"
-DZ,145,few,免签：中国香港、马来西亚、摩洛哥,"Visa-free: Hong Kong, Malaysia, Morocco",落地签/电子签：澳大利亚、韩国,"On arrival / e-visa: Australia, S. Korea"
-ZW,146,few,免签：新加坡、中国香港、马来西亚,"Visa-free: Singapore, Hong Kong, Malaysia",落地签/电子签：印度、俄罗斯,"On arrival / e-visa: India, Russia"
-BT,147,few,免签：印度、新加坡、泰国,"Visa-free: India, Singapore, Thailand",落地签/电子签：俄罗斯、澳大利亚,"On arrival / e-visa: Russia, Australia"
-UG,148,few,免签：新加坡、中国香港、马来西亚,"Visa-free: Singapore, Hong Kong, Malaysia",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-JO,149,few,免签：土耳其、泰国、中国香港,"Visa-free: Türkiye, Thailand, Hong Kong",落地签/电子签：印度、俄罗斯,"On arrival / e-visa: India, Russia"
-GA,150,few,免签：新加坡、中国香港、马来西亚,"Visa-free: Singapore, Hong Kong, Malaysia",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-SN,151,few,免签：新加坡、马来西亚、摩洛哥,"Visa-free: Singapore, Malaysia, Morocco",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-LA,152,few,免签：俄罗斯、新加坡、泰国,"Visa-free: Russia, Singapore, Thailand",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-GN,153,few,免签：新加坡、中国香港、马来西亚,"Visa-free: Singapore, Hong Kong, Malaysia",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-RW,154,few,免签：新加坡、巴基斯坦、菲律宾,"Visa-free: Singapore, Pakistan, Philippines",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-BJ,155,few,免签：新加坡、中国香港、马来西亚,"Visa-free: Singapore, Hong Kong, Malaysia",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-MG,156,few,免签：新加坡、中国香港、马来西亚,"Visa-free: Singapore, Hong Kong, Malaysia",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-HT,157,few,免签：韩国、新加坡、中国香港,"Visa-free: S. Korea, Singapore, Hong Kong",落地签/电子签：土耳其、印度,"On arrival / e-visa: Türkiye, India"
-CI,158,few,免签：新加坡、菲律宾、突尼斯,"Visa-free: Singapore, Philippines, Tunisia",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-EG,159,few,免签：中国香港、马来西亚、中国澳门,"Visa-free: Hong Kong, Malaysia, Macao",落地签/电子签：澳大利亚、韩国,"On arrival / e-visa: Australia, S. Korea"
-BF,160,few,免签：新加坡、中国香港、摩洛哥,"Visa-free: Singapore, Hong Kong, Morocco",落地签/电子签：澳大利亚、韩国,"On arrival / e-visa: Australia, S. Korea"
-TG,161,few,免签：新加坡、马来西亚、摩洛哥,"Visa-free: Singapore, Malaysia, Morocco",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-NE,162,few,免签：新加坡、中国香港、摩洛哥,"Visa-free: Singapore, Hong Kong, Morocco",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-SL,163,few,免签：新加坡、马来西亚、孟加拉国,"Visa-free: Singapore, Malaysia, Bangladesh",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-MR,164,few,免签：新加坡、中国香港、马来西亚,"Visa-free: Singapore, Hong Kong, Malaysia",落地签/电子签：澳大利亚、韩国,"On arrival / e-visa: Australia, S. Korea"
-TM,165,few,免签：马来西亚、菲律宾、格鲁吉亚,"Visa-free: Malaysia, Philippines, Georgia",落地签/电子签：俄罗斯、澳大利亚,"On arrival / e-visa: Russia, Australia"
-AO,166,few,免签：新加坡、巴基斯坦、菲律宾,"Visa-free: Singapore, Pakistan, Philippines",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-ML,167,few,免签：中国香港、中国澳门、摩洛哥,"Visa-free: Hong Kong, Macao, Morocco",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-MZ,168,few,免签：新加坡、中国香港、巴基斯坦,"Visa-free: Singapore, Hong Kong, Pakistan",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-GQ,169,few,免签：新加坡、中国香港、菲律宾,"Visa-free: Singapore, Hong Kong, Philippines",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-KM,170,few,免签：新加坡、中国香港、马来西亚,"Visa-free: Singapore, Hong Kong, Malaysia",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-MM,171,few,免签：新加坡、泰国、印度尼西亚,"Visa-free: Singapore, Thailand, Indonesia",落地签/电子签：印度、俄罗斯,"On arrival / e-visa: India, Russia"
-DJ,172,few,免签：新加坡、中国香港、菲律宾,"Visa-free: Singapore, Hong Kong, Philippines",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-GW,173,few,免签：新加坡、菲律宾、突尼斯,"Visa-free: Singapore, Philippines, Tunisia",落地签/电子签：澳大利亚、韩国,"On arrival / e-visa: Australia, S. Korea"
-CM,174,few,免签：新加坡、菲律宾、尼日利亚,"Visa-free: Singapore, Philippines, Nigeria",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-NP,175,few,免签：印度、新加坡、巴基斯坦,"Visa-free: India, Singapore, Pakistan",落地签/电子签：澳大利亚、韩国,"On arrival / e-visa: Australia, S. Korea"
-CG,176,few,免签：新加坡、摩洛哥、菲律宾,"Visa-free: Singapore, Morocco, Philippines",落地签/电子签：澳大利亚、韩国,"On arrival / e-visa: Australia, S. Korea"
-LB,177,few,免签：土耳其、马来西亚、中国澳门,"Visa-free: Türkiye, Malaysia, Macao",落地签/电子签：澳大利亚、韩国,"On arrival / e-visa: Australia, S. Korea"
-CF,178,few,免签：新加坡、菲律宾、厄瓜多尔,"Visa-free: Singapore, Philippines, Ecuador",落地签/电子签：澳大利亚、韩国,"On arrival / e-visa: Australia, S. Korea"
-TD,179,few,免签：新加坡、中国香港、马来西亚,"Visa-free: Singapore, Hong Kong, Malaysia",落地签/电子签：澳大利亚、韩国,"On arrival / e-visa: Australia, S. Korea"
-LR,180,few,免签：新加坡、菲律宾、厄瓜多尔,"Visa-free: Singapore, Philippines, Ecuador",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-LK,181,few,免签：新加坡、巴基斯坦、巴哈马,"Visa-free: Singapore, Pakistan, Bahamas",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-BI,182,few,免签：新加坡、菲律宾、坦桑尼亚,"Visa-free: Singapore, Philippines, Tanzania",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-ER,183,few,免签：新加坡、菲律宾、卢旺达,"Visa-free: Singapore, Philippines, Rwanda",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-ET,184,few,免签：新加坡、菲律宾、卢旺达,"Visa-free: Singapore, Philippines, Rwanda",落地签/电子签：澳大利亚、韩国,"On arrival / e-visa: Australia, S. Korea"
-IR,185,few,免签：土耳其、马来西亚、哈萨克斯坦,"Visa-free: Türkiye, Malaysia, Kazakhstan",落地签/电子签：俄罗斯、澳大利亚,"On arrival / e-visa: Russia, Australia"
-KP,186,few,免签：圭亚那、吉尔吉斯斯坦、巴勒斯坦,"Visa-free: Guyana, Kyrgyzstan, Palestine",落地签/电子签：俄罗斯、澳大利亚,"On arrival / e-visa: Russia, Australia"
-CD,187,few,免签：新加坡、菲律宾、毛里求斯,"Visa-free: Singapore, Philippines, Mauritius",落地签/电子签：澳大利亚、韩国,"On arrival / e-visa: Australia, S. Korea"
-LY,188,few,免签：马来西亚、突尼斯、阿尔及利亚,"Visa-free: Malaysia, Tunisia, Algeria",落地签/电子签：澳大利亚、韩国,"On arrival / e-visa: Australia, S. Korea"
-SS,189,few,免签：新加坡、马来西亚、坦桑尼亚,"Visa-free: Singapore, Malaysia, Tanzania",落地签/电子签：澳大利亚、韩国,"On arrival / e-visa: Australia, S. Korea"
-NG,190,few,免签：斐济、塞内加尔、卢旺达,"Visa-free: Fiji, Senegal, Rwanda",落地签/电子签：澳大利亚、韩国,"On arrival / e-visa: Australia, S. Korea"
-PS,191,few,免签：马来西亚、南非、约旦,"Visa-free: Malaysia, South Africa, Jordan",落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-SD,192,few,免签：马来西亚、叙利亚、卢旺达,"Visa-free: Malaysia, Syria, Rwanda",落地签/电子签：澳大利亚、韩国,"On arrival / e-visa: Australia, S. Korea"
-BD,193,few,免签：不丹、巴哈马、斐济,"Visa-free: Bhutan, Bahamas, Fiji",落地签/电子签：澳大利亚、韩国,"On arrival / e-visa: Australia, S. Korea"
-IQ,194,few,免签：马来西亚、伊朗、突尼斯,"Visa-free: Malaysia, Iran, Tunisia",落地签/电子签：澳大利亚、韩国,"On arrival / e-visa: Australia, S. Korea"
-PK,195,few,免签：卢旺达、特立尼达、瓦努阿图,"Visa-free: Rwanda, Trinidad, Vanuatu",落地签/电子签：澳大利亚、韩国,"On arrival / e-visa: Australia, S. Korea"
-YE,196,few,免签：马来西亚、叙利亚、巴勒斯坦,"Visa-free: Malaysia, Syria, Palestine",落地签/电子签：澳大利亚、韩国,"On arrival / e-visa: Australia, S. Korea"
-SO,197,few,免签：马来西亚、巴勒斯坦、卢旺达,"Visa-free: Malaysia, Palestine, Rwanda",落地签/电子签：韩国、新加坡,"On arrival / e-visa: S. Korea, Singapore"
-AF,198,few,仅少数小国免签,Visa-free only to a few small states,落地签/电子签：印度、澳大利亚,"On arrival / e-visa: India, Australia"
-SY,199,few,免签：马来西亚、伊朗、巴勒斯坦,"Visa-free: Malaysia, Iran, Palestine",落地签/电子签：澳大利亚、韩国,"On arrival / e-visa: Australia, S. Korea"
+EC,102,few,免签：中国、土耳其、俄罗斯,"Visa-free: China, Türkiye, Russia",落地签：印度尼西亚、埃及 · 电子签：印度、泰国,"On arrival: Indonesia, Egypt · e-visa: India, Thailand"
+JM,103,few,免签：俄罗斯、墨西哥、韩国,"Visa-free: Russia, Mexico, S. Korea",落地签：土耳其、埃及 · 电子签：印度、泰国,"On arrival: Türkiye, Egypt · e-visa: India, Thailand"
+FJ,104,few,免签：中国、俄罗斯、爱尔兰,"Visa-free: China, Russia, Ireland",落地签：埃及、中国澳门 · 电子签：土耳其、印度,"On arrival: Egypt, Macao · e-visa: Türkiye, India"
+MV,105,few,免签：中国、英国、印度,"Visa-free: China, the UK, India",落地签：土耳其、沙特 · 电子签：越南、哥伦比亚,"On arrival: Türkiye, Saudi · e-visa: Vietnam, Colombia"
+TH,106,few,免签：中国、日本、土耳其,"Visa-free: China, Japan, Türkiye",落地签：沙特、伊朗 · 电子签：印度、阿联酋,"On arrival: Saudi, Iran · e-visa: India, UAE"
+BH,107,few,免签：中国、英国、土耳其,"Visa-free: China, the UK, Türkiye",落地签：印度尼西亚、中国澳门 · 电子签：俄罗斯、越南,"On arrival: Indonesia, Macao · e-visa: Russia, Vietnam"
+OM,108,few,免签：中国、英国、土耳其,"Visa-free: China, the UK, Türkiye",落地签：印度尼西亚、中国澳门 · 电子签：印度、俄罗斯,"On arrival: Indonesia, Macao · e-visa: India, Russia"
+GY,109,few,免签：英国、俄罗斯、爱尔兰,"Visa-free: the UK, Russia, Ireland",落地签：埃及、中国澳门 · 电子签：印度、泰国,"On arrival: Egypt, Macao · e-visa: India, Thailand"
+BY,110,few,免签：中国、土耳其、俄罗斯,"Visa-free: China, Türkiye, Russia",落地签：泰国、印度尼西亚 · 电子签：印度、新加坡,"On arrival: Thailand, Indonesia · e-visa: India, Singapore"
+ID,111,few,免签：日本、土耳其、新加坡,"Visa-free: Japan, Türkiye, Singapore",落地签：卡塔尔、阿曼 · 电子签：印度、俄罗斯,"On arrival: Qatar, Oman · e-visa: India, Russia"
+KZ,112,few,免签：中国、土耳其、俄罗斯,"Visa-free: China, Türkiye, Russia",落地签：沙特、印度尼西亚 · 电子签：印度、新加坡,"On arrival: Saudi, Indonesia · e-visa: India, Singapore"
+SR,113,few,免签：中国、日本、俄罗斯,"Visa-free: China, Japan, Russia",落地签：埃及、中国澳门 · 电子签：土耳其、印度,"On arrival: Egypt, Macao · e-visa: Türkiye, India"
+VU,114,few,免签：俄罗斯、新加坡、中国香港,"Visa-free: Russia, Singapore, Hong Kong",落地签：埃及、中国澳门 · 电子签：印度、泰国,"On arrival: Egypt, Macao · e-visa: India, Thailand"
+BO,115,few,免签：土耳其、俄罗斯、墨西哥,"Visa-free: Türkiye, Russia, Mexico",落地签：埃及、中国澳门 · 电子签：印度、泰国,"On arrival: Egypt, Macao · e-visa: India, Thailand"
+CN,116,few,免签：俄罗斯、新加坡、泰国,"Visa-free: Russia, Singapore, Thailand",落地签：沙特、印度尼西亚 · 电子签：日本、土耳其,"On arrival: Saudi, Indonesia · e-visa: Japan, Türkiye"
+NR,117,few,免签：英国、俄罗斯、爱尔兰,"Visa-free: the UK, Russia, Ireland",落地签：埃及、中国澳门 · 电子签：印度、泰国,"On arrival: Egypt, Macao · e-visa: India, Thailand"
+DO,118,few,免签：日本、俄罗斯、韩国,"Visa-free: Japan, Russia, S. Korea",落地签：埃及、中国澳门 · 电子签：土耳其、印度,"On arrival: Egypt, Macao · e-visa: Türkiye, India"
+MN,119,few,免签：中国、土耳其、俄罗斯,"Visa-free: China, Türkiye, Russia",落地签：印度尼西亚、埃及 · 电子签：日本、印度,"On arrival: Indonesia, Egypt · e-visa: Japan, India"
+AZ,120,few,免签：中国、土耳其、俄罗斯,"Visa-free: China, Türkiye, Russia",落地签：泰国、沙特 · 电子签：印度、新加坡,"On arrival: Thailand, Saudi · e-visa: India, Singapore"
+PG,121,few,免签：英国、加拿大、新加坡,"Visa-free: the UK, Canada, Singapore",落地签：印度尼西亚、埃及 · 电子签：印度、俄罗斯,"On arrival: Indonesia, Egypt · e-visa: India, Russia"
+BW,122,few,免签：英国、俄罗斯、韩国,"Visa-free: the UK, Russia, S. Korea",落地签：中国澳门、伊朗 · 电子签：印度、印度尼西亚,"On arrival: Macao, Iran · e-visa: India, Indonesia"
+MA,123,few,免签：土耳其、韩国、中国香港,"Visa-free: Türkiye, S. Korea, Hong Kong",落地签：印度尼西亚、伊朗 · 电子签：印度、新加坡,"On arrival: Indonesia, Iran · e-visa: India, Singapore"
+AM,124,few,免签：中国、俄罗斯、中国香港,"Visa-free: China, Russia, Hong Kong",落地签：土耳其、印度尼西亚 · 电子签：印度、新加坡,"On arrival: Türkiye, Indonesia · e-visa: India, Singapore"
+PH,125,few,免签：新加坡、泰国、印度尼西亚,"Visa-free: Singapore, Thailand, Indonesia",落地签：伊朗、斯里兰卡 · 电子签：印度、俄罗斯,"On arrival: Iran, Sri Lanka · e-visa: India, Russia"
+TN,126,few,免签：日本、土耳其、韩国,"Visa-free: Japan, Türkiye, S. Korea",落地签：印度尼西亚、中国澳门 · 电子签：新加坡、泰国,"On arrival: Indonesia, Macao · e-visa: Singapore, Thailand"
+LS,127,few,免签：日本、爱尔兰、韩国,"Visa-free: Japan, Ireland, S. Korea",落地签：中国澳门、伊朗 · 电子签：印度、印度尼西亚,"On arrival: Macao, Iran · e-visa: India, Indonesia"
+SZ,128,few,免签：爱尔兰、韩国、新加坡,"Visa-free: Ireland, S. Korea, Singapore",落地签：中国澳门、伊朗 · 电子签：印度、俄罗斯,"On arrival: Macao, Iran · e-visa: India, Russia"
+NA,129,few,免签：俄罗斯、新加坡、中国香港,"Visa-free: Russia, Singapore, Hong Kong",落地签：伊朗、斯里兰卡 · 电子签：印度、泰国,"On arrival: Iran, Sri Lanka · e-visa: India, Thailand"
+KG,130,few,免签：土耳其、俄罗斯、泰国,"Visa-free: Türkiye, Russia, Thailand",落地签：沙特、中国澳门 · 电子签：印度、新加坡,"On arrival: Saudi, Macao · e-visa: India, Singapore"
+UZ,131,few,免签：中国、土耳其、俄罗斯,"Visa-free: China, Türkiye, Russia",落地签：沙特、印度尼西亚 · 电子签：印度、新加坡,"On arrival: Saudi, Indonesia · e-visa: India, Singapore"
+MW,132,few,免签：新加坡、中国香港、马来西亚,"Visa-free: Singapore, Hong Kong, Malaysia",落地签：中国澳门、伊朗 · 电子签：印度、印度尼西亚,"On arrival: Macao, Iran · e-visa: India, Indonesia"
+IN,133,few,免签：泰国、马来西亚、中国澳门,"Visa-free: Thailand, Malaysia, Macao",落地签：印度尼西亚、卡塔尔 · 电子签：日本、俄罗斯,"On arrival: Indonesia, Qatar · e-visa: Japan, Russia"
+CU,134,few,免签：俄罗斯、新加坡、马来西亚,"Visa-free: Russia, Singapore, Malaysia",落地签：埃及、中国澳门 · 电子签：印度、泰国,"On arrival: Egypt, Macao · e-visa: India, Thailand"
+KH,135,few,免签：新加坡、泰国、印度尼西亚,"Visa-free: Singapore, Thailand, Indonesia",落地签：埃及、中国澳门 · 电子签：日本、印度,"On arrival: Egypt, Macao · e-visa: Japan, India"
+KE,136,few,免签：新加坡、中国香港、马来西亚,"Visa-free: Singapore, Hong Kong, Malaysia",落地签：印度尼西亚、中国澳门 · 电子签：印度、俄罗斯,"On arrival: Indonesia, Macao · e-visa: India, Russia"
+CV,137,few,免签：俄罗斯、新加坡、中国香港,"Visa-free: Russia, Singapore, Hong Kong",落地签：伊朗、约旦 · 电子签：印度、印度尼西亚,"On arrival: Iran, Jordan · e-visa: India, Indonesia"
+GH,138,few,免签：新加坡、巴基斯坦、菲律宾,"Visa-free: Singapore, Pakistan, Philippines",落地签：中国澳门、伊朗 · 电子签：印度、印度尼西亚,"On arrival: Macao, Iran · e-visa: India, Indonesia"
+TJ,139,few,免签：俄罗斯、马来西亚、伊朗,"Visa-free: Russia, Malaysia, Iran",落地签：沙特、中国澳门 · 电子签：印度、新加坡,"On arrival: Saudi, Macao · e-visa: India, Singapore"
+VN,140,few,免签：新加坡、泰国、印度尼西亚,"Visa-free: Singapore, Thailand, Indonesia",落地签：斯里兰卡、尼泊尔 · 电子签：日本、印度,"On arrival: Sri Lanka, Nepal · e-visa: Japan, India"
+TZ,141,few,免签：新加坡、中国香港、马来西亚,"Visa-free: Singapore, Hong Kong, Malaysia",落地签：印度尼西亚、斯里兰卡 · 电子签：印度、阿联酋,"On arrival: Indonesia, Sri Lanka · e-visa: India, UAE"
+ZM,142,few,免签：新加坡、中国香港、马来西亚,"Visa-free: Singapore, Hong Kong, Malaysia",落地签：中国澳门、伊朗 · 电子签：印度、印度尼西亚,"On arrival: Macao, Iran · e-visa: India, Indonesia"
+ST,143,few,免签：新加坡、中国香港、马来西亚,"Visa-free: Singapore, Hong Kong, Malaysia",落地签：埃及、中国澳门 · 电子签：印度尼西亚、阿联酋,"On arrival: Egypt, Macao · e-visa: Indonesia, UAE"
+GM,144,few,免签：新加坡、马来西亚、菲律宾,"Visa-free: Singapore, Malaysia, Philippines",落地签：中国澳门、伊朗 · 电子签：印度、印度尼西亚,"On arrival: Macao, Iran · e-visa: India, Indonesia"
+DZ,145,few,免签：中国香港、马来西亚、摩洛哥,"Visa-free: Hong Kong, Malaysia, Morocco",落地签：中国澳门、伊朗 · 电子签：新加坡、泰国,"On arrival: Macao, Iran · e-visa: Singapore, Thailand"
+ZW,146,few,免签：新加坡、中国香港、马来西亚,"Visa-free: Singapore, Hong Kong, Malaysia",落地签：中国澳门、约旦 · 电子签：印度、俄罗斯,"On arrival: Macao, Jordan · e-visa: India, Russia"
+BT,147,few,免签：印度、新加坡、泰国,"Visa-free: India, Singapore, Thailand",落地签：埃及、中国澳门 · 电子签：俄罗斯、印度尼西亚,"On arrival: Egypt, Macao · e-visa: Russia, Indonesia"
+UG,148,few,免签：新加坡、中国香港、马来西亚,"Visa-free: Singapore, Hong Kong, Malaysia",落地签：中国澳门、伊朗 · 电子签：印度、印度尼西亚,"On arrival: Macao, Iran · e-visa: India, Indonesia"
+JO,149,few,免签：土耳其、泰国、中国香港,"Visa-free: Türkiye, Thailand, Hong Kong",落地签：印度尼西亚、中国澳门 · 电子签：印度、俄罗斯,"On arrival: Indonesia, Macao · e-visa: India, Russia"
+GA,150,few,免签：新加坡、中国香港、马来西亚,"Visa-free: Singapore, Hong Kong, Malaysia",落地签：中国澳门、伊朗 · 电子签：印度、印度尼西亚,"On arrival: Macao, Iran · e-visa: India, Indonesia"
+HT,151,few,免签：韩国、新加坡、中国香港,"Visa-free: S. Korea, Singapore, Hong Kong",落地签：土耳其、埃及 · 电子签：印度、印度尼西亚,"On arrival: Türkiye, Egypt · e-visa: India, Indonesia"
+BJ,152,few,免签：新加坡、中国香港、马来西亚,"Visa-free: Singapore, Hong Kong, Malaysia",落地签：中国澳门、伊朗 · 电子签：印度、印度尼西亚,"On arrival: Macao, Iran · e-visa: India, Indonesia"
+MG,153,few,免签：新加坡、中国香港、马来西亚,"Visa-free: Singapore, Hong Kong, Malaysia",落地签：中国澳门、伊朗 · 电子签：印度、印度尼西亚,"On arrival: Macao, Iran · e-visa: India, Indonesia"
+SN,154,few,免签：新加坡、马来西亚、摩洛哥,"Visa-free: Singapore, Malaysia, Morocco",落地签：中国澳门、伊朗 · 电子签：印度、印度尼西亚,"On arrival: Macao, Iran · e-visa: India, Indonesia"
+LA,155,few,免签：俄罗斯、新加坡、泰国,"Visa-free: Russia, Singapore, Thailand",落地签：埃及、中国澳门 · 电子签：印度、阿联酋,"On arrival: Egypt, Macao · e-visa: India, UAE"
+GN,156,few,免签：新加坡、中国香港、马来西亚,"Visa-free: Singapore, Hong Kong, Malaysia",落地签：埃及、中国澳门 · 电子签：印度、阿联酋,"On arrival: Egypt, Macao · e-visa: India, UAE"
+RW,157,few,免签：新加坡、巴基斯坦、菲律宾,"Visa-free: Singapore, Pakistan, Philippines",落地签：印度尼西亚、中国澳门 · 电子签：印度、马来西亚,"On arrival: Indonesia, Macao · e-visa: India, Malaysia"
+EG,158,few,免签：中国香港、马来西亚、中国澳门,"Visa-free: Hong Kong, Malaysia, Macao",落地签：印度尼西亚、斯里兰卡 · 电子签：新加坡、泰国,"On arrival: Indonesia, Sri Lanka · e-visa: Singapore, Thailand"
+BF,159,few,免签：新加坡、中国香港、摩洛哥,"Visa-free: Singapore, Hong Kong, Morocco",落地签：中国澳门、伊朗 · 电子签：印度尼西亚、马来西亚,"On arrival: Macao, Iran · e-visa: Indonesia, Malaysia"
+CI,160,few,免签：新加坡、菲律宾、突尼斯,"Visa-free: Singapore, Philippines, Tunisia",落地签：中国澳门、伊朗 · 电子签：印度、印度尼西亚,"On arrival: Macao, Iran · e-visa: India, Indonesia"
+NE,161,few,免签：新加坡、中国香港、摩洛哥,"Visa-free: Singapore, Hong Kong, Morocco",落地签：中国澳门、伊朗 · 电子签：印度、印度尼西亚,"On arrival: Macao, Iran · e-visa: India, Indonesia"
+MR,162,few,免签：新加坡、中国香港、马来西亚,"Visa-free: Singapore, Hong Kong, Malaysia",落地签：中国澳门、斯里兰卡 · 电子签：印度尼西亚、阿联酋,"On arrival: Macao, Sri Lanka · e-visa: Indonesia, UAE"
+ML,163,few,免签：中国香港、中国澳门、摩洛哥,"Visa-free: Hong Kong, Macao, Morocco",落地签：伊朗、斯里兰卡 · 电子签：印度、新加坡,"On arrival: Iran, Sri Lanka · e-visa: India, Singapore"
+TG,164,few,免签：新加坡、马来西亚、摩洛哥,"Visa-free: Singapore, Malaysia, Morocco",落地签：中国澳门、伊朗 · 电子签：印度、印度尼西亚,"On arrival: Macao, Iran · e-visa: India, Indonesia"
+MZ,165,few,免签：新加坡、中国香港、巴基斯坦,"Visa-free: Singapore, Hong Kong, Pakistan",落地签：印度尼西亚、中国澳门 · 电子签：印度、马来西亚,"On arrival: Indonesia, Macao · e-visa: India, Malaysia"
+SL,166,few,免签：新加坡、马来西亚、孟加拉国,"Visa-free: Singapore, Malaysia, Bangladesh",落地签：中国澳门、伊朗 · 电子签：印度、印度尼西亚,"On arrival: Macao, Iran · e-visa: India, Indonesia"
+GQ,167,few,免签：新加坡、中国香港、菲律宾,"Visa-free: Singapore, Hong Kong, Philippines",落地签：中国澳门、伊朗 · 电子签：印度、印度尼西亚,"On arrival: Macao, Iran · e-visa: India, Indonesia"
+KM,168,few,免签：新加坡、中国香港、马来西亚,"Visa-free: Singapore, Hong Kong, Malaysia",落地签：中国澳门、伊朗 · 电子签：印度、印度尼西亚,"On arrival: Macao, Iran · e-visa: India, Indonesia"
+TM,169,few,免签：马来西亚、菲律宾、格鲁吉亚,"Visa-free: Malaysia, Philippines, Georgia",落地签：中国澳门、伊朗 · 电子签：俄罗斯、新加坡,"On arrival: Macao, Iran · e-visa: Russia, Singapore"
+AO,170,few,免签：新加坡、巴基斯坦、菲律宾,"Visa-free: Singapore, Pakistan, Philippines",落地签：中国澳门、伊朗 · 电子签：印度、印度尼西亚,"On arrival: Macao, Iran · e-visa: India, Indonesia"
+DJ,171,few,免签：新加坡、中国香港、菲律宾,"Visa-free: Singapore, Hong Kong, Philippines",落地签：中国澳门、伊朗 · 电子签：印度、泰国,"On arrival: Macao, Iran · e-visa: India, Thailand"
+MM,172,few,免签：新加坡、泰国、印度尼西亚,"Visa-free: Singapore, Thailand, Indonesia",落地签：中国澳门、伊朗 · 电子签：印度、俄罗斯,"On arrival: Macao, Iran · e-visa: India, Russia"
+TD,173,few,免签：新加坡、中国香港、马来西亚,"Visa-free: Singapore, Hong Kong, Malaysia",落地签：中国澳门、伊朗 · 电子签：印度尼西亚、阿联酋,"On arrival: Macao, Iran · e-visa: Indonesia, UAE"
+GW,174,few,免签：新加坡、菲律宾、突尼斯,"Visa-free: Singapore, Philippines, Tunisia",落地签：中国澳门、伊朗 · 电子签：印度尼西亚、马来西亚,"On arrival: Macao, Iran · e-visa: Indonesia, Malaysia"
+CM,175,few,免签：新加坡、菲律宾、尼日利亚,"Visa-free: Singapore, Philippines, Nigeria",落地签：中国澳门、伊朗 · 电子签：印度、印度尼西亚,"On arrival: Macao, Iran · e-visa: India, Indonesia"
+NP,176,few,免签：印度、新加坡、巴基斯坦,"Visa-free: India, Singapore, Pakistan",落地签：埃及、伊朗 · 电子签：印度尼西亚、马来西亚,"On arrival: Egypt, Iran · e-visa: Indonesia, Malaysia"
+CG,177,few,免签：新加坡、摩洛哥、菲律宾,"Visa-free: Singapore, Morocco, Philippines",落地签：中国澳门、伊朗 · 电子签：泰国、印度尼西亚,"On arrival: Macao, Iran · e-visa: Thailand, Indonesia"
+LB,178,few,免签：土耳其、马来西亚、中国澳门,"Visa-free: Türkiye, Malaysia, Macao",落地签：卡塔尔、阿曼 · 电子签：新加坡、泰国,"On arrival: Qatar, Oman · e-visa: Singapore, Thailand"
+CF,179,few,免签：新加坡、菲律宾、厄瓜多尔,"Visa-free: Singapore, Philippines, Ecuador",落地签：中国澳门、伊朗 · 电子签：印度尼西亚、马来西亚,"On arrival: Macao, Iran · e-visa: Indonesia, Malaysia"
+LK,180,few,免签：新加坡、巴基斯坦、巴哈马,"Visa-free: Singapore, Pakistan, Bahamas",落地签：伊朗、柬埔寨 · 电子签：印度、泰国,"On arrival: Iran, Cambodia · e-visa: India, Thailand"
+BI,181,few,免签：新加坡、菲律宾、坦桑尼亚,"Visa-free: Singapore, Philippines, Tanzania",落地签：中国澳门、伊朗 · 电子签：印度、印度尼西亚,"On arrival: Macao, Iran · e-visa: India, Indonesia"
+ER,182,few,免签：新加坡、菲律宾、卢旺达,"Visa-free: Singapore, Philippines, Rwanda",落地签：中国澳门、伊朗 · 电子签：印度、泰国,"On arrival: Macao, Iran · e-visa: India, Thailand"
+LR,183,few,免签：新加坡、菲律宾、厄瓜多尔,"Visa-free: Singapore, Philippines, Ecuador",落地签：中国澳门、伊朗 · 电子签：印度、马来西亚,"On arrival: Macao, Iran · e-visa: India, Malaysia"
+ET,184,few,免签：新加坡、菲律宾、卢旺达,"Visa-free: Singapore, Philippines, Rwanda",落地签：中国澳门、伊朗 · 电子签：泰国、印度尼西亚,"On arrival: Macao, Iran · e-visa: Thailand, Indonesia"
+IR,185,few,免签：土耳其、马来西亚、哈萨克斯坦,"Visa-free: Türkiye, Malaysia, Kazakhstan",落地签：中国澳门、卡塔尔 · 电子签：俄罗斯、新加坡,"On arrival: Macao, Qatar · e-visa: Russia, Singapore"
+CD,186,few,免签：新加坡、菲律宾、毛里求斯,"Visa-free: Singapore, Philippines, Mauritius",落地签：中国澳门、伊朗 · 电子签：印度尼西亚、马来西亚,"On arrival: Macao, Iran · e-visa: Indonesia, Malaysia"
+KP,187,few,免签：圭亚那、吉尔吉斯斯坦、巴勒斯坦,"Visa-free: Guyana, Kyrgyzstan, Palestine",落地签：埃及、中国澳门 · 电子签：俄罗斯、新加坡,"On arrival: Egypt, Macao · e-visa: Russia, Singapore"
+LY,188,few,免签：马来西亚、突尼斯、阿尔及利亚,"Visa-free: Malaysia, Tunisia, Algeria",落地签：中国澳门、伊朗 · 电子签：新加坡、泰国,"On arrival: Macao, Iran · e-visa: Singapore, Thailand"
+SS,189,few,免签：新加坡、马来西亚、坦桑尼亚,"Visa-free: Singapore, Malaysia, Tanzania",落地签：埃及、中国澳门 · 电子签：印度尼西亚、阿联酋,"On arrival: Egypt, Macao · e-visa: Indonesia, UAE"
+PS,190,few,免签：马来西亚、南非、约旦,"Visa-free: Malaysia, South Africa, Jordan",落地签：印度尼西亚、中国澳门 · 电子签：印度、新加坡,"On arrival: Indonesia, Macao · e-visa: India, Singapore"
+SD,191,few,免签：马来西亚、叙利亚、卢旺达,"Visa-free: Malaysia, Syria, Rwanda",落地签：中国澳门、伊朗 · 电子签：新加坡、泰国,"On arrival: Macao, Iran · e-visa: Singapore, Thailand"
+NG,192,few,免签：斐济、塞内加尔、卢旺达,"Visa-free: Fiji, Senegal, Rwanda",落地签：伊朗、柬埔寨 · 电子签：新加坡、马来西亚,"On arrival: Iran, Cambodia · e-visa: Singapore, Malaysia"
+BD,193,few,免签：不丹、巴哈马、斐济,"Visa-free: Bhutan, Bahamas, Fiji",落地签：斯里兰卡、柬埔寨 · 电子签：新加坡、印度尼西亚,"On arrival: Sri Lanka, Cambodia · e-visa: Singapore, Indonesia"
+IQ,194,few,免签：马来西亚、伊朗、突尼斯,"Visa-free: Malaysia, Iran, Tunisia",落地签：中国澳门、斯里兰卡 · 电子签：新加坡、印度尼西亚,"On arrival: Macao, Sri Lanka · e-visa: Singapore, Indonesia"
+PK,195,few,免签：卢旺达、特立尼达、瓦努阿图,"Visa-free: Rwanda, Trinidad, Vanuatu",落地签：卡塔尔、斯里兰卡 · 电子签：新加坡、印度尼西亚,"On arrival: Qatar, Sri Lanka · e-visa: Singapore, Indonesia"
+YE,196,few,免签：马来西亚、叙利亚、巴勒斯坦,"Visa-free: Malaysia, Syria, Palestine",落地签：中国澳门、伊朗 · 电子签：新加坡、印度尼西亚,"On arrival: Macao, Iran · e-visa: Singapore, Indonesia"
+SO,197,few,免签：马来西亚、巴勒斯坦、卢旺达,"Visa-free: Malaysia, Palestine, Rwanda",落地签：中国澳门、斯里兰卡 · 电子签：新加坡、阿联酋,"On arrival: Macao, Sri Lanka · e-visa: Singapore, UAE"
+SY,198,few,免签：马来西亚、伊朗、巴勒斯坦,"Visa-free: Malaysia, Iran, Palestine",落地签：中国澳门、柬埔寨 · 电子签：新加坡、印度尼西亚,"On arrival: Macao, Cambodia · e-visa: Singapore, Indonesia"
+AF,199,few,仅少数小国免签,Visa-free only to a few small states,落地签：中国澳门、斯里兰卡 · 电子签：新加坡、马来西亚,"On arrival: Macao, Sri Lanka · e-visa: Singapore, Malaysia"

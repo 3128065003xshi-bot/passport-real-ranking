@@ -109,9 +109,15 @@ for i, r in enumerate(ranking):
             z1, e1 = f"免签：{z1}", f"Visa-free: {e1}"
         else:
             z1, e1 = "仅少数小国免签", "Visa-free only to a few small states"
-        easy = top(p, set("CD"), 2)
-        z2, e2 = listing(easy)
-        z2, e2 = (f"落地签/电子签：{z2}", f"On arrival / e-visa: {e2}") if easy else ("", "")
+        # Best visa-on-arrival and e-visa options, each under its own label (never lumped together).
+        parts_zh, parts_en = [], []
+        for c, lz, le in (("C", "落地签", "On arrival"), ("D", "电子签", "e-visa")):
+            ds = top(p, {c}, 2)
+            if ds:
+                z, e = listing(ds)
+                parts_zh.append(f"{lz}：{z}")
+                parts_en.append(f"{le}: {e}")
+        z2, e2 = " · ".join(parts_zh), " · ".join(parts_en)
     else:
         need = top(p, VISA, 3, exclude=closed)
         if need:

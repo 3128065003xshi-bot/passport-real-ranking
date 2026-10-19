@@ -3,7 +3,7 @@ S,100,自由流动,Free movement,"No passport needed; national ID suffices, with
 A,98,免签,Visa-free,Enter with no prior application
 B,93,电子旅行授权,eTA / ETA / ESTA,"Visa-free but needs an online authorisation first (UK ETA, Canada eTA, US ESTA)"
 C,88,落地签,Visa on arrival,Visa issued at the port of entry
-D,78,电子签证,e-Visa,Visa applied for online before departure
-E,8,需签证,Visa required,"Visa applied for at an embassy, consulate or visa centre"
+D,78,电子签证,e-Visa,"Simplified e-visa applied for online before departure, usually decided within days without a full documentary assessment"
+E,8,需签证,Visa required,"Full visa: embassy, consulate or visa centre, or a full online application assessed with documents (e.g. UK, Canada, Australia visitor visas)"
 F,0,禁止入境/极难获得,No admission,"Entry banned, visa issuance suspended, no diplomatic relations, or a visa is practically unobtainable"
 -,100,本国,Home country,The issuing country itself; counted at full weight
