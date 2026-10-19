@@ -1,6 +1,6 @@
 """Score each destination from data/processed/country_indicators.csv using data/raw/indicator_weights.csv.
 
-Per field: optionally take log(1 + x), min-max scale across all countries to 0-100
+Per field: transform (log = ln(1 + x), sqrt = square root, linear = as is), min-max scale across all countries to 0-100
 (flipped when direction = lower), then multiply by weight / 100. The tourism score is
 the sum of those points, so it is 0-100 when the weights add up to 100.
 A missing value scores 0 and is listed in the `missing` column.
@@ -11,6 +11,10 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 RAW, OUT = ROOT / "data/raw", ROOT / "data/processed"
+
+
+# sqrt sits between log and linear: it compresses big values, but less than log does.
+TRANSFORMS = {"log": math.log1p, "sqrt": math.sqrt, "linear": lambda v: v}
 
 
 def read(path):
@@ -31,7 +35,7 @@ for w in weights:
     values = []
     for r in rows:
         v = None if r[field] == "" else float(r[field])
-        values.append(None if v is None else (math.log1p(v) if w["transform"] == "log" else v))
+        values.append(None if v is None else TRANSFORMS[w["transform"]](v))
     present = [v for v in values if v is not None]
     lo, hi = min(present), max(present)
     for o, v in zip(out, values):

@@ -4,7 +4,7 @@ tourist_arrivals_m,15,higher,log,每年入境过夜游客（联合国旅游组�
 crime_index,5,lower,linear,犯罪指数，越低越好
 nature_score,13,higher,linear,自然风光推荐指数
 culture_score,12,higher,linear,人文景点推荐指数
-gdp_per_capita_usd,22.5,higher,log,人均 GDP
+gdp_per_capita_usd,22.5,higher,sqrt,人均 GDP
 cities_1m_plus,3.3333,higher,log,100 万+ 城市数
 cities_5m_plus,3.3333,higher,log,500 万+ 城市数
 cities_10m_plus,3.3334,higher,log,1000 万+ 城市数
