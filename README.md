@@ -24,7 +24,7 @@ The home country counts at full weight. `pct_of_max` is the score as a share of 
 | 20 | Japan | 90.1 |
 | 35 | United Kingdom | 88.9 |
 | 42 | United States | 87.3 |
-| 116 | China | 48.8 |
+| 109 | China | 51.9 |
 | 199 | Afghanistan | 29.4 |
 
 Full table: [`data/processed/passport_ranking.csv`](data/processed/passport_ranking.csv).

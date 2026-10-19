@@ -7183,9 +7183,9 @@ CN,BG,E,8,,passport_index_2025-01-12,
 CN,BH,C,88,,passport_index_2025-01-12,
 CN,BI,C,88,,passport_index_2025-01-12,
 CN,BJ,A,98,30,passport_index_2025-01-12,
-CN,BN,C,88,,passport_index_2025-01-12,
-CN,BO,C,88,,passport_index_2025-01-12,
-CN,BR,E,8,,passport_index_2025-01-12,
+CN,BN,A,98,14,override:row27,Visa-free 14 days (Brunei mutual 2025; Oman with hotel booking; Philippines via Manila/Cebu)
+CN,BO,E,8,,override:row34,Visa required (El Salvador visa-free only with a qualifying US/Canada/Schengen visa)
+CN,BR,A,98,30,override:row26,"Brazil visa-free for Chinese ordinary passports, 30 days"
 CN,BS,A,98,90,passport_index_2025-01-12,
 CN,BT,D,78,,passport_index_2025-01-12,
 CN,BW,D,78,,passport_index_2025-01-12,
@@ -7196,7 +7196,7 @@ CN,CD,D,78,,passport_index_2025-01-12,
 CN,CF,E,8,,passport_index_2025-01-12,
 CN,CG,E,8,,passport_index_2025-01-12,
 CN,CH,E,8,,passport_index_2025-01-12,
-CN,CI,B,93,,passport_index_2025-01-12,
+CN,CI,D,78,,override:row33,"e-Visa (base data had visa-free, on-arrival or embassy visa)"
 CN,CL,E,8,,passport_index_2025-01-12,
 CN,CM,D,78,,passport_index_2025-01-12,
 CN,CN,-,100,,passport_index_2025-01-12,
@@ -7207,7 +7207,7 @@ CN,CV,C,88,,passport_index_2025-01-12,
 CN,CY,E,8,,passport_index_2025-01-12,
 CN,CZ,E,8,,passport_index_2025-01-12,
 CN,DE,E,8,,passport_index_2025-01-12,
-CN,DJ,C,88,,passport_index_2025-01-12,
+CN,DJ,D,78,,override:row33,"e-Visa (base data had visa-free, on-arrival or embassy visa)"
 CN,DK,E,8,,passport_index_2025-01-12,
 CN,DM,A,98,180,passport_index_2025-01-12,
 CN,DO,E,8,,passport_index_2025-01-12,
@@ -7226,14 +7226,14 @@ CN,GA,D,78,,passport_index_2025-01-12,
 CN,GB,E,8,,passport_index_2025-01-12,
 CN,GD,A,98,30,passport_index_2025-01-12,
 CN,GE,A,98,30,passport_index_2025-01-12,
-CN,GH,C,88,,passport_index_2025-01-12,
+CN,GH,D,78,,override:row33,"e-Visa (base data had visa-free, on-arrival or embassy visa)"
 CN,GM,E,8,,passport_index_2025-01-12,
 CN,GN,D,78,,passport_index_2025-01-12,
 CN,GQ,D,78,,passport_index_2025-01-12,
 CN,GR,E,8,,passport_index_2025-01-12,
 CN,GT,E,8,,passport_index_2025-01-12,
 CN,GW,C,88,,passport_index_2025-01-12,
-CN,GY,E,8,,passport_index_2025-01-12,
+CN,GY,D,78,,override:row33,"e-Visa (base data had visa-free, on-arrival or embassy visa)"
 CN,HK,E,8,,passport_index_2025-01-12,
 CN,HN,E,8,,passport_index_2025-01-12,
 CN,HR,E,8,,passport_index_2025-01-12,
@@ -7243,7 +7243,7 @@ CN,ID,C,88,,passport_index_2025-01-12,
 CN,IE,E,8,,passport_index_2025-01-12,
 CN,IL,E,8,,passport_index_2025-01-12,
 CN,IN,E,8,,passport_index_2025-01-12,
-CN,IQ,C,88,,passport_index_2025-01-12,
+CN,IQ,D,78,,override:row33,"e-Visa (base data had visa-free, on-arrival or embassy visa)"
 CN,IR,A,98,21,passport_index_2025-01-12,
 CN,IS,E,8,,passport_index_2025-01-12,
 CN,IT,E,8,,passport_index_2025-01-12,
@@ -7255,7 +7255,7 @@ CN,KG,D,78,,passport_index_2025-01-12,
 CN,KH,C,88,,passport_index_2025-01-12,
 CN,KI,A,98,90,passport_index_2025-01-12,
 CN,KM,C,88,,passport_index_2025-01-12,
-CN,KN,A,98,90,passport_index_2025-01-12,
+CN,KN,B,93,,override:row30,Visa-free but an electronic travel authorisation is required
 CN,KP,F,0,,override:row16,North Korea largely closed to tourism since 2020; only Russian tour groups admitted (judgement call)
 CN,KR,E,8,,override:row19,Korea C-3-9 tourist visa is applied for at an embassy or visa centre with financial documents; the e-visa is not open to ordinary individual tourists
 CN,KW,E,8,,passport_index_2025-01-12,
@@ -7264,7 +7264,7 @@ CN,LA,C,88,,passport_index_2025-01-12,
 CN,LB,C,88,,passport_index_2025-01-12,
 CN,LC,A,98,42,passport_index_2025-01-12,
 CN,LI,E,8,,passport_index_2025-01-12,
-CN,LK,C,88,,passport_index_2025-01-12,
+CN,LK,B,93,,override:row31,Sri Lanka free ETA for Chinese citizens
 CN,LR,E,8,,passport_index_2025-01-12,
 CN,LS,D,78,,passport_index_2025-01-12,
 CN,LT,E,8,,passport_index_2025-01-12,
@@ -7282,29 +7282,29 @@ CN,ML,E,8,,passport_index_2025-01-12,
 CN,MM,C,88,,passport_index_2025-01-12,
 CN,MN,D,78,,passport_index_2025-01-12,
 CN,MO,E,8,,passport_index_2025-01-12,
-CN,MR,C,88,,passport_index_2025-01-12,
+CN,MR,D,78,,override:row33,"e-Visa (base data had visa-free, on-arrival or embassy visa)"
 CN,MT,E,8,,passport_index_2025-01-12,
 CN,MU,A,98,90,passport_index_2025-01-12,
 CN,MV,A,98,30,passport_index_2025-01-12,
-CN,MW,A,98,30,passport_index_2025-01-12,
+CN,MW,D,78,,override:row33,"e-Visa (base data had visa-free, on-arrival or embassy visa)"
 CN,MX,E,8,,passport_index_2025-01-12,
 CN,MY,A,98,30,override:row5,China–Malaysia / Uzbekistan / Azerbaijan mutual visa exemption
-CN,MZ,A,98,30,passport_index_2025-01-12,
-CN,NA,E,8,,passport_index_2025-01-12,
+CN,MZ,B,93,,override:row30,Visa-free but an electronic travel authorisation is required
+CN,NA,D,78,,override:row33,"e-Visa (base data had visa-free, on-arrival or embassy visa)"
 CN,NE,E,8,,passport_index_2025-01-12,
 CN,NG,D,78,,passport_index_2025-01-12,
-CN,NI,E,8,,passport_index_2025-01-12,
+CN,NI,D,78,,override:row33,"e-Visa (base data had visa-free, on-arrival or embassy visa)"
 CN,NL,E,8,,passport_index_2025-01-12,
 CN,NO,E,8,,passport_index_2025-01-12,
 CN,NP,C,88,,passport_index_2025-01-12,
-CN,NR,E,8,,passport_index_2025-01-12,
+CN,NR,C,88,,override:row32,Visa on arrival
 CN,NZ,E,8,,passport_index_2025-01-12,
-CN,OM,C,88,,passport_index_2025-01-12,
+CN,OM,A,98,14,override:row27,Visa-free 14 days (Brunei mutual 2025; Oman with hotel booking; Philippines via Manila/Cebu)
 CN,PA,E,8,,passport_index_2025-01-12,
 CN,PE,E,8,,passport_index_2025-01-12,
-CN,PG,B,93,,passport_index_2025-01-12,
-CN,PH,E,8,,passport_index_2025-01-12,
-CN,PK,B,93,,passport_index_2025-01-12,
+CN,PG,D,78,,override:row33,"e-Visa (base data had visa-free, on-arrival or embassy visa)"
+CN,PH,A,98,14,override:row27,Visa-free 14 days (Brunei mutual 2025; Oman with hotel booking; Philippines via Manila/Cebu)
+CN,PK,D,78,,override:row33,"e-Visa (base data had visa-free, on-arrival or embassy visa)"
 CN,PL,E,8,,passport_index_2025-01-12,
 CN,PS,A,98,,passport_index_2025-01-12,
 CN,PT,E,8,,passport_index_2025-01-12,
@@ -7313,12 +7313,12 @@ CN,PY,E,8,,passport_index_2025-01-12,
 CN,QA,A,98,30,passport_index_2025-01-12,
 CN,RO,E,8,,passport_index_2025-01-12,
 CN,RS,A,98,30,passport_index_2025-01-12,
-CN,RU,A,98,30,override:row6,"Russia visa-free for Chinese citizens, 30 days (trial to 2026-09-14; check whether extended)"
+CN,RU,A,98,30,override:row35,"Russia visa-free for Chinese citizens, 30 days; trial extended to 2027-12-31"
 CN,RW,C,88,,passport_index_2025-01-12,
 CN,SA,C,88,,passport_index_2025-01-12,
-CN,SB,C,88,,passport_index_2025-01-12,
+CN,SB,A,98,30,override:row28,Visa-free 30 days
 CN,SC,A,98,90,passport_index_2025-01-12,
-CN,SD,E,8,,passport_index_2025-01-12,
+CN,SD,C,88,,override:row32,Visa on arrival
 CN,SE,E,8,,passport_index_2025-01-12,
 CN,SG,A,98,30,passport_index_2025-01-12,
 CN,SI,E,8,,passport_index_2025-01-12,
@@ -7326,37 +7326,37 @@ CN,SK,E,8,,passport_index_2025-01-12,
 CN,SL,C,88,,passport_index_2025-01-12,
 CN,SM,E,8,,passport_index_2025-01-12,
 CN,SN,C,88,,passport_index_2025-01-12,
-CN,SO,C,88,,passport_index_2025-01-12,
+CN,SO,D,78,,override:row33,"e-Visa (base data had visa-free, on-arrival or embassy visa)"
 CN,SR,A,98,30,passport_index_2025-01-12,
 CN,SS,D,78,,passport_index_2025-01-12,
 CN,ST,C,88,,passport_index_2025-01-12,
-CN,SV,D,78,,passport_index_2025-01-12,
+CN,SV,E,8,,override:row34,Visa required (El Salvador visa-free only with a qualifying US/Canada/Schengen visa)
 CN,SY,D,78,,passport_index_2025-01-12,
 CN,SZ,E,8,,passport_index_2025-01-12,
-CN,TD,E,8,,passport_index_2025-01-12,
+CN,TD,D,78,,override:row33,"e-Visa (base data had visa-free, on-arrival or embassy visa)"
 CN,TG,D,78,,passport_index_2025-01-12,
 CN,TH,A,98,30,override:row11,"Thailand bilateral visa exemption, 30 days"
 CN,TJ,D,78,,passport_index_2025-01-12,
 CN,TL,C,88,,passport_index_2025-01-12,
-CN,TM,E,8,,passport_index_2025-01-12,
+CN,TM,D,78,,override:row33,"e-Visa (base data had visa-free, on-arrival or embassy visa)"
 CN,TN,A,98,90,passport_index_2025-01-12,
-CN,TO,C,88,,passport_index_2025-01-12,
-CN,TR,D,78,,passport_index_2025-01-12,
-CN,TT,E,8,,passport_index_2025-01-12,
+CN,TO,A,98,,override:row29,China–Tonga mutual visa exemption for ordinary passports
+CN,TR,A,98,90,override:row25,"Türkiye visa-free for Chinese ordinary passports, 90 days in 180"
+CN,TT,D,78,,override:row33,"e-Visa (base data had visa-free, on-arrival or embassy visa)"
 CN,TV,C,88,,passport_index_2025-01-12,
 CN,TW,E,8,,passport_index_2025-01-12,
 CN,TZ,C,88,,passport_index_2025-01-12,
-CN,UA,E,8,,passport_index_2025-01-12,
+CN,UA,D,78,,override:row33,"e-Visa (base data had visa-free, on-arrival or embassy visa)"
 CN,UG,D,78,,passport_index_2025-01-12,
 CN,US,E,8,,passport_index_2025-01-12,
 CN,UY,E,8,,passport_index_2025-01-12,
 CN,UZ,A,98,30,override:row5,China–Malaysia / Uzbekistan / Azerbaijan mutual visa exemption
 CN,VA,E,8,,passport_index_2025-01-12,
 CN,VC,E,8,,passport_index_2025-01-12,
-CN,VE,E,8,,passport_index_2025-01-12,
+CN,VE,D,78,,override:row33,"e-Visa (base data had visa-free, on-arrival or embassy visa)"
 CN,VN,D,78,,passport_index_2025-01-12,
 CN,VU,A,98,120,passport_index_2025-01-12,
-CN,WS,C,88,,passport_index_2025-01-12,
+CN,WS,A,98,30,override:row28,Visa-free 30 days
 CN,XK,E,8,,passport_index_2025-01-12,
 CN,YE,E,8,,passport_index_2025-01-12,
 CN,ZA,D,78,,passport_index_2025-01-12,

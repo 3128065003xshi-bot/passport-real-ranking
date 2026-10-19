@@ -73,7 +73,7 @@ def ranking_chart(ranking):
     h = 230 + step * len(shown) + 50
     img = Image.new("RGB", (W, h), BG)
     d = ImageDraw.Draw(img)
-    y = title_block(d, "The top 16 passports are all European; the US is 42nd, China 116th",
+    y = title_block(d, "The top 16 passports are all European; the US is 42nd, China 109th",
                     "Passport score as % of the maximum (100 at all 199 destinations), 21 passports in rank order")
     y += 20
     for iso2 in shown:
