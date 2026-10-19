@@ -6,3 +6,5 @@ dist/
 *.log
 __pycache__/
 .venv/
+video/*.mp4
+video/still-*.png

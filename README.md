@@ -76,7 +76,7 @@ python3 scripts/build_tourism_score.py      # -> data/processed/tourism_scores.c
 python3 scripts/build_passport_ranking.py   # -> data/processed/passport_ranking.csv
 ```
 
-`scripts/make_header.py` redraws `assets/header.png` (3000×1200) and `scripts/make_x_assets.py` the article images in `assets/x/`, both from the ranking; they need Pillow and macOS's Helvetica Neue. `articles/x-article.html` is the article in a form that pastes cleanly into an X Article.
+`scripts/make_header.py` redraws `assets/header.png` (3000×1200) and `scripts/make_x_assets.py` the article images in `assets/x/`, both from the ranking; they need Pillow and macOS's Helvetica Neue. `scripts/make_video.py` renders a 1920×1080 countdown video of all 199 passports to `video/` (not committed; it also needs imageio-ffmpeg), using flags in `assets/flags/` from [flagcdn.com](https://flagcdn.com). `articles/x-article.html` is the article in a form that pastes cleanly into an X Article.
 
 Python 3 standard library only. Don't edit `data/processed/` by hand; change the inputs in `data/raw/` and rebuild.
 
