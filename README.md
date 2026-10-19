@@ -49,7 +49,11 @@ data/processed/visa_matrix_wide.csv     生成结果（宽表，199×199，方�
 | whs_cultural / natural / mixed | 世界遗产数量 | UNESCO 2024 名录 |
 | estimated | 该行哪些字段是人工估算 | `data/raw/manual_estimates.csv` |
 
-各指标权重草案在 `data/raw/indicator_weights.csv`。
+## 目的地旅游分数
+
+`python3 scripts/build_tourism_score.py` → `data/processed/tourism_scores.csv`。
+
+每项：`transform = log` 时先取 ln(1+x)，再在全部国家间 min-max 缩放到 0–100（`direction = lower` 时翻转），乘以权重/100 得到该项得分；各项相加即旅游分数（权重总和 100 时满分 100）。缺失值记 0 分并写在 `missing` 列。权重在 `data/raw/indicator_weights.csv`。
 
 ## 目录
 

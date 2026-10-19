@@ -1,11 +1,11 @@
 field,weight,direction,transform,note
-gdp_usd_bn,15,higher,log,总 GDP；对数缩放，避免美中把其他国家压扁
-gdp_per_capita_usd,10,higher,log,人均 GDP
-cities_1m_plus,5,higher,log,100 万+ 城市数
-cities_5m_plus,5,higher,log,500 万+ 城市数
-cities_10m_plus,5,higher,log,1000 万+ 城市数
+gdp_usd_bn,35,higher,log,总 GDP
 tourist_arrivals_m,15,higher,log,每年入境游客（2019 年，疫情前）
-price_level_us100,5,lower,linear,物价指数，越便宜越加分（可改成 higher 或权重 0）
-crime_index,15,lower,linear,犯罪指数，越低越好
-nature_score,12.5,higher,linear,自然风光推荐指数
-culture_score,12.5,higher,linear,人文景点推荐指数
+crime_index,5,lower,linear,犯罪指数，越低越好
+nature_score,10,higher,linear,自然风光推荐指数
+culture_score,10,higher,linear,人文景点推荐指数
+gdp_per_capita_usd,5,higher,log,人均 GDP
+cities_1m_plus,3.3333,higher,log,100 万+ 城市数
+cities_5m_plus,3.3333,higher,log,500 万+ 城市数
+cities_10m_plus,3.3334,higher,log,1000 万+ 城市数
+price_level_us100,10,lower,log,物价指数，越便宜分越高
