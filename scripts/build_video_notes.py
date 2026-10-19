@@ -58,10 +58,12 @@ for (p, d), c in code.items():
     dest_visa[d].append(c in VISA)
 closed = {d for d, v in dest_visa.items() if sum(v) / len(v) >= CLOSED}
 
-REGIONS = [("Europe", "欧洲"), ("Asia", "亚洲"), ("Americas", "美洲"), ("Africa", "非洲"), ("Oceania", "大洋")]
+REGIONS = [("Europe", "欧洲", "Europe"), ("Asia", "亚洲", "Asia"), ("Americas", "美洲", "Americas"),
+           ("Africa", "非洲", "Africa"), ("Oceania", "大洋", "Oceania")]
 LATAM = set("MX GT BZ HN SV NI CR PA CU DO HT CO VE EC PE BO BR PY UY AR CL GY SR".split())
 SCHENGEN_PROXY = "FR"   # every Schengen state applies the same short-stay list
 CHIP_ZH = {"S": "自由流动", "A": "免签", "B": "电子授权", "C": "落地签", "D": "电子签", "E": "需签证", "F": "禁止入境"}
+CHIP_EN = {"S": "Free move", "A": "Visa-free", "B": "eTA", "C": "On arrival", "D": "e-Visa", "E": "Visa", "F": "Banned"}
 CHIP_B = {"US": "ESTA", "GB": "ETA", "CA": "eTA", "KR": "K-ETA"}
 # China's ordinary-passport visa-free lists (Visa policy of mainland China, Oct 2026).
 CN_TEMPORARY = set("AT BE BG HR CY DK EE FI FR DE GR HU IE IT LV LU MT NL PL PT RO SK SI ES SE "
@@ -104,32 +106,37 @@ def headline(p):
     return f"仅{z}等少数国家需签证", f"Visa only for {e} & a few more"
 
 
-def regions(p):
+def regions(p, lang="zh"):
     out = []
-    for region, label in REGIONS:
+    for region, label_zh, label_en in REGIONS:
         ds = [d for d, c in countries.items() if c.get("region") == region and c["include"] == "1" and d != p]
         if ds:
             share = sum(code.get((p, d)) in NO_VISA for d in ds if (p, d) in code) / len(ds)
-            out.append(f"{label}:{round(100 * share)}")
+            out.append(f"{label_zh if lang == 'zh' else label_en}:{round(100 * share)}")
     return ";".join(out)
 
 
-def chip(p, d, label):
+def chip(p, d, label, lang="zh"):
     if d == p:
-        return f"{label}|本国|-"
+        return f"{label}|{'本国' if lang == 'zh' else 'Home'}|-"
     c = code[p, d]
-    text = CHIP_B.get(d, CHIP_ZH["B"]) if c == "B" else CHIP_ZH[c]
+    names = CHIP_ZH if lang == "zh" else CHIP_EN
+    text = CHIP_B.get(d, names["B"]) if c == "B" else names[c]
     return f"{label}|{text}|{c}"
 
 
-def chips(p):
-    out = [chip(p, "CN", "中国"), chip(p, "US", "美国")]
-    out.append("申根|自由流动|S" if "EU_EEA_CH" in groups_of[p] else chip(p, SCHENGEN_PROXY, "申根"))
-    out += [chip(p, "JP", "日本"), chip(p, "GB", "英国")]
+def chips(p, lang="zh"):
+    L = {"CN": ("中国", "China"), "US": ("美国", "US"), "EU": ("申根", "Schengen"), "JP": ("日本", "Japan"),
+         "GB": ("英国", "UK"), "LA": ("拉美", "LatAm")}
+    lab = {k: v[0] if lang == "zh" else v[1] for k, v in L.items()}
+    out = [chip(p, "CN", lab["CN"], lang), chip(p, "US", lab["US"], lang)]
+    free_move = "自由流动" if lang == "zh" else "Free move"
+    out.append(f"{lab['EU']}|{free_move}|S" if "EU_EEA_CH" in groups_of[p] else chip(p, SCHENGEN_PROXY, lab["EU"], lang))
+    out += [chip(p, "JP", lab["JP"], lang), chip(p, "GB", lab["GB"], lang)]
     ds = [d for d in LATAM if d != p]
     n = sum(code[p, d] in NO_VISA for d in ds)
     share = n / len(ds)
-    out.append(f"拉美|{n}/{len(ds)}|{'A' if share >= 0.8 else 'C' if share >= 0.5 else 'D' if share >= 0.3 else 'E'}")
+    out.append(f"{lab['LA']}|{n}/{len(ds)}|{'A' if share >= 0.8 else 'C' if share >= 0.5 else 'D' if share >= 0.3 else 'E'}")
     return ";".join(out)
 
 
@@ -172,7 +179,8 @@ for r in ranking:
     hz, he = headline(p)
     sp = specials(p) + [("", ""), ("", "")]
     rows.append({"iso2": p, "rank": r["rank"], "headline_zh": hz, "headline_en": he, "regions": regions(p),
-                 "chips": chips(p), "special1_zh": sp[0][0], "special1_en": sp[0][1],
+                 "regions_en": regions(p, "en"), "chips": chips(p), "chips_en": chips(p, "en"),
+                 "special1_zh": sp[0][0], "special1_en": sp[0][1],
                  "special2_zh": sp[1][0], "special2_en": sp[1][1]})
 
 with open(PROC / "video_notes.csv", "w", newline="", encoding="utf-8") as f:

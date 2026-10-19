@@ -2,6 +2,7 @@
 
     python scripts/make_video.py                 # -> video/passport-real-ranking-2026.mp4 (1920x1080, 60 fps)
     python scripts/make_video.py --stills 0 60 250 268   # write PNG frames at those seconds instead
+    python scripts/make_video.py --lang en               # English-only version -> video/passport-real-ranking-2026-en.mp4
 
 Needs Pillow, imageio-ffmpeg (bundles ffmpeg) and macOS's Helvetica Neue + Hiragino Sans GB.
 Passports listed in SKIP are left out of the video (ranks are kept as in the data, so their slot is a gap).
@@ -35,7 +36,12 @@ CODE_COLOURS = {"S": (124, 92, 255), "A": (46, 189, 133), "B": (91, 192, 235), "
                 "D": (242, 140, 56), "E": (229, 72, 77), "F": (90, 90, 90)}
 CODE_NAMES = {"S": "Free movement 自由流动", "A": "Visa-free 免签", "B": "eTA 电子授权", "C": "On arrival 落地签",
               "D": "e-Visa 电子签", "E": "Visa 需签证", "F": "Banned 禁止"}
+CODE_NAMES_EN = {"S": "Free movement", "A": "Visa-free", "B": "eTA / ETA", "C": "Visa on arrival",
+                 "D": "e-Visa", "E": "Visa required", "F": "Banned"}
 GITHUB = "github.com/3128065003xshi-bot/passport-real-ranking"
+AS_OF = "Data as of October 2026 · updated monthly"
+LANG = "zh"   # "en" renders the English-only version (set by --lang)
+SHORT_REGION_EN = {"Europe": "Eur", "Asia": "Asia", "Americas": "Amer", "Africa": "Afr", "Oceania": "Oce"}
 
 LATIN = "/System/Library/Fonts/HelveticaNeue.ttc"
 CJK = "/System/Library/Fonts/Hiragino Sans GB.ttc"
@@ -94,7 +100,8 @@ def draw_pills(d, x, y, w, h, regions, size, short=False):
     short=True uses one-character labels (欧 亚 美 非, 大洋) for narrow cards."""
     items = [r.split(":") for r in regions.split(";") if r]
     if short:
-        items = [(label if label == "大洋" else label[0], pct) for label, pct in items]
+        items = [(SHORT_REGION_EN.get(label) or (label if label == "大洋" else label[0]), pct) for label, pct in items]
+    font = latin if LANG == "en" else cjk
     gap = 5
     pw = (w - gap * (len(items) - 1)) / len(items)
     for i, (label, pct) in enumerate(items):
@@ -102,7 +109,7 @@ def draw_pills(d, x, y, w, h, regions, size, short=False):
         col = share_colour(int(pct))
         d.rounded_rectangle((px, y, px + pw, y + h), radius=h // 2, fill=mix(PANEL, col, 0.30), outline=col, width=1)
         text = f"{label} {pct}%"
-        f = fit(d, text, cjk, pw - 8, size, 11)
+        f = fit(d, text, font, pw - 8, size, 11)
         centred(d, px + pw / 2, y + (h - f.size) / 2 - 1, text, f, INK)
 
 
@@ -117,7 +124,7 @@ def draw_chips(d, x, y, w, h, chips, cols, size, row_gap=6):
         col = CODE_COLOURS.get(code, (110, 120, 135))
         d.rounded_rectangle((cx0, cy0, cx0 + cw, cy0 + h), radius=7, fill=mix(PANEL, col, 0.32), outline=col, width=2)
         t = f"{label} {text}"
-        f = fit(d, t, lambda s: cjk(s, True), cw - 10, size, 11)
+        f = fit(d, t, (lambda s: latin(s, MEDIUM)) if LANG == "en" else (lambda s: cjk(s, True)), cw - 10, size, 11)
         centred(d, cx0 + cw / 2, cy0 + (h - f.size) / 2 - 1, t, f, INK)
 
 
@@ -150,10 +157,13 @@ def make_card(r, codes, note):
     centred(d, bx + bw / 2 + 6, by + bh - 34, name_up, fit(d, name_up, lambda s: latin(s, MEDIUM), bw - 30, 15), GOLD)
 
     # Names, score.
-    centred(d, cx, 292, r["name_zh"], fit(d, r["name_zh"], lambda s: cjk(s, True), CARD_W - 30, 38), INK)
-    centred(d, cx, 340, r["name_en"], fit(d, r["name_en"], latin, CARD_W - 30, 24), QUIET)
+    if LANG == "en":
+        centred(d, cx, 302, r["name_en"], fit(d, r["name_en"], lambda s: latin(s, BOLD), CARD_W - 30, 36), INK)
+    else:
+        centred(d, cx, 292, r["name_zh"], fit(d, r["name_zh"], lambda s: cjk(s, True), CARD_W - 30, 38), INK)
+        centred(d, cx, 340, r["name_en"], fit(d, r["name_en"], latin, CARD_W - 30, 24), QUIET)
     centred(d, cx, 372, f"{one_dp(r['pct_of_max'])}%", latin(56, BOLD), medal or INK)
-    centred(d, cx, 434, "of max score · 满分占比", cjk(17), QUIET)
+    centred(d, cx, 434, "of max score" if LANG == "en" else "of max score · 满分占比", cjk(17), QUIET)
 
     # Entry-type mix across all destinations.
     x0, bar_w, y = 22, CARD_W - 44, 466
@@ -165,9 +175,20 @@ def make_card(r, codes, note):
             d.rectangle((x, y, x + w, y + 20), fill=colour)
         x += w
     no_visa = sum(codes.get(c, 0) for c in "SABC")
-    centred(d, cx, y + 28, f"No visa · 无需签证  {no_visa} / 198", cjk(18), QUIET)
+    centred(d, cx, y + 28, f"No visa needed: {no_visa} / 198" if LANG == "en" else f"No visa · 无需签证  {no_visa} / 198",
+            latin(18) if LANG == "en" else cjk(18), QUIET)
 
-    if note:
+    if note and LANG == "en":
+        d.line((30, 526, CARD_W - 30, 526), fill=(52, 68, 92), width=2)
+        centred(d, cx, 540, note["headline_en"], fit(d, note["headline_en"], lambda s: latin(s, BOLD), CARD_W - 24, 19, 12), GOLD)
+        draw_pills(d, 14, 576, CARD_W - 28, 28, note["regions_en"], 15, short=True)
+        draw_chips(d, 14, 614, CARD_W - 28, 30, note["chips_en"], 2, 16)
+        y = 738
+        for k in ("special1", "special2"):
+            if note[k + "_en"]:
+                centred(d, cx, y, note[k + "_en"], fit(d, note[k + "_en"], latin, CARD_W - 24, 17, 11), GOLD)
+                y += 34
+    elif note:
         d.line((30, 526, CARD_W - 30, 526), fill=(52, 68, 92), width=2)
         centred(d, cx, 536, note["headline_zh"], fit(d, note["headline_zh"], lambda s: cjk(s, True), CARD_W - 24, 20), GOLD)
         centred(d, cx, 563, note["headline_en"], fit(d, note["headline_en"], latin, CARD_W - 24, 15, 11), INK)
@@ -185,6 +206,17 @@ def make_card(r, codes, note):
 def make_frame_base():
     base = Image.new("RGB", (W, H), BG)
     d = ImageDraw.Draw(base)
+    if LANG == "en":
+        d.text((48, 34), "PASSPORT REAL RANKING 2026", font=latin(46, BOLD), fill=INK)
+        d.text((50, 100), "Passports weighted by how much each destination is worth", font=latin(26), fill=QUIET)
+        d.text((W - 48 - d.textlength(AS_OF, font=latin(26, MEDIUM)), 46), AS_OF, font=latin(26, MEDIUM), fill=GOLD)
+        x, y = 48, 1010
+        for code, colour in CODE_COLOURS.items():
+            d.rectangle((x, y + 4, x + 22, y + 26), fill=colour)
+            d.text((x + 30, y + 1), CODE_NAMES_EN[code], font=latin(22), fill=QUIET)
+            x += 34 + d.textlength(CODE_NAMES_EN[code], font=latin(22)) + 30
+        d.text((W - 48 - d.textlength(GITHUB, font=latin(24)), 106), GITHUB, font=latin(24), fill=QUIET)
+        return base
     d.text((48, 34), "PASSPORT REAL RANKING 2026", font=latin(46, BOLD), fill=INK)
     d.text((48 + d.textlength("PASSPORT REAL RANKING 2026", font=latin(46, BOLD)) + 28, 38),
            "护照真实含金量排行榜", font=cjk(40, True), fill=GOLD)
@@ -203,6 +235,15 @@ def make_frame_base():
 def make_intro():
     img = Image.new("RGB", (W, H), BG)
     d = ImageDraw.Draw(img)
+    if LANG == "en":
+        centred(d, W / 2, 230, "PASSPORT REAL RANKING 2026", latin(96, BOLD), INK)
+        centred(d, W / 2, 380, "Not how many countries you can enter, but how much they are worth.", latin(42), INK)
+        centred(d, W / 2, 480, "Passport score = Σ  ease of entry × destination tourism score", latin(36), QUIET)
+        centred(d, W / 2, 530, "199 passports · 199 destinations · 10 destination indicators", latin(30), QUIET)
+        d.rounded_rectangle((W / 2 - 430, 640, W / 2 + 430, 730), radius=20, fill=PANEL, outline=GOLD, width=2)
+        centred(d, W / 2, 664, "Data as of October 2026  ·  Updated monthly", latin(40, MEDIUM), GOLD)
+        centred(d, W / 2, 880, GITHUB, latin(30), QUIET)
+        return img
     centred(d, W / 2, 250, "PASSPORT REAL RANKING 2026", latin(92, BOLD), INK)
     centred(d, W / 2, 370, "护照真实含金量排行榜", cjk(80, True), GOLD)
     centred(d, W / 2, 520, "Not how many countries you can enter, but how much they are worth.", latin(40), INK)
@@ -226,7 +267,11 @@ def scroll_offset(t, distance):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--stills", nargs="*", type=float, help="write PNG frames at these seconds instead of the video")
+    ap.add_argument("--lang", choices=["zh", "en"], default="zh", help="zh = bilingual (default), en = English only")
     args = ap.parse_args()
+    global LANG
+    LANG = args.lang
+    suffix = "" if LANG == "zh" else "-en"
 
     with open(PROC / "passport_ranking.csv", encoding="utf-8-sig") as f:
         ranking = sorted((r for r in csv.DictReader(f) if r["iso2"] not in SKIP), key=lambda r: -int(r["rank"]))
@@ -262,14 +307,14 @@ def main():
     if args.stills is not None:
         OUT.mkdir(exist_ok=True)
         for s in args.stills:
-            frame(min(s, total - 1 / FPS)).save(OUT / f"still-{s:g}s.png")
+            frame(min(s, total - 1 / FPS)).save(OUT / f"still{suffix}-{s:g}s.png")
         print(f"{len(args.stills)} stills -> {OUT}")
         return
 
     import imageio_ffmpeg
 
     OUT.mkdir(exist_ok=True)
-    path = OUT / "passport-real-ranking-2026.mp4"
+    path = OUT / f"passport-real-ranking-2026{suffix}.mp4"
     writer = imageio_ffmpeg.write_frames(str(path), (W, H), fps=FPS, codec="libx264", quality=None, macro_block_size=1,
                                          output_params=["-crf", "20", "-preset", "medium", "-pix_fmt", "yuv420p"])
     writer.send(None)
