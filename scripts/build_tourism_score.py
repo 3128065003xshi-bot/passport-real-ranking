@@ -1,6 +1,6 @@
 """Score each destination from data/processed/country_indicators.csv using data/raw/indicator_weights.csv.
 
-Per field: transform (log = ln(1 + x), sqrt = square root, linear = as is), min-max scale across all countries to 0-100
+Per field: clip at `cap` if set, transform (log = ln(1 + x), sqrt = square root, linear = as is), min-max scale across all countries to 0-100
 (flipped when direction = lower), then multiply by weight / 100. The tourism score is
 the sum of those points, so it is 0-100 when the weights add up to 100.
 A missing value scores 0 and is listed in the `missing` column.
@@ -32,10 +32,11 @@ if abs(total_weight - 100) > 0.01:
 out = [{"iso2": r["iso2"], "name_zh": r["name_zh"], "name_en": r["name_en"], "missing": []} for r in rows]
 for w in weights:
     field, weight = w["field"], float(w["weight"])
+    cap = float(w["cap"]) if w.get("cap") else math.inf
     values = []
     for r in rows:
         v = None if r[field] == "" else float(r[field])
-        values.append(None if v is None else TRANSFORMS[w["transform"]](v))
+        values.append(None if v is None else TRANSFORMS[w["transform"]](min(v, cap)))
     present = [v for v in values if v is not None]
     lo, hi = min(present), max(present)
     for o, v in zip(out, values):

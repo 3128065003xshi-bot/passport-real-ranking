@@ -53,7 +53,7 @@ data/processed/visa_matrix_wide.csv     生成结果（宽表，199×199，方�
 
 `python3 scripts/build_tourism_score.py` → `data/processed/tourism_scores.csv`。
 
-每项：先按 `transform` 变换（`log` = ln(1+x)，`sqrt` = 平方根，介于对数和线性之间；`linear` = 原值），然后在全部国家间 min-max 缩放到 0–100（`direction = lower` 时翻转），乘以权重/100 得到该项得分；各项相加即旅游分数（权重总和 100 时满分 100）。缺失值记 0 分并写在 `missing` 列。权重在 `data/raw/indicator_weights.csv`。
+每项：先按 `cap` 封顶（如人均 GDP 超过 10 万美元按 10 万算），再按 `transform` 变换（`log` = ln(1+x)，`sqrt` = 平方根，介于对数和线性之间；`linear` = 原值），然后在全部国家间 min-max 缩放到 0–100（`direction = lower` 时翻转），乘以权重/100 得到该项得分；各项相加即旅游分数（权重总和 100 时满分 100）。缺失值记 0 分并写在 `missing` 列。权重在 `data/raw/indicator_weights.csv`。
 
 ## 目录
 
